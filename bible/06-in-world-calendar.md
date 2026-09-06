@@ -23,7 +23,7 @@ the same day.
 
 **Format.** One `## <Month>, 4713 AR` heading per month (`## Neth, 4713 AR`), then one bullet
 per recorded day: the day's number in bold, then an em-dash, then the entry —
-`- **14th** — The **Southshore** watched from **Cinder Row** until dusk.` A wrapped continuation
+`- **14th** — The **South Bank** watched from **Cinder Row** until dusk.` A wrapped continuation
 line is indented. Third person, **bold** proper names, ***italic*** relics and spells, no
 mechanics. (The example is written inline here on purpose: a real heading in this file, even
 inside a code fence, is read by the build as a month.)

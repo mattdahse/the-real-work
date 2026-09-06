@@ -16,7 +16,7 @@ same world, and the two archives should read as one hand.
   whoever is standing in Drezen to keep the road open, the shrine supplied, and the city fed. The
   company are those people — 1st level, unaffiliated, and picked for it.
 - **Scope:** Book I, *The Marchlands Commission* — the commissions one after another, beginning
-  with the Southshore job.
+  with the South Bank job.
 - **Party moniker:** none yet. Record it here when the table settles one.
 
 ### The Company (player → character)

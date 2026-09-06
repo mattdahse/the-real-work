@@ -1,6 +1,6 @@
 ---
 name: real-work-chronicle
-description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Theep Gvosh, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Snicker) or its jobs (the Southshore job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's Southshore or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
+description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Theep Gvosh, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Snicker) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
 ---
 
 # The Real Work → Repo & Site
@@ -210,7 +210,7 @@ before publishing. A chapter-opening illustration goes between the subtitle line
 ## Canon spellings
 
 Theep Gvosh, Snicker, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Mira
-Thistledance, Elara Dawnstrider, Drezen, the Southshore, Cinder Row, Lupenor's Market, Iomedae's
+Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
 Preservers, Rothin Vald, the Hidden Temple of Sarenrae. Transcripts will drift (Teep, Wendy,
 Espar, Jools, Dorough, Thistledance/Thistledown) — fix all of them. Add settled spellings here as
 the table produces them.

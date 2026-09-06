@@ -87,7 +87,7 @@ directly. The portraits in `characters/` are the untreated paintings, which is w
 > *[the paint override block above]*
 >
 > Cinematic painterly fantasy illustration, semi-realistic. **[SUBJECT — pull the likeness anchors
-> from `characters/CANON.md`]**, **[action / pose]**, in **[setting: a Southshore yard at dusk, a
+> from `characters/CANON.md`]**, **[action / pose]**, in **[setting: a South Bank yard at dusk, a
 > cellar, the empty western road]**. Dramatic low-key lighting, strong rim light from **[single
 > source]**, muted earthy palette with a single luminous **[accent from the table above]**.
 > **[EYELINE — what this figure is looking at, named explicitly]**, **[INNER STATE — two or three

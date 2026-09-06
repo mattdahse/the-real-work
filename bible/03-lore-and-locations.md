@@ -22,7 +22,7 @@ the road between them on a thread. That is where the company comes in.
   Drezen. Elara Dawnstrider calls its recruits.
 - **The temple of Sarenrae** and **the temple of the united faiths** — across the way from each
   other; Varic Sarian's foundation and Sosiel Vaenic's.
-- **The Southshore** — a quarter of scrap yards and rope-walks that spent seventy years under
+- **The South Bank** — a quarter of scrap yards and rope-walks that spent seventy years under
   demon rule and has not been searched. **Cinder Row** runs through it.
 - **The western road** — two days on foot from Drezen to the Fane, with nothing on it.
 - **The Hidden Temple of Sarenrae** (the Sarian Fane) — Rothin Vald's outpost two days west.
