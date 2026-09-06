@@ -48,7 +48,7 @@ favicon.ico, apple-touch-icon.png   rasterised from favicon.svg by make-favicon.
 The reader, the build and the calendar extractor are **copies of The Fifth Crusade's**, taken on
 5 September 2026. The two sites are meant to look and behave the same, so when the engine gains
 something over there, bring it across here (and the other way). The only deliberate differences
-are the identity at the top of `index.html`, its accent colour (green here, crimson there), the
+are the identity at the top of `index.html` (including the sister-site line under the subtitle), its accent colour (green here, crimson there), the
 `CAST` and `PORTRAITS` blocks, the `$books` list and the secrets categories in `build.ps1`, and the
 campaign name in `extract-calendar.ps1`.
 
