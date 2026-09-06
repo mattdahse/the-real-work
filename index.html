@@ -1,0 +1,1446 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Real Work — Campaign Archive</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#2e5a3c">
+<style>
+  :root{
+    --bg:#f4ecd8; --bg2:#efe4c8; --ink:#2c2114; --ink-soft:#5c4a30;
+    --accent:#2e5a3c; --accent2:#9c6b1e; --rule:#c9b48a; --card:#fbf5e6;
+    --link:#2f5f40; --mark:#ffe08a; --markink:#3a2a00;
+    /* timeline: one line colour and one fill per book */
+    --tl1:#9c6b1e; --tl1f:rgba(156,107,30,.08); --tl1h:rgba(156,107,30,.17);
+    --tl2:#7a1e1e; --tl2f:rgba(122,30,30,.07);  --tl2h:rgba(122,30,30,.15);
+    --tl3:#3d6b4c; --tl3f:rgba(61,107,76,.08);  --tl3h:rgba(61,107,76,.17);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#1b160f; --bg2:#241d13; --ink:#e8dcc2; --ink-soft:#b9a884;
+      --accent:#8fc4a3; --accent2:#d9b46a; --rule:#4a3d28; --card:#241d14;
+      --link:#a3d1b3; --mark:#6a531c; --markink:#f6e8c4;
+      --tl1:#d9b46a; --tl1f:rgba(217,180,106,.09); --tl1h:rgba(217,180,106,.19);
+      --tl2:#d98a8a; --tl2f:rgba(217,138,138,.08); --tl2h:rgba(217,138,138,.17);
+      --tl3:#8ab99a; --tl3f:rgba(138,185,154,.09); --tl3h:rgba(138,185,154,.18);
+    }
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+    line-height:1.65;font-size:17px}
+  a{color:var(--link);text-decoration:none;border-bottom:1px dotted var(--link)}
+  a:hover{border-bottom-style:solid}
+  .wrap{max-width:820px;margin:0 auto;padding:1.5rem 1.15rem 5rem}
+  header.top{text-align:center;border-bottom:3px double var(--rule);padding-bottom:1rem;margin-bottom:1rem}
+  .kicker{letter-spacing:.28em;text-transform:uppercase;font-size:.68rem;color:var(--accent2)}
+  h1.site{font-size:2rem;margin:.25rem 0 .1rem;color:var(--accent);font-weight:700}
+  .site-sub{font-style:italic;color:var(--ink-soft);font-size:.98rem}
+  .searchbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:.7rem 0 .5rem;margin-bottom:.4rem;border-bottom:1px solid var(--rule)}
+  #q{width:100%;padding:.7rem .9rem;font-size:1.05rem;font-family:inherit;color:var(--ink);
+    background:var(--card);border:1px solid var(--rule);border-radius:8px;outline:none}
+  #q:focus{border-color:var(--accent2);box-shadow:0 0 0 2px rgba(156,107,30,.2)}
+  .tabs{display:flex;gap:.4rem;margin:.5rem 0 .2rem;flex-wrap:wrap}
+  .tab{cursor:pointer;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;padding:.3rem .7rem;
+    border:1px solid var(--rule);border-radius:20px;color:var(--ink-soft);background:var(--card);user-select:none}
+  .tab.active{color:#fff;background:var(--accent);border-color:var(--accent)}
+  @media (prefers-color-scheme: dark){ .tab.active{color:#1b160f} }
+  .hint{color:var(--ink-soft);font-size:.85rem;margin:.3rem 0 .8rem}
+  .booktitle{color:var(--accent2);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;
+    border-bottom:1px solid var(--rule);padding-bottom:.25rem;margin:1.6rem 0 .5rem;
+    display:flex;align-items:baseline;gap:.55rem;cursor:pointer;user-select:none}
+  .booktitle:hover{color:var(--accent)}
+  .booktitle .caret{flex:0 0 auto;font-size:.7rem;transition:transform .15s;display:inline-block}
+  .booktitle.open .caret{transform:rotate(90deg)}
+  .booktitle .bt{flex:1 1 auto}
+  .booktitle .ct{flex:0 0 auto;font-size:.72rem;letter-spacing:.06em;color:var(--ink-soft);font-style:italic;text-transform:none}
+  .entry{padding:.55rem .2rem;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;gap:1rem;align-items:baseline}
+  .entry:hover{background:var(--bg2)}
+  .entry .t{cursor:pointer;font-weight:600;color:var(--accent);border-bottom:0;text-decoration:none}
+  .entry .t:hover{text-decoration:underline;border-bottom:0}
+  .entry .t:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+  .entry .lead{flex:0 0 auto;min-width:4.6em;color:var(--accent2);font-style:italic;font-size:.82rem}
+  .entry .ttl{flex:1 1 auto}
+  .entry .d{color:var(--ink-soft);font-size:.82rem;font-style:italic;white-space:nowrap}
+  .chapkicker{text-align:center;letter-spacing:.2em;text-transform:uppercase;font-size:.72rem;color:var(--accent2);margin:.2rem 0 .1rem}
+  .snip{color:var(--ink-soft);font-size:.92rem;margin:.15rem 0 .1rem;line-height:1.5}
+  mark{background:var(--mark);color:var(--markink);border-radius:2px;padding:0 .1em}
+  .fathom{font-size:.78rem;white-space:nowrap}
+  /* reader */
+  #reader h2{font-size:1.7rem;color:var(--accent);text-align:center;margin:.3rem 0 .1rem;border:0}
+  #reader h3{font-size:1.06rem;color:var(--accent2);letter-spacing:.02em;margin:1.5rem 0 .3rem}
+  #reader p{margin:.6rem 0;text-align:justify}
+  #reader blockquote{margin:1rem 1.2rem;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--accent);
+    font-style:italic;color:var(--ink-soft)}
+  /* in-world letters: a document reproduced in its author's own hand, never in our prose voice.
+     Parchment is a physical object, so it stays warm in dark mode — only the glare comes down. */
+  /* the deep bottom padding is deliberate: she stopped because she was interrupted, and the
+     sheet should still show all the room she had left to finish in. */
+  #reader .letter{position:relative;margin:1.8rem 0;padding:2.1rem 2rem 9.5rem;
+    background:
+      radial-gradient(ellipse at 16% 10%, rgba(126,88,38,.14), transparent 56%),
+      radial-gradient(ellipse at 86% 84%, rgba(96,62,24,.17), transparent 58%),
+      radial-gradient(ellipse at 60% 45%, rgba(150,116,60,.08), transparent 70%),
+      linear-gradient(168deg,#f0e2c2,#e6d4ae 55%,#dcc79c);
+    color:#2b1f11;border:1px solid #c0a77a;border-radius:2px;
+    font-family:Luminari,"Old English Text MT","Blackadder ITC","IM FELL English","Baskerville Old Face",Palatino,Georgia,serif;
+    line-height:1.9;letter-spacing:.012em;
+    text-shadow:0 0 1px rgba(60,35,10,.32);
+    box-shadow:0 1px 0 rgba(0,0,0,.22),0 12px 30px rgba(0,0,0,.34),inset 0 0 52px rgba(120,80,32,.3)}
+  #reader .letter::before{content:"";position:absolute;inset:6px;border:1px solid rgba(110,78,34,.22);
+    border-radius:1px;pointer-events:none}
+  #reader .letter p{color:#2b1f11;margin:.85rem 0;text-align:left;text-indent:1.4em}
+  #reader .letter p:first-of-type{text-indent:0}
+  /* the letter stops mid-word because its author was interrupted, not because she trailed off.
+     Add nothing to the last line — an ellipsis would put a hesitation there that she never had. */
+  #reader .letter strong{color:#4a1d14;font-weight:600}
+  #reader .letter em{color:#3a2a17}
+  /* .hand — a second hand entirely: a mortal writing fast, in the open, propped against rock.
+     Legible where Jerribeth's is ornamental, unindented the way a man writes when he is not
+     composing, and finished — so it drops her deep unfinished margin, which was hers alone.
+     The stain in the top corner is canon: the sheet came out of the hoard stiff with blood. */
+  #reader .letter.hand{padding-bottom:2.6rem;
+    font-family:"Bradley Hand","Segoe Script","Lucida Handwriting","Apple Chancery","Chalkboard",
+      "Brush Script MT",cursive;
+    font-size:1.06em;line-height:1.85;letter-spacing:0;
+    text-shadow:0 0 1px rgba(50,30,12,.26);
+    background:
+      radial-gradient(ellipse at 84% 9%, rgba(104,38,22,.22), transparent 40%),
+      radial-gradient(ellipse at 16% 10%, rgba(126,88,38,.14), transparent 56%),
+      radial-gradient(ellipse at 86% 84%, rgba(96,62,24,.17), transparent 58%),
+      radial-gradient(ellipse at 60% 45%, rgba(150,116,60,.08), transparent 70%),
+      linear-gradient(168deg,#f0e2c2,#e6d4ae 55%,#dcc79c)}
+  #reader .letter.hand p{text-indent:0;margin:1.05rem 0}
+  @media (max-width:520px){ #reader .letter.hand{padding-bottom:2rem;font-size:1.02em} }
+  @media (prefers-color-scheme: dark){
+    #reader .letter{filter:brightness(.9) saturate(.94);
+      box-shadow:0 1px 0 rgba(0,0,0,.4),0 12px 32px rgba(0,0,0,.55),inset 0 0 52px rgba(110,72,28,.34)}
+  }
+  @media (max-width:520px){ #reader .letter{padding:1.4rem 1.15rem 6.5rem;line-height:1.8} }
+  /* a song, not a document: a printed broadside sheet hawked round the taverns, so it is
+     cheap PRESSED PAPER rather than the letters' vellum — cooler, flatter, rule-and-type
+     instead of a hand. Verses centred and numbered; the chorus is the room's part, so it
+     is set apart in its own banded panel. */
+  #reader .ballad{position:relative;margin:1.8rem 0;padding:2.4rem 1.5rem 2rem;
+    counter-reset:vs;text-align:center;
+    background:linear-gradient(162deg,#f8f2df,#f3ead2 58%,#eadfbd);
+    color:#2a2114;border-top:4px double #b09668;border-bottom:4px double #b09668;
+    box-shadow:0 8px 24px rgba(0,0,0,.16),inset 0 0 44px rgba(150,118,58,.13)}
+  #reader .ballad::before{content:"✦ ❦ ✦";display:block;color:#a07a3a;font-size:.72rem;
+    letter-spacing:.5em;margin:-1rem 0 1.2rem}
+  #reader .ballad .rdsub{color:#6f5a34;margin:0 0 1.4rem}
+  #reader .ballad .stanza{position:relative;max-width:36ch;margin:1.3rem auto;line-height:1.72}
+  #reader .ballad .stanza:not(.chorus){counter-increment:vs}
+  #reader .ballad .stanza:not(.chorus)::before{content:counter(vs);position:absolute;
+    left:-2.4rem;top:.15rem;font-size:.68rem;letter-spacing:.08em;color:#a98f5e}
+  /* the singer's first breath — the first stanza, whether or not a tune line precedes it.
+     There is no "first of class" selector, so both openings are named. */
+  #reader .ballad > .stanza:first-child::first-letter,
+  #reader .ballad > .rdsub + .stanza::first-letter{font-size:2.4em;line-height:.9;
+    color:#7a1e1e;padding-right:.04em;vertical-align:-.14em}
+  #reader .ballad .stanza.chorus{font-style:italic;color:#6b3a18;max-width:44ch;
+    padding:.85rem 1rem;background:rgba(160,122,52,.12);
+    border-top:1px solid rgba(140,105,50,.38);border-bottom:1px solid rgba(140,105,50,.38)}
+  #reader .ballad .stanza.chorus::after{content:"✦";display:block;color:#a07a3a;
+    font-size:.66rem;margin-top:.5rem}
+  #reader .ballad strong{color:#4a1d14;font-weight:600}
+  @media (prefers-color-scheme: dark){
+    #reader .ballad{filter:brightness(.9) saturate(.95);
+      box-shadow:0 8px 26px rgba(0,0,0,.5),inset 0 0 44px rgba(140,108,50,.16)}
+  }
+  @media (max-width:520px){
+    #reader .ballad{padding:2rem 1rem 1.6rem}
+    #reader .ballad .stanza{max-width:none}
+    #reader .ballad .stanza:not(.chorus)::before{display:none}
+  }
+  /* A bolded name that has a Personalities entry. Marked quietly on purpose: the name keeps
+     its own weight and ink colour, and only a faint dotted rule says it can be followed —
+     a chapter should still read as prose, not as a web page. */
+  #reader a.who{color:inherit;border-bottom:1px dotted var(--accent2);text-decoration:none}
+  #reader a.who:hover{border-bottom-style:solid;color:var(--link)}
+  #reader .letter a.who,#reader .ballad a.who{color:inherit;border-bottom-color:rgba(110,78,34,.5)}
+  #reader .ornament{text-align:center;color:var(--accent2);letter-spacing:.4em;margin:1rem 0}
+  #reader .rdsub{text-align:center;font-style:italic;color:var(--ink-soft);margin:.1rem 0 1rem}
+  #reader figure.fig{margin:1.6rem 0;text-align:center}
+  #reader figure.fig img{max-width:100%;height:auto;border:1px solid var(--rule);border-radius:6px;
+    box-shadow:0 3px 12px rgba(0,0,0,.22);transition:border-color .12s,box-shadow .12s}
+  #reader figure.fig img.zoomable:hover{border-color:var(--accent2);box-shadow:0 4px 18px rgba(0,0,0,.34)}
+  img.zoomable{cursor:zoom-in}
+  #reader figure.fig figcaption{font-style:italic;color:var(--ink-soft);font-size:.86rem;
+    margin:.5rem auto 0;max-width:44ch;line-height:1.45}
+  .backbar{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-bottom:.6rem}
+  /* the sticky copy of the chapter nav. It collapses entirely when empty, so every other
+     view keeps the header height it had before. */
+  #stickynav:empty{display:none}
+  #stickynav .backbar{margin:.5rem 0 .1rem}
+  /* On a phone the header is already most of the screen, so the buttons come out and a
+     horizontal swipe moves between chapters instead; the nav below the chapter stays. */
+  @media (max-width:640px){ #stickynav{display:none} }
+  .btn{cursor:pointer;font-size:.85rem;padding:.35rem .8rem;border:1px solid var(--rule);border-radius:20px;
+    background:var(--card);color:var(--accent);user-select:none}
+  .btn:hover{background:var(--bg2)}
+  .person{background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--accent);border-radius:5px;padding:.6rem .85rem;margin:.5rem 0;
+    transition:background .35s ease,box-shadow .35s ease}
+  /* landed here from a search result — hold the eye for a moment, then let go */
+  .person.found{background:var(--mark);color:var(--markink);box-shadow:0 0 0 2px var(--accent2)}
+  .person.found .rl,.person.found .nm{color:var(--markink)}
+  .person .nm{font-weight:700;color:var(--accent)}
+  .person .rl{font-size:.88rem;color:var(--ink-soft)}
+  .person .dead{color:var(--accent);font-size:.92em}
+  .person.haspic{display:flex;gap:.85rem;align-items:center}
+  .person .pface{width:66px;height:66px;object-fit:cover;object-position:top center;border-radius:6px;
+    border:1px solid var(--rule);box-shadow:0 1px 4px rgba(0,0,0,.28);flex:0 0 auto;transition:transform .12s}
+  .person .pface:hover{transform:scale(1.05)}
+  .person .pbody{flex:1 1 auto}
+  #lightbox{position:fixed;inset:0;z-index:50;background:rgba(10,7,3,.92);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.85rem;padding:2rem}
+  #lightbox.hidden{display:none}
+  #lightbox .lb-img{max-width:min(94vw,1180px);max-height:82vh;object-fit:contain;
+    border:1px solid var(--rule);border-radius:8px;box-shadow:0 10px 44px rgba(0,0,0,.6)}
+  #lightbox .lb-cap{color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:6px;
+    padding:.5rem .9rem;max-width:min(92vw,760px);text-align:center;font-size:.92rem;
+    font-style:italic;line-height:1.45}
+  #lightbox .lb-cap .nm{font-style:normal}
+  #lightbox .lb-close{position:absolute;top:1rem;right:1.3rem;color:#f4ecd8;font-size:1.7rem;cursor:pointer;line-height:1;user-select:none}
+  #lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);color:#f4ecd8;font-size:3rem;
+    cursor:pointer;user-select:none;padding:0 .6rem;opacity:.78}
+  #lightbox .lb-nav:hover{opacity:1}
+  #lightbox .lb-prev{left:.3rem}
+  #lightbox .lb-next{right:.3rem}
+  /* timeline — a stack of the crusade's days, journal to the left, chapters enclosing */
+  body.wide .wrap{max-width:1040px}
+  .tl{position:relative;padding:.5rem 0}
+  .tl-blocks{position:absolute;inset:0;z-index:0;pointer-events:none}
+  .tl-rows{position:relative;z-index:1;padding-right:12rem;pointer-events:none}   /* the chapters' label column */
+  .tl-row{display:flex;align-items:center;gap:1.2rem;min-height:2.8rem}
+  /* on a day held by several chapters the card spans them all: one day, divided.
+     The date sits at the card's head rather than its middle, where the line
+     between the chapters would otherwise be drawn straight through it. */
+  .tl-row.shared .tl-day{align-self:stretch;align-items:baseline;margin:.2rem 0;
+    box-shadow:0 0 0 4px var(--bg)}
+  .tl-j{flex:1 1 auto;min-width:0;max-width:52ch;margin-left:auto;pointer-events:auto;
+    text-align:right;font-size:.9rem;line-height:1.5;color:var(--ink-soft);padding:.6rem 0}
+  .tl-j em{color:var(--ink-soft);opacity:.8;font-size:.94em}
+  .tl-j strong{color:var(--ink);font-weight:600}
+  .tl-day{flex:0 0 13.5rem;display:flex;align-items:baseline;gap:.5rem;pointer-events:none;
+    background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:.4rem .65rem}
+  .tl-day .dn{font-weight:700;color:var(--accent);min-width:2.4em}
+  .tl-day .dm{font-size:.86rem}
+  .tl-day .dw{margin-left:auto;font-size:.7rem;font-style:italic;color:var(--ink-soft);white-space:nowrap}
+  .tl-row.quiet .tl-day{background:transparent;border-style:dotted}
+  .tl-row.quiet .dn,.tl-row.quiet .dm{opacity:.66;font-weight:400}
+  .tl-row.newmonth{margin-bottom:.9rem}   /* the stack is upside down: a month opens at its foot */
+  a.tl-ch{display:block;color:inherit;text-decoration:none}
+  .tl-ch:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+  .tl-ch{position:absolute;border:1px solid var(--tl1);background:var(--tl1f);
+    border-radius:8px;cursor:pointer;pointer-events:auto;overflow:hidden;transition:background .12s}
+  .tl-ch:hover{background:var(--tl1h)}
+  .tl-ch.b2{border-color:var(--tl2);background:var(--tl2f)}
+  .tl-ch.b2:hover{background:var(--tl2h)}
+  .tl-ch.b3{border-color:var(--tl3);background:var(--tl3f)}
+  .tl-ch.b3:hover{background:var(--tl3h)}
+  .tl-ch.approx{border-style:dashed}
+  .tl-ch .lab{position:absolute;top:0;right:0;bottom:0;width:11rem;overflow:hidden;
+    display:flex;flex-direction:column;justify-content:center;gap:.05rem;
+    padding:.15rem .1rem .15rem .7rem;border-left:1px solid var(--rule);line-height:1.2}
+  .tl-ch .lab .nu{font-size:.66rem;letter-spacing:.13em;text-transform:uppercase;color:var(--tl1)}
+  .tl-ch .lab .ti{font-size:.82rem;color:var(--link);font-style:italic}
+  .tl-ch:hover .lab .ti,.tl-ch:focus-visible .lab .ti{text-decoration:underline}
+  .tl-ch.b2 .lab .nu{color:var(--tl2)}
+  .tl-ch.b3 .lab .nu{color:var(--tl3)}
+  .tl-ch.tiny .lab{flex-direction:row;align-items:center;gap:.4rem;padding-top:0;padding-bottom:0}
+  .tl-ch.tiny .lab .ti{font-size:.74rem;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+  @media (max-width:900px){
+    .tl-rows{padding-right:5.4rem}
+    .tl-ch .lab{width:4.6rem;padding-left:.45rem}
+    .tl-ch .lab .ti{display:none}
+    .tl-ch:hover .lab .nu{text-decoration:underline}
+  }
+  @media (max-width:760px){
+    body.wide .wrap{max-width:820px}
+    /* stacked: the whole row becomes the day's own card, and the chapters divide the
+       rail beside it — so a shared day still reads as one day, not as two halves */
+    .tl-row{flex-direction:column-reverse;align-items:stretch;gap:.1rem;margin:.28rem 0;
+      background:var(--card);border:1px solid var(--rule);border-radius:6px;
+      box-shadow:0 0 0 4px var(--bg)}
+    .tl-row.quiet{background:transparent;border-style:dotted}
+    .tl-row.shared .tl-day{align-self:auto;margin:0;box-shadow:none}
+    .tl-day{flex:0 0 auto;background:transparent;border:0;box-shadow:none;padding:.4rem .65rem .1rem}
+    /* stacked, the journal sits inside the block: let the whole card be the tap target */
+    .tl-j{text-align:left;max-width:none;margin-left:0;padding:0 .7rem .45rem;pointer-events:none}
+    .tl-j:empty{padding:0}
+  }
+  /* ---------- Map ----------
+     One region per maps/*.md file. The art is a plain image; every place on it is HTML
+     positioned in percent, so a marker keeps its spot at any size and the labels stay
+     editable, searchable text rather than baked-in pixels. Marker colours are fixed
+     rather than themed: the map art is the same dark warm plate in light mode and dark. */
+  .map-tools{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:.2rem 0 .7rem}
+  .map-tools .sp{flex:1 1 auto}
+  .toggle{cursor:pointer;font-size:.76rem;letter-spacing:.04em;text-transform:uppercase;
+    padding:.28rem .7rem;border:1px solid var(--rule);border-radius:20px;
+    color:var(--ink-soft);background:var(--card);user-select:none;white-space:nowrap}
+  .toggle:hover{border-color:var(--accent2)}
+  .toggle.on{color:#fff;background:var(--accent);border-color:var(--accent)}
+  @media (prefers-color-scheme: dark){ .toggle.on{color:#1b160f} }
+  .zoomer{display:flex;gap:.2rem;align-items:center}
+  .zoomer .toggle{min-width:2.1rem;text-align:center;padding:.28rem .5rem;font-size:.9rem;line-height:1}
+  .map-frame{position:relative;overflow:hidden;border:1px solid var(--rule);border-radius:8px;
+    box-shadow:0 3px 14px rgba(0,0,0,.26);background:#140f09;touch-action:pan-y}
+  .map-frame.zoomed{cursor:grab;touch-action:none}
+  .map-frame.dragging{cursor:grabbing}
+  .map-stage{position:relative;transform-origin:0 0}
+  .map-stage img.plate{display:block;width:100%;height:auto;user-select:none;-webkit-user-drag:none}
+  /* the hex field, drawn in plate-percent space and stretched over the plate, so it needs no
+     recalculating when the frame resizes; the perspective is already baked into the geometry */
+  .hexlayer{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:.42}
+  .hexlayer path{fill:none;stroke:#ffeccb;stroke-width:1;stroke-linejoin:round}
+  .map-frame.no-hexes .hexlayer{display:none}
+  .mk{position:absolute;display:block;border:0;line-height:0;cursor:pointer;
+    transform:translate(-50%,-100%) scale(var(--k,1));transform-origin:50% 100%}
+  .mk.icon{transform:translate(-50%,-50%) scale(var(--k,1));transform-origin:50% 50%}
+  .mk svg{overflow:visible;filter:drop-shadow(0 2px 3px rgba(0,0,0,.65))}
+  .mk .staff{stroke:#efe0c2;stroke-width:1.7;stroke-linecap:round}
+  .mk .flag,.mk .disc{stroke:#1a1209;stroke-width:1.2}
+  .mk .glyph{fill:none;stroke:#140f07;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+  .mk .glyph.solid{fill:#140f07;stroke:none}
+  .mk .base{fill:rgba(0,0,0,.45)}
+  .mk-label{position:absolute;left:calc(50% + 1.55rem);top:.2rem;line-height:1.15;
+    font-size:.74rem;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;
+    color:#fdf3dd;text-shadow:0 1px 2px #000,0 0 6px rgba(0,0,0,.9);pointer-events:none;
+    transform:translateY(var(--dy,0px))}
+  .mk.icon .mk-label{left:50%;top:calc(50% + .75rem);transform:translate(-50%,var(--dy,0px))}
+  /* a place near the right edge hangs its name back over the map rather than off it */
+  .mk.lft .mk-label{left:auto;right:calc(50% + .45rem);text-align:right}
+  .mk.icon.lft .mk-label{left:50%;right:auto;text-align:center}
+  .mk:hover .flag,.mk:hover .disc{stroke:#fff3d6;stroke-width:2}
+  .mk:hover .mk-label{color:#fff}
+  .mk.sel .flag,.mk.sel .disc{stroke:#fff3d6;stroke-width:2.4}
+  .mk.sel svg{filter:drop-shadow(0 0 7px rgba(255,224,138,.95)) drop-shadow(0 2px 3px rgba(0,0,0,.7))}
+  .map-frame.no-names .mk-label{display:none}
+  /* Markers off is not the same as places off: the flag goes, the name stays and moves onto
+     the spot itself, since with no staff to explain it an offset label reads as misplaced.
+     Only the name is left clickable — the vanished flag must not keep an invisible target. */
+  .map-frame.no-marks .mk{pointer-events:none}
+  .map-frame.no-marks .mk svg{visibility:hidden}
+  .map-frame.no-marks .mk-label{left:50%;right:auto;top:100%;text-align:center;
+    transform:translate(-50%,calc(-50% + var(--dy,0px)));pointer-events:auto}
+  .map-frame.no-marks .mk.icon .mk-label{top:50%}
+  .map-frame.no-marks.no-names .mk{display:none}
+  .mk.sel .mk-label{color:#ffe6a8}
+  .map-legend{display:flex;flex-wrap:wrap;gap:.3rem .55rem;align-items:center;
+    font-size:.78rem;color:var(--ink-soft);margin:.55rem 0 .2rem}
+  .map-legend span{display:inline-flex;align-items:center;gap:.3rem}
+  .map-legend svg{width:15px;height:15px;overflow:visible}
+  .map-legend .glyph{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+  .map-legend .glyph.solid{stroke:none}
+  /* The legend is also the filter: a kind comes off the plate by its own key. */
+  .map-legend .lg{cursor:pointer;user-select:none;padding:.26rem .6rem .26rem .45rem;
+    border:1px solid transparent;border-radius:20px}
+  .map-legend .lg:hover{border-color:var(--rule);color:var(--ink)}
+  .map-legend .lg:focus-visible{outline:2px solid var(--accent2);outline-offset:1px}
+  .map-legend .lg.off{opacity:.4;text-decoration:line-through}
+  .map-legend .lgn{font-weight:400;opacity:.72;font-size:.92em}
+  /* A hidden kind takes its markers and its chips with it, so the list under the plate
+     always names exactly what is drawn on it. */
+  .hk-city .k-city,.hk-temple .k-temple,.hk-ruin .k-ruin,.hk-battle .k-battle,
+  .hk-lair .k-lair,.hk-water .k-water,.hk-peril .k-peril,.hk-camp .k-camp,
+  .hk-region .k-region,.hk-site .k-site{display:none}
+  .map-scale{font-size:.78rem;font-style:italic;color:var(--ink-soft);margin:.1rem 0 0}
+  .map-detail{background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--accent);
+    border-radius:6px;padding:.7rem .95rem;margin:.9rem 0 .2rem}
+  .map-detail .mdt{font-weight:700;color:var(--accent);font-size:1.05rem}
+  .map-detail .mdk{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent2);margin-left:.5rem}
+  .map-detail p{margin:.4rem 0;font-size:.95rem}
+  .map-detail .mdgo{font-size:.85rem;margin-top:.5rem}
+  .map-places{display:flex;flex-wrap:wrap;gap:.3rem;margin:.7rem 0 0}
+  .map-places a{font-size:.8rem;padding:.2rem .6rem;border:1px solid var(--rule);border-radius:20px;
+    background:var(--card);color:var(--ink-soft)}
+  .map-places a:hover,.map-places a.sel{color:var(--accent);border-color:var(--accent2)}
+  .mk-label.crowded{display:none}   /* no room for this name at this zoom; it returns when there is */
+  @media (max-width:760px){ .mk-label{font-size:.62rem;letter-spacing:.02em}
+    /* a legend entry is a control here, not a caption, so it wants a thumb-sized target */
+    .map-legend{gap:.35rem .4rem}
+    .map-legend .lg{padding:.42rem .7rem .42rem .5rem;border-color:var(--rule)} }
+  .map-pick{position:absolute;left:.5rem;bottom:.5rem;z-index:3;font-size:.75rem;
+    background:rgba(20,15,9,.9);color:#fdf3dd;border:1px solid #6b5a3a;border-radius:5px;
+    padding:.3rem .55rem;font-family:ui-monospace,Menlo,Consolas,monospace}
+  .catlabel{color:var(--accent2);font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;margin:1.3rem 0 .2rem}
+  /* The next-session band stands where the ✦ ❦ ✦ rule used to: it must still read as an
+     ornament under the title, so the notice is bracketed by hairline rules and diamonds. */
+  .nextses{display:flex;align-items:center;justify-content:center;gap:.55rem;margin:.55rem 0 .1rem}
+  .ns-line{flex:1 1 auto;max-width:6.5rem;height:0;border-top:1px solid var(--rule)}
+  .ns-orn{color:var(--accent2);font-size:.7rem;flex:0 0 auto;opacity:.85}
+  .ns-mid{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:.2rem .55rem}
+  .ns-k{letter-spacing:.24em;text-transform:uppercase;font-size:.62rem;color:var(--accent2)}
+  .ns-when{font-weight:600;font-size:.95rem;color:var(--ink)}
+  .ns-none{font-style:italic;font-size:.92rem;color:var(--ink-soft)}
+  .ns-rel{font-style:italic;font-size:.82rem;color:var(--ink-soft)}
+  .ns-rel.now{color:var(--accent);font-style:normal;letter-spacing:.06em;text-transform:uppercase;font-size:.68rem}
+  .ns-pill{font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;padding:.12rem .5rem;
+    border-radius:20px;background:var(--accent2);color:var(--bg);white-space:nowrap}
+  .ns-pill.online{background:var(--tl3)}
+  /* a table and a screen at once: the pill is halved, gold for the room, green for the call */
+  .ns-pill.hybrid{background:linear-gradient(100deg,var(--accent2) 48%,var(--tl3) 52%)}
+  .ns-where{font-size:.82rem;color:var(--ink-soft)}
+  /* Too narrow to bracket on one line — and a hybrid pill or a named place makes that wrap
+     sooner than a phone. Below this the flanking rules come away and the diamonds close around
+     the kicker instead, so they never float beside a stack. */
+  @media (max-width:760px){
+    .nextses{gap:0}
+    .ns-line,.nextses>.ns-orn{display:none}
+    .ns-k::before{content:'✦ '} .ns-k::after{content:' ✦'}
+    .ns-when{font-size:.88rem}
+  }
+  .hidden{display:none}
+  .count{color:var(--ink-soft);font-size:.85rem;margin:.2rem 0 .6rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="kicker">Pathfinder · Alongside the Fifth Crusade</div>
+    <h1 class="site">The Real Work</h1>
+    <div class="site-sub">A Chronicle of the Ground-Level Campaign at Drezen</div>
+    <div class="nextses" id="nextses"></div>
+  </header>
+
+  <div class="searchbar">
+    <input id="q" type="search" placeholder="Search chapters, lore and personalities — a name, a place, a battle…" autocomplete="off" spellcheck="false">
+    <div class="tabs" id="tabs">
+      <span class="tab active" data-view="contents">Chronicle</span>
+      <span class="tab" data-view="timeline">Timeline</span>
+      <span class="tab" data-view="cast">Personalities</span>
+      <span class="tab" data-view="map">Map</span>
+      <span class="tab" data-view="secrets">Lore</span>
+    </div>
+    <!-- Chapter nav rides inside the sticky header so it never scrolls out of reach.
+         Empty (and hidden) on every view except a reader. -->
+    <div id="stickynav"></div>
+  </div>
+
+  <div id="app"></div>
+</div>
+
+<div id="lightbox" class="hidden" onclick="if(event.target===this)closeLb()">
+  <span class="lb-close" title="Close" onclick="closeLb()">✕</span>
+  <span class="lb-nav lb-prev" title="Previous" onclick="stepLb(-1)">‹</span>
+  <img class="lb-img" src="" alt="">
+  <div class="lb-cap"></div>
+  <span class="lb-nav lb-next" title="Next" onclick="stepLb(1)">›</span>
+</div>
+
+<script src="data.js"></script>
+<script src="next-session.js"></script>
+<script>
+/* ---------- Fathom recordings now travel with each chapter (c.fathom) ---------- */
+
+var CAST = [
+ /* Hand-authored, not built. Entry shape: ['Name','one-line role'] or ['Name','role','dead'].
+    These are single-quoted JS strings: every apostrophe INSIDE a string must be a curly ’,
+    never a straight ', or the page breaks silently. */
+ {c:'The Company', people:[
+   ['Theep Gvosh','Tiefling evoker — ash-grey skin, short ram’s horns, and eyes with no whites. Everything in Drezen is lit by firelight; Theep is lit by his own hand, in a cold blue-white that nothing else uses.'],
+   ['Wende Sandhauler','A quarry dwarf: copper braids bound with steel rings and stone dust still worked into the creases of her knuckles. A dented chain shirt, a plain shield, a warhammer, and no interest in arguing further.'],
+   ['Esper Toevel','A human bard of the road rather than the court — green wool coat, tarnished brass buttons, an instrument kept close against his chest, and a mouth that is always about to say something.'],
+   ['Jules Arine','Priestess of Shelyn; dove-grey and rose over a padded gambeson, a silver-and-enamel songbird at her throat, and a glaive across her back almost as an afterthought. A working priest, not a prelate.'],
+   ['Dorogh Kell','A young half-orc fighter, bigger than a human and more orc than not, in an open nasal helm and plain round wire spectacles — trying, carefully, to look friendly, and aware of how that goes.'],
+   ['Snicker','Theep’s familiar: a tiny old monkey, ginger fur gone grey at the muzzle, watchful and entirely un-comic. A tripwire, a lockpick carrier, an early warning.'],
+ ]},
+ {c:'Employers', people:[
+   ['Mira Thistledance','The half-elf bard who keeps Lupenor’s Market and screens every trader seeking a stall — and who has work, now and then, for people with no company behind them.'],
+   ['Elara Dawnstrider','A young paladin who renounced her noble family; she calls the recruits of Iomedae’s Preservers and runs the order’s three-day trials.'],
+ ]},
+];
+
+/* ---------- Canonical character portraits (see characters/CANON.md) ----------
+   Keyed by the exact Cast name. The image is the source-of-truth likeness used
+   both here and as the reference for any generated art of that character. */
+var PORTRAITS = {
+ 'Theep Gvosh':'characters/theep-gvosh.webp',
+ 'Wende Sandhauler':'characters/wende-sandhauler.webp',
+ 'Esper Toevel':'characters/esper-toevel.webp',
+ 'Jules Arine':'characters/jules-arine.webp',
+ 'Dorogh Kell':'characters/dorogh-kell.webp',
+ 'Snicker':'characters/snicker.webp',
+};
+
+/* ---------- helpers ---------- */
+var app = document.getElementById('app');
+var qEl = document.getElementById('q');
+var chapters = window.CHAPTERS || [];
+var secrets = window.SECRETS || [];
+var CAL = window.CALENDAR || null;
+var JOURNAL = window.JOURNAL || [];
+chapters.forEach(function(c){ c._lc = (c.text||'').toLowerCase(); });
+secrets.forEach(function(s){ s._lc = (s.text||'').toLowerCase(); });
+
+/* The Personalities entries are searchable too — a lot of what the archive knows about a
+   minor character lives only in their entry, and it was invisible to the search box.
+   Flattened once here, with a slug so a result can link to the person and not just the tab. */
+function pslug(s){ return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''); }
+
+/* Alphabetical within each group, by the person's own name rather than by an honorific —
+   "Sir Brannic Vayne" files under B, "Brother Tomás" under T. Sorted once, in place, so the
+   Personalities page and the search index agree. Accents fold ("Tomás" sorts as Tomas). */
+var HONORIFIC = /^(?:the|sir|dame|lady|lord|brother|sister|father|mother|queen|king|captain|commander)\s+/i;
+function nameKey(n){ return n.replace(HONORIFIC, ''); }
+CAST.forEach(function(g){
+  g.people.sort(function(a,b){
+    return nameKey(a[0]).localeCompare(nameKey(b[0]), undefined, {sensitivity:'base'});
+  });
+});
+
+var PEOPLE = [];
+CAST.forEach(function(g){
+  g.people.forEach(function(p){
+    PEOPLE.push({ id:pslug(p[0]), title:p[0], group:g.c, dead:p[2]==='dead',
+                  text:p[0]+' — '+p[1], _lc:(p[0]+' '+p[1]).toLowerCase() });
+  });
+});
+
+/* ---------- names in the prose link to their entry ----------
+   The chronicle already bolds every proper noun, and about half of those spans name someone
+   with a Personalities entry — so the markup for this was written years ago and just wasn't
+   wired up. Only the FIRST mention in a document is linked: a chapter that linked every
+   "**Harlock**" would be a page of underlines rather than a page of prose. */
+var WHOIDX = (function(){
+  var idx = {}, firsts = {};
+  CAST.forEach(function(g){ g.people.forEach(function(p){
+    idx[p[0].toLowerCase()] = pslug(p[0]);
+    /* The prose calls people by whichever part of the name is natural — "Brannic", not "Sir
+       Brannic Vayne"; "Vorlesh" as often as "Areelu". So index both ends of the name, minus
+       any honorific. */
+    var parts = nameKey(p[0]).split(/[\s,]+/).filter(function(x){ return x.length > 2; });
+    [parts[0], parts[parts.length-1]].forEach(function(t){
+      if(!t) return;
+      t = t.toLowerCase();
+      firsts[t] = (firsts[t] === undefined || firsts[t] === pslug(p[0])) ? pslug(p[0]) : null;
+    });
+  }); });
+  /* An ambiguous given name is left unlinked rather than guessed at — "Elara" belongs to both
+     Elara Dawnstrider and Sister Elara, and picking one would send readers to the wrong woman. */
+  Object.keys(firsts).forEach(function(k){ if(firsts[k] && !idx[k]) idx[k] = firsts[k]; });
+  return idx;
+})();
+var WHOSEEN = null;    /* non-null only while a reader document renders; gates linking off elsewhere */
+function linkNames(html){
+  if(!WHOSEEN) return html;
+  return html.replace(/<strong>([^<>]{2,60})<\/strong>/g, function(m, txt){
+    var key = txt.toLowerCase().replace(/[’']s$/,'').replace(/[:,.;!?]+$/,'').trim();
+    var slug = WHOIDX[key];
+    if(!slug || WHOSEEN[slug]) return m;
+    WHOSEEN[slug] = 1;
+    return '<a class="who" href="#/who/'+slug+'" title="Who is this?">'+m+'</a>';
+  });
+}
+
+function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function inline(s){
+  s = esc(s);
+  s = s.replace(/\*\*\*(.+?)\*\*\*/g,'<strong><em>$1</em></strong>');
+  s = s.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
+  s = s.replace(/\*(.+?)\*/g,'<em>$1</em>');
+  return linkNames(s);
+}
+function mdToHtml(md){
+  WHOSEEN = {};   /* one document, one link per person; see linkNames above */
+  var blocks = md.split(/\n{2,}/), out=[], inBallad=false;
+  for(var i=0;i<blocks.length;i++){
+    var b = blocks[i].replace(/\s+$/,''); if(!b.trim()) continue;
+    var first = b.split('\n')[0].trim();
+    /* an in-world document reproduced verbatim — its author's own hand, not our narrating voice.
+       An optional variant names the hand: <!-- letter: hand --> for a mortal writing in the field. */
+    var lo = b.trim().match(/^<!--\s*letter(?:\s*:\s*([a-z][\w-]*))?\s*-->$/);
+    if(lo){ out.push('<div class="letter'+(lo[1]?' '+lo[1]:'')+'">'); continue; }
+    if(/^<!--\s*\/letter\s*-->$/.test(b.trim())){ out.push('</div>'); continue; }
+    /* a song, set as a broadside sheet: a blank line ends a stanza, and the line breaks
+       inside one are the song's own, so they are kept rather than reflowed as prose.
+       A stanza written as a blockquote is the chorus. */
+    if(/^<!--\s*ballad\s*-->$/.test(b.trim())){ inBallad = true; out.push('<div class="ballad">'); continue; }
+    if(/^<!--\s*\/ballad\s*-->$/.test(b.trim())){ inBallad = false; out.push('</div>'); continue; }
+    var im = b.trim().match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if(im){
+      var cap=im[1].trim(), src=im[2].trim();
+      out.push('<figure class="fig"><img src="'+esc(src)+'" alt="'+esc(cap)+'" loading="lazy">'
+        + (cap?('<figcaption>'+inline(cap)+'</figcaption>'):'') + '</figure>');
+      continue;
+    }
+    if(inBallad && !/^#{1,3}\s/.test(first) && !(/^\*[^*].*\*$/.test(b) && b.indexOf('\n')<0)){
+      var isChorus = /^>\s/.test(first);
+      var sung = b.replace(/^>\s?/gm,'').split('\n')
+        .map(function(l){ return inline(l.trim()); }).join('<br>');
+      out.push('<div class="stanza'+(isChorus?' chorus':'')+'">'+sung+'</div>');
+      continue;
+    }
+    if(/^###\s/.test(first)){ out.push('<h3>'+inline(b.replace(/^###\s*/,''))+'</h3>'); }
+    else if(/^##\s/.test(first)){ out.push('<h2>'+inline(b.replace(/^##\s*/,''))+'</h2>'); }
+    else if(/^#\s/.test(first)){ out.push('<h2>'+inline(b.replace(/^#\s*/,''))+'</h2>'); }
+    else if(/^>\s/.test(first)){ out.push('<blockquote>'+inline(b.replace(/^>\s?/gm,'').trim())+'</blockquote>'); }
+    else if(/^[✦✧❥☆★\s—-]+$/.test(b) && /[✦❥☆★]/.test(b)){ out.push('<div class="ornament">'+esc(b.trim())+'</div>'); }
+    else if(/^\*[^*].*\*$/.test(b) && b.indexOf('\n')<0){ out.push('<div class="rdsub">'+inline(b)+'</div>'); }
+    else { out.push('<p>'+inline(b.replace(/\n/g,' '))+'</p>'); }
+  }
+  var html = out.join('\n');
+  WHOSEEN = null;   /* leave linking off for the cast list, snippets and contents subtitles */
+  return html;
+}
+/* recording links removed — each chapter now lists its real-world play date (c.date) */
+
+/* ---------- views ---------- */
+function setTab(v){
+  document.querySelectorAll('.tab').forEach(function(t){ t.classList.toggle('active', t.dataset.view===v); });
+  document.body.classList.toggle('wide', v==='timeline' || v==='map');   /* these two want the room */
+}
+
+/* Books start collapsed; a book stays open once the reader opens it, and the book
+   holding the chapter you just read is expanded when you come back. */
+var OPEN_BOOKS = {};
+function toggleBook(bk){ OPEN_BOOKS[bk] = !OPEN_BOOKS[bk]; viewContents(true); }
+
+/* "October 17, 2024" -> "Oct 2024"; anything unparseable passes through. */
+function shortDate(d){
+  var m = (d||'').match(/^([A-Za-z]+)\s+\d{1,2},\s*(\d{4})$/);
+  return m ? m[1].slice(0,3)+' '+m[2] : (d||'');
+}
+/* Span of real-world play dates for a book. The final book is still being
+   played, so its range runs to "present" rather than the last session. */
+function bookRange(list, ongoing){
+  var dates = list.map(function(c){ return c.date; }).filter(Boolean);
+  if(!dates.length) return ongoing ? 'to present' : '';
+  var from = shortDate(dates[0]);
+  var to = ongoing ? 'present' : shortDate(dates[dates.length-1]);
+  return from===to ? from : from+' – '+to;
+}
+
+function viewContents(keepScroll){
+  setTab('contents');
+  var byBook = {};
+  chapters.forEach(function(c){ if(!byBook[c.book]) byBook[c.book]=[]; byBook[c.book].push(c); });
+  var html='';
+  var order = ['I','II','III'].filter(function(bk){ return byBook[bk]; });
+  var lastBook = order[order.length-1];
+  order.forEach(function(bk){
+    var list = byBook[bk];
+    var open = !!OPEN_BOOKS[bk];
+    html += '<div class="booktitle'+(open?' open':'')+'" onclick="toggleBook(\''+bk+'\')">'
+      + '<span class="caret">▶</span><span class="bt">'+esc(list[0].bookTitle)+'</span>'
+      + '<span class="ct">'+esc(bookRange(list, bk===lastBook))+'</span></div>';
+    if(!open) return;
+    list.forEach(function(c){
+      var lead = c.isEpilogue ? 'Epilogue' : c.num;
+      html += '<div class="entry"><span class="lead">'+esc(lead)+'</span><span class="ttl"><a class="t" href="#/read/'+c.id+'">'+esc(c.title)+'</a>'
+        + (c.subtitle?('<div class="snip">'+inline(c.subtitle)+'</div>'):'')
+        + '</span><span class="d">'+esc(c.date||'')+'</span></div>';
+    });
+  });
+  var hint = chapters.length
+    ? 'Pick a book to open its chapters, or type above to search the full text of all '+chapters.length+' chapters, '+secrets.length+' pieces of lore and '+PEOPLE.length+' personalities.'
+    : 'The chronicle has not begun. The first session\u2019s chapter goes in <code>source/</code>; rebuild <code>data.js</code> with <code>build.ps1</code> and it appears here.';
+  app.innerHTML = '<div class="hint">'+hint+'</div>'+html;
+  if(!keepScroll) window.scrollTo(0,0);
+}
+
+function viewCast(who){
+  setTab('cast');
+  var html='<div class="hint">The chronicle uses in-game names throughout. Tap a portrait to see it full-size.</div>';
+  CAST.forEach(function(g){
+    html += '<div class="catlabel">'+esc(g.c)+'</div>';
+    g.people.forEach(function(p){
+      var dead = p[2]==='dead' ? ' <span class="dead" title="Slain">☠</span>' : '';
+      var src = PORTRAITS[p[0]], thumb='';
+      if(src) thumb = '<img class="pface" src="'+esc(src)+'" alt="'+esc(p[0])+'" loading="lazy">';
+      html += '<div class="person'+(src?' haspic':'')+'" id="who-'+esc(pslug(p[0]))+'">'+thumb
+        + '<div class="pbody"><span class="nm">'+esc(p[0])+dead+'</span> — <span class="rl">'+inline(p[1])+'</span></div></div>';
+    });
+  });
+  app.innerHTML = html; bindLightbox();
+  /* Arriving from a search result: put that person on screen and mark them briefly, so the
+     eye lands on the row rather than on a wall of entries. */
+  var el = who && document.getElementById('who-'+who);
+  if(el){ el.scrollIntoView({block:'center'}); el.classList.add('found');
+          setTimeout(function(){ el.classList.remove('found'); }, 2600); }
+  else window.scrollTo(0,0);
+}
+
+/* ---------- lightbox ----------
+   Every image the app renders goes in, portrait and chapter plate alike: bindLightbox()
+   sweeps the freshly rendered view and collects its images in document order, so the arrows
+   walk the page you are actually looking at. Each caption is read from the markup already
+   beside the image — a figure's <figcaption>, a portrait's name and role — rather than
+   passed in, so there is one code path and nothing to keep in step. */
+var GALLERY = [];
+function bindLightbox(){
+  GALLERY = [];
+  Array.prototype.forEach.call(app.querySelectorAll('img'), function(img){
+    var i = GALLERY.length, p = img.parentNode;
+    var cap = p.querySelector('figcaption') || p.querySelector('.pbody');
+    GALLERY.push({src: img.getAttribute('src'), cap: cap ? cap.innerHTML : (img.alt ? esc(img.alt) : '')});
+    img.classList.add('zoomable');
+    img.addEventListener('click', function(){ openLb(i); });
+  });
+}
+function openLb(i){
+  var e = GALLERY[i]; if(!e) return;
+  var ov = document.getElementById('lightbox');
+  var im = ov.querySelector('.lb-img'), cp = ov.querySelector('.lb-cap');
+  im.src = e.src; im.alt = '';
+  cp.innerHTML = e.cap; cp.style.display = e.cap ? '' : 'none';
+  Array.prototype.forEach.call(ov.querySelectorAll('.lb-nav'), function(n){
+    n.style.display = GALLERY.length > 1 ? '' : 'none';   /* one image is not a gallery */
+  });
+  ov.dataset.i = i;
+  ov.classList.remove('hidden');
+  document.body.style.overflow = 'hidden';   /* don't scroll the page behind the plate */
+}
+function stepLb(d){
+  var ov=document.getElementById('lightbox'); if(ov.classList.contains('hidden')||!GALLERY.length) return;
+  var n=GALLERY.length, i=((parseInt(ov.dataset.i,10)+d)%n+n)%n; openLb(i);
+}
+function closeLb(){
+  document.getElementById('lightbox').classList.add('hidden');
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', function(e){
+  if(document.getElementById('lightbox').classList.contains('hidden')) return;
+  if(e.key==='Escape') closeLb();
+  else if(e.key==='ArrowLeft') stepLb(-1);
+  else if(e.key==='ArrowRight') stepLb(1);
+});
+
+function viewSecrets(){
+  setTab('secrets');
+  if(!secrets.length){ app.innerHTML = '<div class="hint">Nothing has been recorded here yet.</div>'; window.scrollTo(0,0); return; }
+  var html = '<div class="hint">The record beside the chronicle — what the company carried out of cellars and ruins, and the accounts of those who hired them.</div>';
+  // Grouped under the headings the build assigns from each file's name. Anything the build
+  // could not place still appears, under its own heading at the end, rather than vanishing.
+  var groups = [], byCat = {};
+  secrets.forEach(function(s){
+    var c = s.category || 'Other';
+    if(!byCat[c]){ byCat[c] = {c:c, o:(s.catOrder||99), items:[]}; groups.push(byCat[c]); }
+    byCat[c].items.push(s);
+  });
+  groups.sort(function(a,b){ return (a.o-b.o) || a.c.localeCompare(b.c); });
+  groups.forEach(function(g){
+    html += '<div class="catlabel">'+esc(g.c)+'</div>';
+    g.items.forEach(function(s){
+      html += '<div class="entry"><span class="ttl"><a class="t" href="#/secret/'+s.id+'">'+esc(s.title)+'</a>'
+        + (s.subtitle?('<div class="snip">'+inline(s.subtitle)+'</div>'):'')
+        + '</span></div>';
+    });
+  });
+  app.innerHTML = html; window.scrollTo(0,0);
+}
+function viewSecretReader(id){
+  document.body.classList.remove('wide');
+  var s = secrets.filter(function(x){return x.id===id;})[0]; if(!s){ viewSecrets(); return; }
+  var nav = '<div class="backbar"><span class="btn" onclick="history.back()">← Back</span><span></span></div>';
+  setStickyNav(nav);   /* Back stays reachable here too; a lore document can run long */
+  app.innerHTML = '<div id="reader"><div class="chapkicker">Lore</div>'+ mdToHtml(s.md) + '</div>' + nav;
+  bindLightbox(); window.scrollTo(0,0);
+}
+/* ---------- Timeline ----------
+   The crusade's days in a single stack, newest at the head and Armasse at the foot: the kept
+   journal to the left of each day, and the chapters drawn as blocks that enclose the days they
+   cover. A day held by more than one chapter is divided between their blocks, the later chapter
+   taking the upper share — so a block can be a fraction of a day, and a day can begin in one
+   chapter and end in the next. */
+function ordSuffix(n){
+  var t = n % 100; if(t>=11 && t<=13) return 'th';
+  return ['th','st','nd','rd'][n%10>3 ? 0 : n%10];
+}
+function ordToDate(ord){
+  var y = CAL.year, doy = ord;
+  while(doy > 365){ doy -= 365; y++; }
+  for(var i=0;i<CAL.lens.length;i++){
+    if(doy <= CAL.lens[i]) return {d:doy, month:CAL.months[i], y:y};
+    doy -= CAL.lens[i];
+  }
+  return {d:doy, month:'', y:y};
+}
+function ordWeekday(ord){
+  var n = CAL.weekdays.length;
+  return CAL.weekdays[(((ord - CAL.wdOrd + CAL.wdIdx) % n) + n) % n];
+}
+
+var TL = null;   /* the built model, kept so a resize can re-place the blocks */
+
+function viewTimeline(){
+  setTab('timeline');
+  var live = chapters.filter(function(c){ return c.inFrom; });
+  if(!CAL || !live.length){
+    TL = null;
+    app.innerHTML = '<div class="hint">' + (!CAL
+      ? 'The timeline needs the in-world calendar. Rebuild <code>data.js</code> with <code>build.ps1</code>.'
+      : 'The timeline draws itself from each chapter\u2019s <code>&lt;!-- inworld: --&gt;</code> marker. There are no chapters yet.')
+      + '</div>';
+    window.scrollTo(0,0); return;
+  }
+  var first = live[0].inFrom, last = first;
+  live.forEach(function(c){ if(c.inFrom<first) first=c.inFrom; if(c.inTo>last) last=c.inTo; });
+
+  var jmap = {};
+  JOURNAL.forEach(function(j){ jmap[j.ord] = jmap[j.ord] ? jmap[j.ord]+' '+j.md : j.md; });
+
+  /* which chapters hold each day, in reading order */
+  var owners = [], o;
+  for(o=first;o<=last;o++){
+    owners.push(live.filter(function(c){ return c.inFrom<=o && c.inTo>=o; }));
+  }
+
+  /* built forward, so the month breaks fall where they fall, then stacked the other way up:
+     the crusade runs from the foot of the page to its head, newest day first. */
+  var rows = [], prevMonth = '';
+  for(o=first;o<=last;o++){
+    var dt = ordToDate(o), jr = jmap[o] || '';
+    var held = owners[o-first].length;
+    var cls = 'tl-row' + (jr ? '' : ' quiet')
+      + (prevMonth && dt.month!==prevMonth ? ' newmonth' : '')
+      + (held>1 ? ' shared' : '');
+    /* a day divided among several chapters is given room for each of them */
+    rows.push('<div class="'+cls+'" id="tld'+(o-first)+'" style="min-height:'+(2.8*held).toFixed(2)+'rem">'
+      + '<div class="tl-j">'+(jr ? inline(jr) : '')+'</div>'
+      + '<div class="tl-day"><span class="dn">'+dt.d+ordSuffix(dt.d)+'</span>'
+      + '<span class="dm">'+esc(dt.month)+'</span>'
+      + '<span class="dw">'+esc(ordWeekday(o))+'</span></div></div>');
+    prevMonth = dt.month;
+  }
+  rows.reverse();
+
+  var blocks = '';
+  live.forEach(function(c,i){
+    var bk = c.book==='III' ? 'b3' : (c.book==='II' ? 'b2' : 'b1');
+    var nu = c.isEpilogue ? 'Epilogue' : ('Ch. '+c.num);
+    blocks += '<a class="tl-ch '+bk+(c.inApprox?' approx':'')+'" id="tlc'+i+'"'
+      + ' href="#/read/'+c.id+'"'
+      + ' title="'+esc(c.bookTitle+' · '+c.label+' — '+c.title)+'"'
+      + '><span class="lab"><span class="nu">'+esc(nu)+'</span>'
+      + '<span class="ti">'+esc(c.title)+'</span></span></a>';
+  });
+
+  app.innerHTML = '<div class="tl" id="tl"><div class="tl-blocks" id="tlblocks">'+blocks+'</div>'
+    + '<div class="tl-rows">'+rows.join('')+'</div></div>';
+
+  TL = {first:first, last:last, live:live, owners:owners};
+  layoutTimeline();
+  requestAnimationFrame(layoutTimeline);   /* again once the serif has settled the row heights */
+  window.scrollTo(0,0);
+}
+
+function layoutTimeline(){
+  if(!TL) return;
+  var tl = document.getElementById('tl'); if(!tl) return;
+  var base = tl.getBoundingClientRect();
+  var n = TL.last - TL.first + 1, tops = [], hts = [], i, r;
+  for(i=0;i<n;i++){
+    r = document.getElementById('tld'+i).getBoundingClientRect();
+    tops[i] = r.top - base.top; hts[i] = r.height;
+  }
+  /* a block encloses the day column — or, stacked narrow, the whole row — plus its label strip */
+  var row0 = document.getElementById('tld0').getBoundingClientRect();
+  var day0 = document.querySelector('#tld0 .tl-day').getBoundingClientRect();
+  var box = (day0.width > row0.width - 4) ? row0 : day0;
+  var left = box.left - base.left - 11;
+  var width = (base.right - base.left) - left;   /* out to the label column's far edge */
+
+  TL.live.forEach(function(c,ci){
+    var el = document.getElementById('tlc'+ci); if(!el) return;
+    var i0 = c.inFrom - TL.first, i1 = c.inTo - TL.first;
+    var o0 = TL.owners[i0], o1 = TL.owners[i1];
+    /* the stack runs backwards, so a chapter's last day is its head and its first day its
+       foot — and inside a shared day the later chapter takes the upper share. */
+    var top = tops[i1] + hts[i1] * ((o1.length - 1 - o1.indexOf(c)) / o1.length);
+    var bot = tops[i0] + hts[i0] * ((o0.length - o0.indexOf(c)) / o0.length);
+    var h = Math.max(7, bot-top-3);
+    el.classList.toggle('tiny', h < 34);
+    el.style.left = left+'px';  el.style.width = width+'px';
+    el.style.top = (top + 1.5)+'px';  el.style.height = h+'px';
+  });
+}
+var tlTimer;
+window.addEventListener('resize', function(){
+  clearTimeout(tlTimer); tlTimer = setTimeout(layoutTimeline, 80);
+});
+
+/* ---------- Map ----------
+   Each maps/*.md file is a region: a plate of art, and the places found on it held as
+   percentages of that plate. Nothing is baked into the picture — the markers, the names
+   and the links to the chapters are all HTML drawn on top — so a place can be added, moved
+   or renamed by editing a markdown file, and a new region (an abyssal realm, a city ward)
+   is a new file beside this one and nothing else.
+
+   Glyphs are drawn in a box running -10..10 on both axes, so the same path serves a flag,
+   a medallion and the legend at three different sizes. Colours here are deliberately not
+   themed: the plate is the same dark warm photograph whichever way the reader's system
+   leans, so the markers must read against the plate, not against the page. */
+var maps = window.MAPS || [];
+var MK = {
+  city:   {c:'#f2c14e', n:'Stronghold', s:1, g:'<path d="M-9 10V-3l4.5-3.5L0 -3v-4.5l4.5-3.5L9 -7.5V10z"/>'},
+  temple: {c:'#ffe1a0', n:'Holy place', s:0, g:'<circle cx="0" cy="0" r="3.6"/><path d="M0-9.5V-6M0 6V9.5M-9.5 0H-6M6 0H9.5M-6.7-6.7l2.5 2.5M4.2 4.2l2.5 2.5M6.7-6.7l-2.5 2.5M-4.2 4.2l-2.5 2.5"/>'},
+  ruin:   {c:'#a89c85', n:'Ruin',       s:0, g:'<path d="M-8 10V-2h3.5v12M-1.8 10V-8h3.6v18M4.5 10V1H8v9M-9.5 10h19"/>'},
+  battle: {c:'#e2564a', n:'Battle',     s:0, g:'<path d="M-8-8L8 8M8-8L-8 8M-9-5l3-3M9-5l-3-3"/>'},
+  lair:   {c:'#b06ad6', n:'Lair',       s:0, g:'<path d="M-6-9c1.5 5 2.2 10 2.2 18M0-10c1 5 1.6 11 1.6 20M6-9c-1 5-1.6 10-1.6 18"/>'},
+  water:  {c:'#56b8c9', n:'Water',      s:0, g:'<path d="M-9-3c3-3 4.5 3 7.5 0s4.5 3 7.5 0M-9 4c3-3 4.5 3 7.5 0s4.5 3 7.5 0"/>'},
+  peril:  {c:'#ff8a3d', n:'Peril',      s:1, g:'<path d="M0 10c4.5 0 7-3.2 7-6.8C7-1.6 2-4.4 2-9.8c0 0-3.6 2.6-3.6 6.2 0 2.4-2.4 2.4-2.4 4.8C-4 6-3 10 0 10z"/>'},
+  camp:   {c:'#7fc98a', n:'Camp',       s:0, g:'<path d="M0-9L-9 9h18zM0 9V-1"/>'},
+  /* A stretch of country rather than a spot on it: a boundary drawn the way a chart draws one,
+     which is why this glyph is the only dashed mark in the set. */
+  region: {c:'#aebb8b', n:'Region',     s:0, g:'<path stroke-dasharray="3.6 2.8" d="M-8.5-3c0-4 4-6.2 8-5.2 4 1 5.5-1.6 8 .4 2.5 2 1.6 6-.4 7 -2 1-1 4.5-3.5 7 -2.5 2.5-6.5 2-9-.5 -2.5-2.5-3.1-4.7-3.1-8.7z"/>'},
+  site:   {c:'#d9cdb4', n:'Site',       s:1, g:'<path d="M0-9l8 9-8 9-8-9z"/>'}
+};
+function mkOf(k){ return MK[k] || MK.site; }
+function glyphG(k, scale, cx, cy){
+  var m = mkOf(k);
+  return '<g class="glyph'+(m.s?' solid':'')+'" transform="translate('+cx+','+cy+') scale('+scale+')">'+m.g+'</g>';
+}
+/* A pin stands in the terrain: the staff's foot is the anchor, at (0,0) of the viewBox.
+   A medallion lies on it: the anchor is its centre. Both keep a constant size on screen
+   however far the plate is zoomed, which is what --k is doing on each marker. */
+function markerSvg(p){
+  var m = mkOf(p.kind);
+  if(p.style === 'icon'){
+    return '<svg width="26" height="26" viewBox="-13 -13 26 26">'
+      + '<circle class="disc" cx="0" cy="0" r="11" fill="'+m.c+'"/>'
+      + glyphG(p.kind, 0.62, 0, 0) + '</svg>';
+  }
+  return '<svg width="42" height="46" viewBox="-21 -46 42 46">'
+    + '<ellipse class="base" cx="0" cy="-1.5" rx="6" ry="2"/>'
+    + '<path class="staff" d="M0-2V-44"/>'
+    + '<path class="flag" d="M2-43.5H21L16.5-35.5 21-27.5H2Z" fill="'+m.c+'"/>'
+    + glyphG(p.kind, 0.52, 10.5, -35.5) + '</svg>';
+}
+
+/* ---- the hex field ----
+   The plate is a photograph of a table, so the map's surface is a quadrilateral in the image
+   rather than a rectangle. Given its four corners, this recovers the projection from a flat
+   sheet onto that surface and lays the chart's own hex lattice back down on it, which is why
+   the hexes grow toward the near edge instead of sitting on the picture like a decal.
+   The lattice is the reference chart's: flat-top hexes, twelve miles across the flats. */
+function hexHomography(q){
+  var src = [[0,0],[1,0],[1,1],[0,1]], M = [];
+  for(var i=0;i<4;i++){
+    var u=src[i][0], v=src[i][1], x=q[i][0], y=q[i][1];
+    M.push([u,v,1,0,0,0,-u*x,-v*x, x]);
+    M.push([0,0,0,u,v,1,-u*y,-v*y, y]);
+  }
+  var n = 8, c, r, j;
+  for(c=0;c<n;c++){
+    var p = c;
+    for(r=c+1;r<n;r++) if(Math.abs(M[r][c]) > Math.abs(M[p][c])) p = r;
+    var t = M[c]; M[c] = M[p]; M[p] = t;
+    var pv = M[c][c]; if(!pv) return null;
+    for(j=c;j<=n;j++) M[c][j] /= pv;
+    for(r=0;r<n;r++) if(r!==c && M[r][c]){
+      var f = M[r][c];
+      for(j=c;j<=n;j++) M[r][j] -= f*M[c][j];
+    }
+  }
+  var h = []; for(c=0;c<n;c++) h.push(M[c][n]); h.push(1);
+  return h;
+}
+function hexProject(h,u,v){
+  var d = h[6]*u + h[7]*v + h[8];
+  return [(h[0]*u + h[1]*v + h[2])/d, (h[3]*u + h[4]*v + h[5])/d];
+}
+function hexLayerSvg(m){
+  if(!m.surface || m.surface.length !== 4 || !m.hexes) return '';
+  var h = hexHomography(m.surface); if(!h) return '';
+  var cols = m.hexes[0], rows = m.hexes[1];
+  var su = 1/(cols*1.5), sv = 1/(rows*Math.sqrt(3));   /* the hex's radius, in each axis */
+  var d = [], c, r, k;
+  for(c=-1;c<=Math.ceil(cols)+1;c++){
+    for(r=-1;r<=Math.ceil(rows)+1;r++){
+      var cu = c*1.5*su, cv = r*Math.sqrt(3)*sv + (c%2 ? Math.sqrt(3)*sv/2 : 0);
+      if(cu < -0.25 || cu > 1.25 || cv < -0.25 || cv > 1.25) continue;
+      var seg = '';
+      for(k=0;k<6;k++){
+        var a = Math.PI/3*k;
+        var pt = hexProject(h, cu + su*Math.cos(a), cv + sv*Math.sin(a));
+        seg += (k?'L':'M') + pt[0].toFixed(2) + ' ' + pt[1].toFixed(2);
+      }
+      d.push(seg + 'Z');
+    }
+  }
+  var clip = m.surface.map(function(p){ return p[0]+','+p[1]; }).join(' ');
+  return '<svg class="hexlayer" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'
+    + '<defs><clipPath id="hexclip" clipPathUnits="userSpaceOnUse"><polygon points="'+clip+'"/></clipPath></defs>'
+    + '<g clip-path="url(#hexclip)"><path vector-effect="non-scaling-stroke" d="'+d.join('')+'"/></g></svg>';
+}
+
+var MAPV = {id:null, z:1, tx:0, ty:0, sel:'', names:true, marks:true, hexes:false, hidden:{}};
+
+/* A place whose kind is not one the legend knows is drawn as a plain site, so it must be
+   filtered as one too — otherwise it would be listed under Site and stay put when Site is
+   switched off. */
+function kindKey(k){ return MK[k] ? k : 'site'; }
+function hkClasses(){
+  return Object.keys(MAPV.hidden).filter(function(k){ return MAPV.hidden[k]; })
+    .map(function(k){ return 'hk-'+k; }).join(' ');
+}
+
+function viewMap(id, placeId){
+  setTab('map');
+  if(!maps.length){
+    MAPV.id = null;
+    app.innerHTML = '<div class="hint">No maps have been drawn yet. Add a region to '
+      + '<code>maps/</code> and rebuild <code>data.js</code> with <code>build.ps1</code>.</div>';
+    window.scrollTo(0,0); return;
+  }
+  var want = id || MAPV.id;   /* coming back to the tab returns you to the plate you left */
+  var m = maps.filter(function(x){ return x.id===want; })[0] || maps[0];
+  /* already on this plate: just move the selection, and keep the reader's zoom and pan */
+  if(MAPV.id===m.id && document.getElementById('mapframe')){ mapSelect(placeId||'', true); return; }
+
+  /* Kinds differ from region to region, so a filter set on one plate means nothing on the next. */
+  MAPV.id = m.id; MAPV.z = 1; MAPV.tx = 0; MAPV.ty = 0; MAPV.sel = ''; MAPV.hidden = {};
+
+  var picker = '';
+  if(maps.length > 1){
+    picker = maps.map(function(x){
+      return '<span class="toggle'+(x.id===m.id?' on':'')+'" onclick="location.hash=\'#/map/'+x.id+'\'">'+esc(x.title)+'</span>';
+    }).join('');
+  }
+  var hasHex = !!(m.surface && m.hexes);
+  var tools = '<div class="map-tools">'+picker
+    + '<span class="toggle'+(MAPV.names?' on':'')+'" id="tgNames" onclick="mapToggle(\'names\')">Place names</span>'
+    + '<span class="toggle'+(MAPV.marks?' on':'')+'" id="tgMarks" onclick="mapToggle(\'marks\')">Markers</span>'
+    + (hasHex ? '<span class="toggle'+(MAPV.hexes?' on':'')+'" id="tgHexes" onclick="mapToggle(\'hexes\')">Hexes</span>' : '')
+    /* only worth offering once the reader has actually taken something off the plate */
+    + '<span class="toggle" id="tgAll" hidden onclick="mapKindsAll()">Show every kind</span>'
+    + '<span class="sp"></span>'
+    + '<span class="zoomer"><span class="toggle" onclick="mapZoom(1/1.5)" title="Zoom out">&minus;</span>'
+    + '<span class="toggle" onclick="mapHome()" title="Fit the whole map">&#9635;</span>'
+    + '<span class="toggle" onclick="mapZoom(1.5)" title="Zoom in">+</span></span></div>';
+
+  var pins = m.places.map(function(p){
+    return '<a class="mk k-'+esc(kindKey(p.kind))+' '+esc(p.style==='icon'?'icon':'pin')
+      + (p.x>68?' lft':'')+'" id="mk-'+esc(p.id)+'"'
+      + ' href="#/map/'+esc(m.id)+'/'+esc(p.id)+'"'
+      + ' style="left:'+p.x+'%;top:'+p.y+'%"'
+      + ' title="'+esc(p.name)+'">'+ markerSvg(p)
+      + '<span class="mk-label">'+esc(p.name)+'</span></a>';
+  }).join('');
+
+  /* One entry per kind actually present, in the legend's own order rather than the order the
+     places happen to be written in, and each one carrying how many of them there are. */
+  var kinds = [], order = Object.keys(MK);
+  m.places.forEach(function(p){
+    var kk = kindKey(p.kind); if(kinds.indexOf(kk)<0) kinds.push(kk);
+  });
+  kinds.sort(function(a,b){ return order.indexOf(a) - order.indexOf(b); });
+  var legend = kinds.map(function(k){
+    var mk = mkOf(k), off = !!MAPV.hidden[k];
+    var n = m.places.filter(function(p){ return kindKey(p.kind)===k; }).length;
+    var paint = mk.s ? 'fill:'+mk.c+';stroke:none' : 'stroke:'+mk.c+';fill:none';
+    return '<span class="lg'+(off?' off':'')+'" id="lg-'+esc(k)+'" role="button" tabindex="0"'
+      + ' aria-pressed="'+(off?'false':'true')+'"'
+      + ' title="Show or hide every '+esc(mk.n.toLowerCase())+' on this plate"'
+      + ' onclick="mapKind(\''+esc(k)+'\')"'
+      + ' onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();mapKind(\''+esc(k)+'\')}">'
+      + '<svg viewBox="-11 -11 22 22"><g style="'+paint+'" class="glyph'+(mk.s?' solid':'')
+      + '" transform="scale(0.85)">'+mk.g+'</g></svg>'+esc(mk.n)
+      + ' <b class="lgn">'+n+'</b></span>';
+  }).join('');
+
+  var chips = m.places.map(function(p){
+    return '<a class="k-'+esc(kindKey(p.kind))+'" href="#/map/'+esc(m.id)+'/'+esc(p.id)+'"'
+      + ' id="chip-'+esc(p.id)+'">'+esc(p.name)+'</a>';
+  }).join('');
+
+  app.innerHTML = (m.intro ? '<div class="hint">'+inline(m.intro.replace(/\n/g,' '))+'</div>' : '')
+    + tools
+    + '<div class="map-frame'+(MAPV.names?'':' no-names')+(MAPV.marks?'':' no-marks')
+    +     (MAPV.hexes?'':' no-hexes')+' '+hkClasses()+'" id="mapframe">'
+    +   '<div class="map-stage" id="mapstage">'
+    +     '<img class="plate" src="'+esc(m.image)+'" alt="'+esc(m.title)+'">'
+    +     hexLayerSvg(m)
+    +     pins
+    +   '</div>'
+    + '</div>'
+    + '<div class="map-legend" id="maplegend">'+legend+'</div>'
+    /* the scale means nothing without the grid it counts, so it comes and goes with it */
+    + (hasHex && m.scale ? '<div class="map-scale" id="mapscale"'+(MAPV.hexes?'':' hidden')+'>'
+        + inline(m.scale)+'</div>' : '')
+    + '<div id="mapdetail"></div>'
+    + '<div class="map-places '+hkClasses()+'" id="mapchips">'+chips+'</div>';
+
+  mapBindDrag();
+  mapApply();
+  mapSelect(placeId||'', false);
+  mapLayoutLabels();
+  requestAnimationFrame(mapLayoutLabels);   /* again once the serif has settled the label widths */
+  /* and again when the plate arrives: until it has a height every marker sits on the same line,
+     which reads as a total collision and would drop nearly every name on the floor */
+  var plate = document.querySelector('#mapstage img.plate');
+  if(plate && !plate.complete){
+    plate.addEventListener('load', function(){ mapClamp(); mapApply(); mapLayoutLabels(); });
+  }
+  window.scrollTo(0,0);
+}
+
+function curMap(){ return maps.filter(function(x){ return x.id===MAPV.id; })[0] || null; }
+
+function mapToggle(what){
+  var f = document.getElementById('mapframe'); if(!f) return;
+  if(what==='names'){ MAPV.names = !MAPV.names; f.classList.toggle('no-names', !MAPV.names);
+    document.getElementById('tgNames').classList.toggle('on', MAPV.names); }
+  else if(what==='hexes'){
+    MAPV.hexes = !MAPV.hexes; f.classList.toggle('no-hexes', !MAPV.hexes);
+    document.getElementById('tgHexes').classList.toggle('on', MAPV.hexes);
+    var sc = document.getElementById('mapscale'); if(sc) sc.hidden = !MAPV.hexes;
+    return;   /* the grid sits under the names and displaces nothing */
+  }
+  else { MAPV.marks = !MAPV.marks; f.classList.toggle('no-marks', !MAPV.marks);
+    document.getElementById('tgMarks').classList.toggle('on', MAPV.marks); }
+  mapLayoutLabels();   /* names moving onto the spot, or reappearing, changes what collides */
+}
+
+/* ---- filtering by kind ----
+   Forty-eight places on one plate is more than the eye can hold, and most readers want one
+   question answered at a time: where are the strongholds, where does the water run. So the
+   legend does double duty — each entry switches its own kind off the plate and back on.
+   The markers and the chips beneath them move together, so the list under the plate is always
+   an honest index of what is drawn above it. */
+function mapKindApply(k){
+  var on = !MAPV.hidden[k];
+  ['mapframe','mapchips'].forEach(function(id){
+    var el = document.getElementById(id); if(el) el.classList.toggle('hk-'+k, !on);
+  });
+  var lg = document.getElementById('lg-'+k);
+  if(lg){ lg.classList.toggle('off', !on); lg.setAttribute('aria-pressed', on ? 'true' : 'false'); }
+}
+function mapKindsChanged(){
+  var any = Object.keys(MAPV.hidden).some(function(k){ return MAPV.hidden[k]; });
+  var all = document.getElementById('tgAll'); if(all) all.hidden = !any;
+  mapLayoutLabels();   /* the names that were crowded out have room again, or have lost it */
+}
+function mapKind(k){
+  MAPV.hidden[k] = !MAPV.hidden[k];
+  mapKindApply(k);
+  mapKindsChanged();
+}
+function mapKindsAll(){
+  Object.keys(MAPV.hidden).forEach(function(k){
+    if(MAPV.hidden[k]){ MAPV.hidden[k] = false; mapKindApply(k); }
+  });
+  mapKindsChanged();
+}
+
+/* Places sit where they sit; it is their names that have to give way. Two markers a mile apart
+   in the Marchlands are a few pixels apart on the plate, so the labels are laid out after the
+   fact: each one is offered its own line, then a line above, then below, until it clears every
+   name already placed. Only zoom changes the spacing — a pan moves everything together — so
+   this runs on render, on zoom, and on resize, and never during a drag. */
+function mapLayoutLabels(){
+  var f = document.getElementById('mapframe'); if(!f) return;
+  var labs = Array.prototype.slice.call(f.querySelectorAll('.mk-label'));
+  labs.forEach(function(l){ l.style.setProperty('--dy','0px'); l.classList.remove('crowded'); });
+  if(!MAPV.names) return;
+  var steps = [0,15,-15,30,-30,45,-45,60,-60,75,-75], placed = [], pad = 3;
+  labs.map(function(l){ return {el:l, r:l.getBoundingClientRect()}; })
+      .filter(function(o){ return o.r.width > 0; })
+      /* the place you have open keeps its name whatever else has to give */
+      .sort(function(a,b){
+        var as = a.el.parentNode.classList.contains('sel'), bs = b.el.parentNode.classList.contains('sel');
+        if(as !== bs) return as ? -1 : 1;
+        return a.r.top - b.r.top || a.r.left - b.r.left;
+      })
+      .forEach(function(o){
+        var dy = null;
+        for(var i=0;i<steps.length;i++){
+          var t = o.r.top+steps[i]-pad, b = o.r.bottom+steps[i]+pad;
+          var clash = placed.some(function(p){
+            return !(b <= p.top || t >= p.bottom || o.r.right+pad <= p.left || o.r.left-pad >= p.right);
+          });
+          if(!clash){ dy = steps[i]; break; }
+        }
+        /* no line free anywhere near it: drop the name rather than print it over another.
+           Zooming in spreads the markers out, and this runs again, so it comes back. */
+        if(dy === null){ o.el.classList.add('crowded'); return; }
+        if(dy) o.el.style.setProperty('--dy', dy+'px');
+        placed.push({top:o.r.top+dy-pad, bottom:o.r.bottom+dy+pad, left:o.r.left-pad, right:o.r.right+pad});
+      });
+}
+
+function mapApply(){
+  var f = document.getElementById('mapframe'), s = document.getElementById('mapstage');
+  if(!f || !s) return;
+  s.style.transform = 'translate('+MAPV.tx+'px,'+MAPV.ty+'px) scale('+MAPV.z+')';
+  s.style.setProperty('--k', (1/MAPV.z).toFixed(4));   /* markers keep their size on screen */
+  f.classList.toggle('zoomed', MAPV.z > 1.001);
+}
+function mapClamp(){
+  var f = document.getElementById('mapframe'); if(!f) return;
+  var w = f.clientWidth, h = f.clientHeight;
+  MAPV.tx = Math.min(0, Math.max(w - w*MAPV.z, MAPV.tx));
+  MAPV.ty = Math.min(0, Math.max(h - h*MAPV.z, MAPV.ty));
+}
+function mapZoom(factor, ax, ay){
+  var f = document.getElementById('mapframe'); if(!f) return;
+  var z0 = MAPV.z, z1 = Math.min(5, Math.max(1, z0*factor));
+  if(Math.abs(z1-z0) < 1e-4) return;
+  if(ax===undefined){ ax = f.clientWidth/2; ay = f.clientHeight/2; }
+  MAPV.tx = ax - (ax - MAPV.tx) * (z1/z0);
+  MAPV.ty = ay - (ay - MAPV.ty) * (z1/z0);
+  MAPV.z = z1; mapClamp(); mapApply(); mapLayoutLabels();
+}
+function mapHome(){ MAPV.z = 1; MAPV.tx = 0; MAPV.ty = 0; mapApply(); mapLayoutLabels(); }
+/* bring a place to the middle of the frame, but only when zoomed in far enough to have lost it */
+function mapCenterOn(p){
+  var f = document.getElementById('mapframe'); if(!f || MAPV.z <= 1.001) return;
+  var w = f.clientWidth, h = f.clientHeight;
+  MAPV.tx = w/2 - (p.x/100) * w * MAPV.z;
+  MAPV.ty = h/2 - (p.y/100) * h * MAPV.z;
+  mapClamp(); mapApply();
+}
+
+function mapSelect(placeId, center){
+  var m = curMap(); if(!m) return;
+  MAPV.sel = placeId || '';
+  m.places.forEach(function(p){
+    var el = document.getElementById('mk-'+p.id), ch = document.getElementById('chip-'+p.id);
+    if(el) el.classList.toggle('sel', p.id===MAPV.sel);
+    if(ch) ch.classList.toggle('sel', p.id===MAPV.sel);
+  });
+  var d = document.getElementById('mapdetail'); if(!d) return;
+  var p = m.places.filter(function(x){ return x.id===MAPV.sel; })[0];
+  if(!p){
+    d.innerHTML = '<div class="hint">Tap a marker for what happened there. '
+      + 'Hold <b>Alt</b> and click the plate to read off a place’s coordinates.</div>';
+    return;
+  }
+  var go = p.chapterId
+    ? '<div class="mdgo">→ <a href="#/read/'+esc(p.chapterId)+'">'+esc(p.chapterLabel)+' · '
+      + esc(p.chapter)+'</a></div>'
+    : '';
+  d.innerHTML = '<div class="map-detail"><div><span class="mdt">'+esc(p.name)+'</span>'
+    + '<span class="mdk">'+esc(mkOf(p.kind).n)+(p.letter?(' · '+esc(p.letter)):'')+'</span></div>'
+    + mdToHtml(p.md) + go + '</div>';
+  if(center) mapCenterOn(p);
+  mapLayoutLabels();   /* the newly selected place claims its line first */
+}
+
+/* Drag to pan once zoomed, and Alt-click anywhere to read off the coordinates of the spot
+   under the cursor in the exact form a maps/*.md file wants. That readout is the whole
+   authoring tool: click the place on the plate, paste the line into the markdown. */
+function mapBindDrag(){
+  var f = document.getElementById('mapframe'); if(!f) return;
+  var down = null, moved = 0;
+  f.addEventListener('pointerdown', function(e){
+    if(e.altKey) return;
+    if(MAPV.z <= 1.001) return;
+    down = {x:e.clientX, y:e.clientY, tx:MAPV.tx, ty:MAPV.ty}; moved = 0;
+    f.setPointerCapture(e.pointerId); f.classList.add('dragging');
+  });
+  f.addEventListener('pointermove', function(e){
+    if(!down) return;
+    var dx = e.clientX-down.x, dy = e.clientY-down.y;
+    moved = Math.max(moved, Math.abs(dx)+Math.abs(dy));
+    MAPV.tx = down.tx+dx; MAPV.ty = down.ty+dy; mapClamp(); mapApply();
+  });
+  f.addEventListener('pointerup', function(e){
+    if(!down) return;
+    down = null; f.classList.remove('dragging');
+    if(moved > 6){ e.preventDefault(); f.dataset.drag = '1'; setTimeout(function(){ delete f.dataset.drag; }, 0); }
+  });
+  f.addEventListener('click', function(e){
+    if(f.dataset.drag){ e.preventDefault(); e.stopPropagation(); return; }
+    if(!e.altKey) return;
+    e.preventDefault(); e.stopPropagation();
+    var img = f.querySelector('img.plate'), r = img.getBoundingClientRect();
+    var x = ((e.clientX-r.left)/r.width*100), y = ((e.clientY-r.top)/r.height*100);
+    var line = '<!-- at: '+x.toFixed(1)+', '+y.toFixed(1)+' -->';
+    var tag = f.querySelector('.map-pick');
+    if(!tag){ tag = document.createElement('div'); tag.className = 'map-pick'; f.appendChild(tag); }
+    tag.textContent = line;
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(line).then(function(){ tag.textContent = line+'  ✓ copied'; },
+                                              function(){});
+    }
+  }, true);
+}
+window.addEventListener('resize', function(){ if(MAPV.id){ mapClamp(); mapApply(); mapLayoutLabels(); } });
+
+function viewReader(id){
+  document.body.classList.remove('wide');
+  var c = chapters.filter(function(x){return x.id===id;})[0]; if(!c){ viewContents(); return; }
+  OPEN_BOOKS[c.book] = true;
+  var idx = chapters.indexOf(c);
+  var prev = chapters[idx-1], next = chapters[idx+1];
+  var nav = '<div class="backbar"><span class="btn" onclick="history.back()">← Back</span>'
+    + '<span>'+ (prev?('<span class="btn" onclick="location.hash=\'#/read/'+prev.id+'\'">‹ prev</span> '):'')
+    + (next?('<span class="btn" onclick="location.hash=\'#/read/'+next.id+'\'">next ›</span>'):'') +'</span></div>';
+  var kick = '<div class="chapkicker">Book '+esc(c.book)+' · '+esc(c.label)+(c.date?(' · '+esc(c.date)):'')+'</div>';
+  /* The nav goes in the locked header (desktop) and once more at the foot of the chapter,
+     where you actually finish reading. The old copy at the top of the scrolling column is
+     gone — the sticky one replaces it. */
+  setStickyNav(nav);
+  SWIPE = {prev: prev ? prev.id : null, next: next ? next.id : null};
+  app.innerHTML = '<div id="reader">'+ kick + mdToHtml(c.md) + '</div>' + nav;
+  bindLightbox(); window.scrollTo(0,0);
+}
+
+function search(query){
+  document.body.classList.remove('wide');
+  var terms = query.toLowerCase().split(/\s+/).filter(function(t){return t.length>1;});
+  if(!terms.length){ showActiveTab(); return; }
+  var corpus = chapters.map(function(c){return {kind:'chapter',o:c};})
+    .concat(secrets.map(function(s){return {kind:'secret',o:s};}))
+    .concat(PEOPLE.map(function(p){return {kind:'person',o:p};}));
+  var res=[];
+  corpus.forEach(function(e){
+    var o=e.o, score=0, ok=true;
+    terms.forEach(function(t){ var n=(o._lc||'').split(t).length-1; if(n===0) ok=false; score+=n; });
+    if(ok) res.push({e:e,score:score});
+  });
+  res.sort(function(a,b){return b.score-a.score;});
+  var rx = new RegExp('('+terms.map(function(t){return t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}).join('|')+')','ig');
+  var html = '<div class="count">'+res.length+' result'+(res.length!==1?'s':'')+' match “'+esc(query)+'”</div>';
+  if(!res.length){ html += '<div class="hint">Nothing contains all of those words. Try fewer or different terms.</div>'; }
+  res.forEach(function(r){
+    var e=r.e, o=e.o, isSec=e.kind==='secret', isPer=e.kind==='person';
+    var pos=o._lc.search(rx); if(pos<0)pos=0;
+    var start=Math.max(0,pos-90), snip=o.text.slice(start, start+240);
+    if(start>0) snip='…'+snip; if(start+240 < o.text.length) snip=snip+'…';
+    snip = esc(snip).replace(rx,'<mark>$1</mark>');
+    var href = (isPer ? '#/who/' : isSec ? '#/secret/' : '#/read/') + o.id;
+    var tag = isPer ? esc(o.group) : isSec ? 'Lore' : ('Book '+esc(o.book)+' · '+esc(o.label));
+    html += '<div class="entry"><span class="ttl"><a class="t" href="'+href+'">'+esc(o.title)+'</a>'
+      + '<div class="snip">'+snip+'</div></span>'
+      + '<span class="d">'+tag+'</span></div>';
+  });
+  app.innerHTML = html; window.scrollTo(0,0);
+}
+
+/* ---------- routing & events ---------- */
+/* ---------- chapter navigation ----------
+   The nav lives in the sticky header while a chapter is open, and is emptied on every other
+   view. SWIPE carries the neighbouring chapter ids for the touch gesture that stands in for
+   those buttons on a phone. */
+var SWIPE = {prev:null, next:null};
+function setStickyNav(html){
+  var el = document.getElementById('stickynav');
+  if(el) el.innerHTML = html || '';
+  if(!html) SWIPE = {prev:null, next:null};
+}
+
+/* A horizontal drag moves between chapters on touch devices. Deliberately conservative:
+   it must be mostly sideways, far enough to be intentional, and not a pinch — otherwise a
+   diagonal scroll would fling the reader into the next chapter. */
+(function(){
+  var x0=0, y0=0, tracking=false;
+  document.addEventListener('touchstart', function(e){
+    if(e.touches.length !== 1 || (!SWIPE.prev && !SWIPE.next)) { tracking=false; return; }
+    tracking = true; x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+  }, {passive:true});
+  document.addEventListener('touchend', function(e){
+    if(!tracking) return;
+    tracking = false;
+    var t = e.changedTouches[0], dx = t.clientX - x0, dy = t.clientY - y0;
+    if(Math.abs(dx) < 70 || Math.abs(dx) < Math.abs(dy) * 2) return;   /* a scroll, not a swipe */
+    var target = dx < 0 ? SWIPE.next : SWIPE.prev;                      /* drag left = onward */
+    if(target) location.hash = '#/read/' + target;
+  }, {passive:true});
+})();
+
+/* ---------- the next session ----------
+   next-session.js carries one hand-written date in Arizona time (a fixed -07:00: the state
+   keeps no daylight saving, so no timezone table is needed). The browser turns that instant
+   into the reader's own local time, wherever in the world they happen to be sitting.
+
+   A date that has gone by without being replaced is not shown as though it were still coming:
+   once the session's hours have run out, the band says plainly that nothing is scheduled. */
+function nsRelative(start, now){
+  var a = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  var b = new Date(start.getFullYear(), start.getMonth(), start.getDate());
+  var days = Math.round((b - a) / 86400000);
+  if(days <= 0) return 'today';
+  if(days === 1) return 'tomorrow';
+  if(days <= 20) return 'in ' + days + ' days';
+  var weeks = Math.round(days / 7);
+  return 'in ' + weeks + ' weeks';
+}
+function renderNextSession(){
+  var el = document.getElementById('nextses');
+  if(!el) return;
+  var s = window.NEXT_SESSION || {};
+  var start = s.when ? new Date(s.when) : null;
+  if(start && isNaN(start.getTime())) start = null;     /* a typo degrades to "not scheduled" */
+
+  var now = new Date();
+  var runs = (typeof s.runsHours === 'number' && s.runsHours > 0) ? s.runsHours : 5;
+  var over = start ? (now - start) > runs * 3600000 : true;
+
+  var mid;
+  if(!start || over){
+    mid = '<span class="ns-k">Next Session</span>'
+        + '<span class="ns-none">not yet scheduled</span>';
+  } else {
+    var opts = {weekday:'long', month:'long', day:'numeric'};
+    if(start.getFullYear() !== now.getFullYear()) opts.year = 'numeric';
+    var day, time;
+    try{
+      day  = start.toLocaleDateString(undefined, opts);
+      time = start.toLocaleTimeString(undefined, {hour:'numeric', minute:'2-digit', timeZoneName:'short'});
+    }catch(e){ day = start.toDateString(); time = start.toTimeString().slice(0,5); }
+
+    /* the table's three shapes: a room, a call, or both at once (someone always dials in) */
+    var m = String(s.mode||'').toLowerCase();
+    var kind = m.indexOf('hybrid')===0 ? 'hybrid' : (m.indexOf('online')===0 ? 'online' : 'inperson');
+    var label = kind==='hybrid' ? 'In Person &amp; Online' : (kind==='online' ? 'Online' : 'In Person');
+    var under = now >= start;                             /* begun, but not yet run out */
+    mid = '<span class="ns-k">' + (under ? 'Session Under Way' : 'Next Session') + '</span>'
+        + '<span class="ns-when">' + esc(day) + ' · ' + esc(time) + '</span>'
+        + '<span class="ns-pill ' + kind + '">' + label + '</span>'
+        + (s.where ? '<span class="ns-where">' + esc(s.where) + '</span>' : '')
+        + '<span class="ns-rel' + (under?' now':'') + '">'
+        + (under ? 'in session' : esc(nsRelative(start, now))) + '</span>';
+  }
+  el.innerHTML = '<i class="ns-line"></i><span class="ns-orn">✦</span>'
+    + '<span class="ns-mid">' + mid + '</span>'
+    + '<span class="ns-orn">✦</span><i class="ns-line"></i>';
+}
+renderNextSession();
+/* A page left open overnight must not go on promising a session that has already happened. */
+setInterval(renderNextSession, 60000);
+document.addEventListener('visibilitychange', function(){ if(!document.hidden) renderNextSession(); });
+
+function showActiveTab(){
+  var t = document.querySelector('.tab.active');
+  var v = t ? t.dataset.view : 'contents';
+  if(v==='cast') viewCast();
+  else if(v==='secrets') viewSecrets();
+  else if(v==='timeline') viewTimeline();
+  else if(v==='map') viewMap();
+  else viewContents();
+}
+function route(){
+  var h = location.hash;
+  setStickyNav('');   /* a reader view puts its own nav back; everything else stays clear */
+  if(h.indexOf('#/who/')===0){ viewCast(h.slice(6)); return; }
+  if(h.indexOf('#/secret/')===0){ viewSecretReader(h.slice(9)); return; }
+  if(h.indexOf('#/read/')===0){ viewReader(h.slice(7)); return; }
+  if(h.indexOf('#/map/')===0){ var s = h.slice(6).split('/'); viewMap(s[0], s[1]); return; }
+  if(qEl.value.trim()){ search(qEl.value.trim()); return; }
+  showActiveTab();
+}
+document.querySelectorAll('.tab').forEach(function(t){
+  t.addEventListener('click', function(){ qEl.value=''; if(location.hash.indexOf('#/')===0) location.hash=''; setTab(t.dataset.view); route(); });
+});
+var timer;
+qEl.addEventListener('input', function(){
+  clearTimeout(timer);
+  timer = setTimeout(function(){
+    if(location.hash.indexOf('#/read/')===0) history.replaceState(null,'','#');
+    if(qEl.value.trim()) search(qEl.value.trim()); else route();
+  }, 120);
+});
+window.addEventListener('hashchange', route);
+route();
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Real Work">
+  <title>The Real Work</title>
+  <!-- The site mark: a working hammer, head up, gold on a deep green field. The crusade's
+       site carries Iomedae's sword-and-sun on crimson; this one is the tool for the half of
+       the war the mythic four have outgrown, and the field is green so the two tabs never
+       read as one site. Drawn heavy, because at 16 pixels anything thinner than the haft
+       here dissolves. Redrawn in make-favicon.py from the same numbers: change one, change
+       the other. -->
+  <rect width="64" height="64" rx="12" fill="#2e5a3c"/>
+  <g fill="#f4daa0">
+    <rect x="13" y="9" width="38" height="15" rx="3"/>
+    <rect x="28" y="22" width="8" height="34" rx="2"/>
+  </g>
+  <rect x="28" y="44" width="8" height="4" fill="#a8701c"/>
+</svg>
