@@ -7,13 +7,7 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
 
 ## The Company
 
-- **Theep Gvosh** *(player: ?)* — tiefling evoker, late thirties. Ash-grey skin with a cold blue
-  undertone, short forward-curving ram's horns, a shaved scalp, eyes with no whites. Scorched wool
-  and hard-worn leather, sleeves burned back to the elbow. His spell light is cold blue-white and
-  nothing else in Drezen is.
-- **Snicker** — Theep's familiar. A hand-sized old monkey, ginger fur gone grey at the muzzle,
-  watchful and never comic. A tripwire, a lockpick carrier, an early warning; one blow from almost
-  anything would kill him.
+- **Trivius Malrec** *(player: ?)* — tiefling transmuter. Bio TBD.
 - **Wende Sandhauler** *(player: ?)* — quarry dwarf, mid-thirties. Copper-red braids bound with
   dull steel rings and grey stone dust worked into them; a broad once-broken nose; no beard. A
   battered chain shirt over a padded coat, a plain steel shield, a warhammer.

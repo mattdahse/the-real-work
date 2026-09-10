@@ -57,7 +57,7 @@ apart at a glance. Keep the set in every scene that holds more than one of them:
 
 | Character | Colour | Light |
 |---|---|---|
-| Theep Gvosh | ash-grey and cold blue-white | his own spell light — actinic blue-white, the one cold light in the campaign |
+| Trivius Malrec | TBD | TBD |
 | Wende Sandhauler | copper-red and hot orange | warm forge-orange from low and to one side |
 | Esper Toevel | deep green and dull brass | a single cool pale lantern, a warm glint on the brass |
 | Jules Arine | rose-pink and silver-grey | soft rose-tinted key, cool silver rim |

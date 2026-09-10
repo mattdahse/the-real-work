@@ -1,6 +1,6 @@
 ---
 name: real-work-chronicle
-description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Theep Gvosh, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Snicker) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
+description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Trivius Malrec, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
 ---
 
 # The Real Work → Repo & Site
@@ -76,8 +76,8 @@ the **date**, not the title. `build.ps1` strips the line before rendering.
 
 Transcripts run long; pull them in sequential chunks of ~250–300 lines and read all of it.
 **Speaker labels in Fathom transcripts are unreliable.** Identify who did what from *content* —
-a cold blue-white evocation is Theep's, a healing prayer is Jules's, a warhammer is Wende's — not
-from the name on the line.
+a healing prayer is Jules's, a warhammer is Wende's, a transmutation is Trivius's — not from the
+name on the line.
 
 ## Workflow — 1. The chapter
 
@@ -127,7 +127,7 @@ edits need no rebuild, but re-read the edited entries to confirm.
 
 **Portraits.** A cast member with a portrait shows a thumbnail on the gallery. The likeness lives in
 `characters/` and is wired via the `PORTRAITS` map (`'<Cast Name>': 'characters/<file>.webp'`). The
-five company portraits and Snicker's are already there; to give a new character a face, follow
+company portraits are already there; to give a new character a face, follow
 `characters/CANON.md` and the `chatgpt-image-gen` skill. Keep what the site publishes to what the
 players know — the module's GM material in the crusade repository's `fg/` is not a source for the
 Cast until it has happened at the table.
@@ -209,7 +209,7 @@ before publishing. A chapter-opening illustration goes between the subtitle line
 
 ## Canon spellings
 
-Theep Gvosh, Snicker, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Mira
+Trivius Malrec, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Mira
 Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
 Preservers, Rothin Vald, the Hidden Temple of Sarenrae. Transcripts will drift (Teep, Wendy,
 Espar, Jools, Dorough, Thistledance/Thistledown) — fix all of them. Add settled spellings here as

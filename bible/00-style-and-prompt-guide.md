@@ -23,9 +23,7 @@ same world, and the two archives should read as one hand.
 
 Player names are not recorded yet — fill them in here. They live only in the bible, never in the prose.
 
-- **? → Theep Gvosh** — tiefling evoker; ash-grey skin, short ram's horns, eyes with no whites,
-  and a spell light that burns cold blue-white. His familiar **Snicker**, an old ginger monkey,
-  goes where he goes.
+- **? → Trivius Malrec** — tiefling transmuter; bio TBD.
 - **? → Wende Sandhauler** — quarry dwarf; shield, warhammer, a dented chain shirt, and copper
   braids bound with steel rings.
 - **? → Esper Toevel** — human bard of the road; green wool, tarnished brass, an instrument kept
