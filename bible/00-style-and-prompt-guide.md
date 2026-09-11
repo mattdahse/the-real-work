@@ -3,8 +3,10 @@
 *The Real Work — A Chronicle of the Ground-Level Campaign at Drezen*
 
 This is the authoring source of truth for the chronicle's **voice**. Read it before drafting any
-chapter. The voice is the one The Fifth Crusade's chronicle keeps: this is a second table in the
-same world, and the two archives should read as one hand.
+chapter. This is a second table in the same world as The Fifth Crusade, and the two archives
+share their conventions, their canon and their look — but not their voice. The crusade's
+chronicle is epic and earnest. This one is not. See **II. Tone** below, and
+`01-where-you-come-from.md` for the voice at length.
 
 ## I. Campaign Meta
 
@@ -38,8 +40,29 @@ Player names are not recorded yet — fill them in here. They live only in the b
 ## II. Tone & Formatting Rules
 
 - **Perspective:** Third-person omniscient, focused on the company's actions.
-- **Tone:** Grounded high-fantasy chronicle — reads like a novel or a sourcebook page. Dramatic
-  weight without melodrama or outright comedy.
+- **Tone:** Grounded high-fantasy chronicle with a fatalistic overlay and a dry, dark humour.
+  It still reads like a novel or a sourcebook page — the prose is composed, never jokey — but
+  the narrator has been in Mendev long enough to have stopped expecting things to work. The
+  working assumptions of the voice:
+  - **Every tall thing falls.** Any great pillar of law, faith or virtue in this country is
+    either a sham, or doomed, or both; the crusade has spent a century building monuments and the
+    demons have spent a century enjoying them. Write the pillars with respect and the collapse
+    with a straight face.
+  - **The gods are elsewhere.** They are whimsical or apathetic, and the one who promised to come
+    back died instead. Prayer is a habit, not a strategy. Nobody in the prose is punished for
+    piety, and nobody is rewarded for it either.
+  - **The demons are having fun.** Deskari is not in a hurry. The enemy's cruelty is a pastime,
+    not a plan, and the narration may notice this without ever admiring it.
+  - **The joke is in the sentence, not the scene.** Dark humour lands in a clause, an aside, a
+    last line — the cemetery is the only district with a growing population; a saint's day is the
+    crusade's pension scheme. The events themselves stay real and stay dangerous. Nothing is
+    played for slapstick, and the company's losses are never a punchline.
+  - **Adult humour glances sideways.** Egede's temples and brothels keep each other's hours;
+    Cayden Cailean's theology is available by the pint. Innuendo is permitted; explicitness is
+    not. If it would need a warning, it is over the line.
+  - **Fatalism is not despair.** The voice takes it as read that the next disaster is coming and
+    that the pay will be late, and it gets on with the job anyway. That is the company's dignity,
+    and the prose should let them keep it.
 - **Scale:** These are first-level people doing the half of the war the heroes have outgrown.
   Keep the weight without borrowing the crusade's scale: a yard dog is dangerous, a broken arm is
   a week, a hundred gold is a fortune, and a cellar can kill everyone.
@@ -72,7 +95,8 @@ company unless someone in Drezen tells them, and the company's own discoveries s
 ## III. Where the truth lives
 
 - **Chronicle source:** `source/book-1-the-marchlands-commission.md`.
-- **Bible:** this file, `02-dramatis-personae.md`, `03-lore-and-locations.md`,
+- **Bible:** this file, `01-where-you-come-from.md` (the world around Drezen, in the table's
+  voice, for players writing bios), `02-dramatis-personae.md`, `03-lore-and-locations.md`,
   `04-visual-style-guide.md`, `06-in-world-calendar.md`.
 - **Likenesses:** `characters/CANON.md`.
 - **Published site:** built from the source markdown via `build.ps1` → `data.js`, served by
