@@ -23,7 +23,7 @@ source/                         ← the canonical chronicle (edit these)
   book-1-the-marchlands-commission.md   Book I (ongoing): the commissions, one after another
 bible/                          ← authoring reference (voice, cast, lore, look)
   00-style-and-prompt-guide.md
-  01-where-you-come-from.md     the lands around Drezen, for players writing a character bio
+  01-where-you-come-from.md     pointer to secrets/lore-where-you-come-from.md, the players' bio helper
   02-dramatis-personae.md
   03-lore-and-locations.md
   04-visual-style-guide.md      the house look, shared with the crusade's site; the company's colour set
@@ -115,6 +115,19 @@ A portrait is wired through the `PORTRAITS` map, keyed by the exact cast name, p
 Drop a markdown file in `secrets/` — a `# Title` line, an italic `*attribution*` line, then the
 body. The filename prefix files it: `company-` (the company's own letters and dispatches),
 `letter-` and `journal-` (recovered documents), `lore-` (history and accounts). Rebuild, commit, push.
+
+The attribution line must be a single line: the build takes the first one-line italic after the
+title as the subtitle. In the body, `### Section` and `## Section` headers, `*dates*`,
+`> blockquotes` (their line breaks kept, so a notice or a price board sets as written), `- ` and
+`1. ` lists (an indented `> ` line inside an item is a quotation set in it), `| tables |` with a
+dashes rule under the header row, `---` rules, `` `code` `` and `[links](url)` all render. Every
+heading gets an anchor id from its text (lowercased, non-alphanumerics to dashes, prefixed `h-`:
+`## 2. Mendev: the crusader state` is `#h-2-mendev-the-crusader-state`), and a link to `#h-…`
+scrolls there without touching the route. Links to `#/map/drezen` and the site's other routes work
+as links; anything else opens in a new tab. A line reading `<!-- toc -->` becomes a contents box
+of the document's `##` headings. Every reader view shows a fixed back-to-top button once the
+page has scrolled. The crusade's site does not yet have these; bring them across when a document
+there needs them.
 
 ## Adding a map
 

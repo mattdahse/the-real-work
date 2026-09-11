@@ -5,8 +5,8 @@
 This is the authoring source of truth for the chronicle's **voice**. Read it before drafting any
 chapter. This is a second table in the same world as The Fifth Crusade, and the two archives
 share their conventions, their canon and their look, but not their voice. The crusade's chronicle
-is epic and earnest. This one is not. See **II. Tone** below, and `01-where-you-come-from.md`
-for the voice at length.
+is epic and earnest. This one is not. See **II. Tone** below, and `secrets/lore-where-you-come-from.md`
+for the voice at length (published to the Lore tab; `bible/01-where-you-come-from.md` is a pointer).
 
 ## I. Campaign Meta
 
@@ -121,15 +121,15 @@ the company walks through (Drezen's streets and offices, Lupenor's Market, Iomed
 the Fane in the west) and may be read for it. But nothing the mythic four learn reaches this
 company unless someone in Drezen tells them, and the company's own discoveries stay theirs.
 
-The invented colour in `01-where-you-come-from.md` (quoted lines, notices, the ledger's columns,
+The invented colour in `secrets/lore-where-you-come-from.md` (quoted lines, notices, the ledger's columns,
 the chair for Aroden) is this table's canon once used in a chapter, and not before. Until then it
 may be struck without consequence.
 
 ## III. Where the truth lives
 
 - **Chronicle source:** `source/book-1-the-marchlands-commission.md`.
-- **Bible:** this file, `01-where-you-come-from.md` (the world around Drezen, in the table's
-  voice, for players writing bios), `02-dramatis-personae.md`, `03-lore-and-locations.md`,
+- **Bible:** this file, `01-where-you-come-from.md` (a pointer to `secrets/lore-where-you-come-from.md`, the world
+  around Drezen in the table's voice, for players writing bios), `02-dramatis-personae.md`, `03-lore-and-locations.md`,
   `04-visual-style-guide.md`, `06-in-world-calendar.md`.
 - **Likenesses:** `characters/CANON.md`.
 - **Published site:** built from the source markdown via `build.ps1` → `data.js`, served by
