@@ -118,7 +118,8 @@ body. The filename prefix files it: `company-` (the company's own letters and di
 
 The attribution line must be a single line: the build takes the first one-line italic after the
 title as the subtitle. In the body, `### Section` and `## Section` headers, `*dates*`,
-`> blockquotes` (their line breaks kept, so a notice or a price board sets as written), `- ` and
+`> blockquotes` (their lines reflow as prose; end a line with a backslash `\` to break there, which is
+how a notice or a price board keeps its lines), `- ` and
 `1. ` lists (an indented `> ` line inside an item is a quotation set in it), `| tables |` with a
 dashes rule under the header row, `---` rules, `` `code` `` and `[links](url)` all render. Every
 heading gets an anchor id from its text (lowercased, non-alphanumerics to dashes, prefixed `h-`:

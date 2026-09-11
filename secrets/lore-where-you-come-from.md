@@ -173,8 +173,8 @@ what it does. Watch them do it again while they think.
 
 Three sayings from any Mendevian kitchen:
 
-> *Aroden is coming. Set a place.*
-> *The wall is only as good as the priest is sober.*
+> *Aroden is coming. Set a place.*\
+> *The wall is only as good as the priest is sober.*\
 > *Pray to Iomedae. Pay Abadar. Drink with Cayden. Bury with Pharasma. Ask the trees when nobody's looking.*
 
 **Orders and outfits.** A crusader belongs to something, or pretends to.
@@ -445,11 +445,11 @@ Hallit, a tattoo pattern, a skull in a box, and the certainty that the country o
 
 What a Fire Circle grandmother keeps, from an inventory a landlord's clerk once tried to make:
 
-> *One (1) skull, elk, wrapped. Not for sale. Not for touching. Not for asking about.
-> One (1) knife, the good one. One (1) knife, the other one.
-> Four (4) words of Hallit the grandchildren know. Eleven (11) they do not.
-> One (1) map of Undarin, drawn from memory, wrong.
-> One (1) place set at every meal. Not for Aroden. For someone else. Don't ask about that either.*
+> *One (1) skull, elk, wrapped. Not for sale. Not for touching. Not for asking about.*\
+> *One (1) knife, the good one. One (1) knife, the other one.*\
+> *Four (4) words of Hallit the grandchildren know. Eleven (11) they do not.*\
+> *One (1) map of Undarin, drawn from memory, wrong.*\
+> *One (1) place set at every meal. Not for Aroden. For someone else. Don't ask about that either.*
 
 **Bio hooks from Sarkoris.** A god-caller's granddaughter with the family god's name and no god,
 which puts her ahead of most clerics. A huzuri-keeper whose clan is down to four people, three of
@@ -477,14 +477,12 @@ The crusade's recruiters have a sheet for this, *Questions Commonly Asked by Tho
 Service West of the Sellen*, the most honest document the crusade has ever printed, because it
 was written by a clerk who had been there:
 
-> *Is it as bad as they say?* Yes.
-> *Is the ground safe to walk on?* Until it is not. You will not be warned.
-> *What do the demons want?* To watch.
-> *Are there people living there?* Yes. Do not assume they want rescuing. Some of them have
-> jobs.
-> *What is the pay?* The pay is discussed at the citadel.
-> *What should I bring?* Boots. A second pair of boots. Something to be buried with, or a note
-> saying you do not mind.
+> *Is it as bad as they say?* Yes.\
+> *Is the ground safe to walk on?* Until it is not. You will not be warned.\
+> *What do the demons want?* To watch.\
+> *Are there people living there?* Yes. Do not assume they want rescuing. Some of them have jobs.\
+> *What is the pay?* The pay is discussed at the citadel.\
+> *What should I bring?* Boots. A second pair of boots. Something to be buried with, or a note saying you do not mind.
 
 **The five regions**, as the crusade's scholars divide them, from a safe distance:
 
@@ -585,18 +583,15 @@ heroes of that fortnight, and yours can be another. Small is a description of th
 
 For new arrivals, the Warden's office issues a single sheet:
 
-> *ON ARRIVAL IN DREZEN*
-> *Where do I sleep?* Where you can. The barracks are full. The inns are full. The temple
-> compound has an orphanage, a food bank and an infirmary; qualify for one.
-> *Where do I eat?* Rabiah's compound, the kitchen. Do not comment on the angle.
-> *Where do I get paid?* The citadel, on completion, on presentation of the work, on the
-> Warden's word that the work was done. The Warden's word is not for sale. Do not ask what it is
-> for.
-> *Is the South Bank safe?* The South Bank is across the river.
-> *Is the river safe?* The river is dry.
-> *Is the dry river safe?* Use the bridges.
-> *Who do I report a demon to?* Anyone. Loudly.
-> *Who do I report a crusader to?* The Warden. Quietly.
+> *ON ARRIVAL IN DREZEN*\
+> *Where do I sleep?* Where you can. The barracks are full. The inns are full. The temple compound has an orphanage, a food bank and an infirmary; qualify for one.\
+> *Where do I eat?* Rabiah's compound, the kitchen. Do not comment on the angle.\
+> *Where do I get paid?* The citadel, on completion, on presentation of the work, on the Warden's word that the work was done. The Warden's word is not for sale. Do not ask what it is for.\
+> *Is the South Bank safe?* The South Bank is across the river.\
+> *Is the river safe?* The river is dry.\
+> *Is the dry river safe?* Use the bridges.\
+> *Who do I report a demon to?* Anyone. Loudly.\
+> *Who do I report a crusader to?* The Warden. Quietly.\
 > *Where is the Queen's steward?* Nerosyan. He was here for an afternoon. We have his chair.
 
 **The lie of the city.** The citadel on the high ground, the Preservers' compound north-east of

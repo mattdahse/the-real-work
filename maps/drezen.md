@@ -84,10 +84,10 @@ city where everyone's clothes are ruined, and is doing very well. **Abner Suthi*
 and sweets; he once died on a spike above a lava lake and was brought back, and he sells sweets,
 and he has thought about it. From the board outside the auction house, this week:
 
-> *ROPE, new, Kenabres: 4 sp the fathom.*
-> *ROPE, used, South Bank: ask.*
-> *HONEY, Suthi's: 2 sp the jar. Sweets: 1 cp, or a story he hasn't heard.*
-> *CLOTH, Thorne's: whatever you have. He will make it work.*
+> *ROPE, new, Kenabres: 4 sp the fathom.*\
+> *ROPE, used, South Bank: ask.*\
+> *HONEY, Suthi's: 2 sp the jar. Sweets: 1 cp, or a story he hasn't heard.*\
+> *CLOTH, Thorne's: whatever you have. He will make it work.*\
 > *WANTED: persons of no company for a job of no description. Office above. Knock once.*
 
 The company's first employer keeps that office.

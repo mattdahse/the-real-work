@@ -593,6 +593,20 @@ function gotoAnchor(id){
   var bar = document.querySelector('.searchbar'), off = (bar ? bar.offsetHeight : 0) + 10;
   window.scrollTo({top: el.getBoundingClientRect().top + window.scrollY - off, behavior:'smooth'});
 }
+/* a quotation's lines are prose and reflow, like a paragraph's; a line that ends in a backslash
+   breaks there, which is how a notice, a price board or a sheet of questions keeps its lines.
+   An empty line inside the quote also breaks. */
+function quoteHtml(raw){
+  var parts=[], cur=[];
+  raw.split('\n').forEach(function(l){
+    l = l.trim();
+    if(!l){ if(cur.length){ parts.push(cur.join(' ')); cur=[]; } return; }
+    if(/\\$/.test(l)){ cur.push(l.replace(/\\$/,'').trim()); parts.push(cur.join(' ')); cur=[]; return; }
+    cur.push(l);
+  });
+  if(cur.length) parts.push(cur.join(' '));
+  return parts.map(inline).join('<br>');
+}
 function mdToHtml(md){
   WHOSEEN = {};   /* one document, one link per person; see linkNames above */
   var blocks = md.split(/\n{2,}/), out=[], inBallad=false, heads=[], tocAt=-1;
@@ -629,7 +643,7 @@ function mdToHtml(md){
     else if(/^##\s/.test(first)){ var t2=b.replace(/^##\s*/,''), id2=slugId(t2); heads.push({id:id2, t:t2}); out.push('<h2 id="'+id2+'">'+inline(t2)+'</h2>'); }
     else if(/^#\s/.test(first)){ var t1=b.replace(/^#\s*/,''); out.push('<h2 id="'+slugId(t1)+'">'+inline(t1)+'</h2>'); }
     /* a quotation keeps its own line breaks: a notice, a price board, a sheet of questions */
-    else if(/^>\s/.test(first)){ out.push('<blockquote>'+b.replace(/^>\s?/gm,'').trim().split('\n').map(function(l){ return inline(l.trim()); }).join('<br>')+'</blockquote>'); }
+    else if(/^>\s/.test(first)){ out.push('<blockquote>'+quoteHtml(b.replace(/^>\s?/gm,''))+'</blockquote>'); }
     else if(/^[✦✧❥☆★\s—-]+$/.test(b) && /[✦❥☆★]/.test(b)){ out.push('<div class="ornament">'+esc(b.trim())+'</div>'); }
     else if(/^-{3,}$/.test(b.trim())){ out.push('<hr>'); }
     /* a table: a header row, a rule of dashes, then rows */
@@ -651,7 +665,7 @@ function mdToHtml(md){
         if(q) it.q.push(q[1]); else it.t += ' '+l.trim();
       });
       out.push((ordered?'<ol>':'<ul>')+items.map(function(it){
-        return '<li>'+inline(it.t)+(it.q.length?'<blockquote>'+it.q.map(function(l){ return inline(l.trim()); }).join('<br>')+'</blockquote>':'')+'</li>';
+        return '<li>'+inline(it.t)+(it.q.length?'<blockquote>'+quoteHtml(it.q.join('\n'))+'</blockquote>':'')+'</li>';
       }).join('')+(ordered?'</ol>':'</ul>'));
     }
     else if(/^\*[^*].*\*$/.test(b) && b.indexOf('\n')<0){ out.push('<div class="rdsub">'+inline(b)+'</div>'); }
