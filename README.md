@@ -23,6 +23,7 @@ source/                         ← the canonical chronicle (edit these)
   book-1-the-marchlands-commission.md   Book I (ongoing): the commissions, one after another
 bible/                          ← authoring reference (voice, cast, lore, look)
   00-style-and-prompt-guide.md
+  01-where-you-come-from.md     the lands around Drezen, for players writing a character bio
   02-dramatis-personae.md
   03-lore-and-locations.md
   04-visual-style-guide.md      the house look, shared with the crusade's site; the company's colour set
