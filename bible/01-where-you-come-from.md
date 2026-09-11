@@ -622,44 +622,26 @@ counted home through the same arch. The ledger at the gate has three columns: *O
 
 ---
 
-## 8. Building the bio: five questions
+## 8. Building the bio
 
-You do not need a life story. You need enough that the DM can hurt you with it. Answer these,
-briefly, and stop.
+You do not need a life story. You need enough that the DM can hurt you with it. Think about all
+five of these, then fold two or three into a bio of a few paragraphs and leave the rest for the
+table to find out.
 
-**Where are you from?** Pick a place from §2 through §7, or one that is not here and should be.
-A quarter of a city, a village on a road, a cave, a boat. Then: who is still there, and do they
-know where you are? A Fire Circle grandmother, a quarry foreman, a clan of four, a landlord. One
-person you would go back for, or one you are making sure never finds you.
+- **Where are you from?** A quarter, a village, a cave, a boat. Who is still there, and do they
+  know where you are?
+- **What are you good at, and why?** Not the class. The thing the class grew out of, and who
+  paid for the lesson.
+- **What are you afraid of, and why?** Everyone in Mendev shares the same three fears. The
+  fourth is the useful one, and it can be small. Bells. Being counted.
+- **Why are you in Drezen right now?** Not why you came. Why you are still here, this week, when
+  the road south is open and nobody checks papers.
+- **Where do you see yourself in five levels?** Nobody in Drezen asks, because the answer is the
+  cemetery. Ask anyway. A stall in the market. A squad. A skull carried home to a river that runs
+  again.
 
-**What are you good at, and why?** Not the class. The thing the class grew out of. You can climb
-because the Gate District had no stairs to your floor. You can read because the inquisition
-taught you, and you have thought about that since. You can lie in two languages. You can carry
-a wounded man a mile because you have. Say where you learned it and who paid for the lesson.
-
-**What are you afraid of, and why?** Everyone in Mendev is afraid of the same three things and
-has a fourth of their own. The fourth is the useful one. It can be small. Fire. Bells. Being
-counted. Being the twelfth on a wagon that arrives with nine. Something that happened on Armasse
-that you have not told anyone, and a country with one story does not need to hear yours to guess
-it.
-
-**Why are you in Drezen right now?** Not why you came. Why you are still here, this week, when
-the road south is open and nobody checks papers. The pay. A wall. A name. A grave. A god. A debt.
-Somebody in the *In* column you are waiting for. A reason you have told no one and the Warden
-has on file already. Pick one and be honest about whether it is a good one.
-
-**Where do you see yourself in five levels?** This is the question nobody in Drezen asks,
-because the answer is the cemetery, which is the only district with a growing population. Ask it
-anyway. A stall in the Celeste Market. A squad of your own. The forge relit. The skull carried
-home to a river that runs again. Out of the *Shrinkage* column for good. The ballad is taken; a
-verse in it is not. Write down what your character would want if wanting were allowed here, and
-let the DM decide what it costs.
-
-Then two smaller things. **What do you carry** that is not on the equipment list: a zoic fetish
-that protected you from everything except what happened; a bowl from Tuesday's mistake you were
-meant to return; a sword-and-sun badge on a coat that was somebody else's; a brewery token, the
-one currency that has held its value. And **what is the gesture you make** when you pass the
-temples. Do it now. Think about what it does.
+If it helps: one thing you carry that is not on the equipment list, and the gesture you make
+when you pass the temples.
 
 ### Naming by people
 
