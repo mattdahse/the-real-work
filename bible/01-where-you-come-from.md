@@ -58,7 +58,7 @@ facts:
 If your character has been in Drezen more than a week, they have also heard: that there is a
 thousand-platinum bounty posted by the demons themselves on a succubus somewhere in the west;
 that a shrine of Sarenrae two days down the western road has been reopened and is being kept by
-a priest named **Rothin Vald**; that the **Southshore** has not been searched; and that
+a priest named **Rothin Vald**; that the **South Bank** has not been searched; and that
 **Horgus Gwerm**, the quartermaster, is browbeating the crown for grain.
 
 ### The dates that matter
@@ -424,8 +424,9 @@ the Wound.
   fey there hate everyone now.
 
 **The rivers.** The **West Sellen** is the eastern boundary and the road the crusade came in
-by; everything east of it is Mendev and everything west of it is this. The **Ahari** runs under
-Drezen's walls. The **Sarkora** still flows, south-west of the rift; the **Rolling River** and
+by; everything east of it is Mendev and everything west of it is this. The **Ahari** ran under
+Drezen's walls until the Wound opened; its dry bed now cuts the city in half. The **Sarkora**
+still flows, south-west of the rift; the **Rolling River** and
 the **Isk** do not, and their dry beds are roads now. The **Moutray**, along the Ustalav border,
 carried wardstones once. The **Gray Road** west of Drezen is a dry riverbed named for what walks
 it.
@@ -489,38 +490,55 @@ another.
 - **Joran Vhane** — Staunton's kinsman, a dwarven master smith, surrendered in the citadel and
   now a penitent who dreams of relighting the forge beneath Drezen for good ends.
 
-**Where things are.**
+**Where things are.** The crusade's chart of the city is the Map tab on this site; the letters
+here are its letters. North is to the upper right, and the citadel walls are a little under a
+mile from the South Bank.
 
-- **The citadel** — the fortress on the height: the sally port, the Templar's Court, the tiers
-  and dungeons the four cleared. The crusade's garrison lives here.
-- **Iomedae's Preservers** — **Harlock**'s order: five squads of paladins and clerics sworn to
-  hold the city. **Elara Dawnstrider**, a paladin who renounced her noble family, holds the order
-  while he is west and calls its recruits; the trials are three days long. **Aldwin
-  Brightblade**, once a Kenabres blacksmith, is one of them.
-- **Lupenor's Market** — the trading house **Lupenor** founded. **Mira Thistledance**, a half-elf
-  bard, keeps it and screens every trader who wants a stall; **Silas Thorne** sells cloth there;
-  **Abner Suthi** — never "Avner" — trades honey and sweets and once died on a spike above a lava
-  lake and was brought back. The Market hires people with no company behind them for work it does
-  not want traced to itself, and does not apologise for it.
-- **The temple of Sarenrae** — **Varic**'s foundation, built and funded by him. Its head priest,
-  **Rothin Vald**, is two days west keeping the reopened Hidden Temple.
-- **The temple of the united faiths** — across the way, **Sosiel Vaenic**'s: a priest of Shelyn,
-  charged with building one house for all the good gods of the crusade.
+- **Citadel Drezen** (A) — the star-fort in its moat on the high ground, inside a pentagonal
+  curtain wall with six towers and one gate facing south into the city: the sally port, the
+  Templar's Court, the tiers and dungeons the four cleared. The crusade holds it outright, and
+  the garrison lives here. Everything the company is paid to do is counted out of this arch and
+  counted back through it.
+- **Iomedae's Preservers** (B) — **Harlock**'s order, walled on the high ground north-east of
+  the city: garrison, barracks, chapel, stable, a watchtower over the western approach, and a
+  parade ground drilled every morning. Five squads of paladins and clerics sworn to hold the
+  city. **Elara Dawnstrider**, a paladin who renounced her noble family, holds the order while
+  he is west and calls its recruits; the trials are three days long. **Aldwin Brightblade**,
+  once a Kenabres blacksmith, is one of them.
+- **Varic's temple compound** (C) — on the eastern ridge, ringed by its own low wall. At the
+  centre, the **temple of Sarenrae**, **Varic**'s foundation; its head priest **Rothin Vald** is
+  two days west keeping the reopened Hidden Temple. Across the way, the **temple of the united
+  faiths**, **Sosiel Vaenic**'s — a priest of Shelyn, charged with building one house for all
+  the good gods of the crusade. An orphanage, a food bank and an infirmary fill the rest of the
+  ground, which says plainly what the compound is for.
+- **Rabiah's compound** (D) — the ring quarter east of the ridge, wound in circles around the
+  old **amphitheatre**, the one place in the city that will hold a crowd: bazaar, brewery,
+  bathhouse, community kitchen, workshop row, and a shrine over a meeting square. Built fast and
+  built crooked — the kitchen and the dining hall were begun from two ends by two people and met
+  at the wrong angle — and the most alive ground in Drezen. The four's own followers live here,
+  an old guard from Kenabres and a newer wave since. **Tilda Merrow**, an aging adept, keeps them
+  from dying of their own enthusiasm; **Sir Brannic Vayne**, who is not really a knight but has
+  beautiful handwriting, keeps the lists.
+- **The Celeste Market District** (E) — **Lupenor**'s foundation, packed between the citadel
+  wall and the riverbank: vendors under canvas, an auction house, warehouses along the wall,
+  three inns, and Lupenor's residence above it all. **Mira Thistledance**, a half-elf bard,
+  screens every trader who wants a stall; **Silas Thorne** sells cloth; **Abner Suthi** — never
+  "Avner" — trades honey and sweets, and once died on a spike above a lava lake and was brought
+  back. The Market hires people with no company behind them for work it does not want traced to
+  itself, and does not apologise for it.
 - **The shrine of Erastil** in the southern quarter — reopened by **Jeskar Hinton**, a young
   priest who came with the first refugees, and found desecrated once already. He and his
   hunters are away west; the shrine is not.
-- **The Redeemers' camp** — the four's own followers, an old guard from Kenabres and a newer wave
-  since. It looks like a festival collided with a refugee camp and decided to stay: bright cloth
-  strung between posts, a kitchen and a dining hall that were built toward each other from two
-  ends and met at the wrong angle, children chasing chickens, someone juggling badly. **Tilda
-  Merrow**, an aging adept, keeps them from dying of their own enthusiasm; **Sir Brannic Vayne**,
-  who is not really a knight but has beautiful handwriting, keeps the lists.
-- **The crusaders' lines** — neat rows of identical tents, and the merchants' stalls in their
-  orderly rows beside them.
-- **The refugees** — from Kenabres and the lost settlements, still arriving.
-- **The Southshore** — a quarter of scrap yards and rope-walks that spent seventy-five years
-  under demon rule and has not been searched. **Cinder Row** runs through it. This is where the
-  work is.
+- **The Ahari riverbed** — dry since the Wound opened, cutting the city in half, crossed by two
+  bridges, and a road for anything that would rather not use the gates.
+- **The South Bank** (F) — the quarter across the riverbed: scrap yards and rope-walks that
+  spent three generations under demon rule and have not been searched. **Cinder Row** runs
+  through it. The crusade holds the walls above it and very little of what is under its roofs.
+  This is where the work is.
+- **The cemetery** — outside the walls to the west, on the far bank. Older than the occupation,
+  and added to steadily since the retaking.
+- **The crusaders' lines and the refugees** — neat rows of identical tents beside the merchants'
+  stalls, and the people out of Kenabres and the lost settlements, still arriving.
 
 **The roads.** East and south, the road down to **Kenabres**: **Keeper's Canyon**, where the road
 turns toward Drezen and where two armies camped; **Vilareth Ford**, the crossing on the road up
@@ -657,5 +675,6 @@ history of Threshold and Areelu Vorlesh beyond what the four already know, and e
 
 **One discrepancy to settle.** The crusade's calendar and its build script both put the taking
 of Drezen on **Fire Day, the 13th of Rova, 4713** (the weekday anchor for both sites). This
-repository's README, style guide, lore bible and calendar all say **the 13th of Neth**. This
-document follows the chronicle. Four lines in this repo should probably change to match.
+repository's README, style guide, lore bible, calendar and Drezen map all say **the 13th of
+Neth**. This document follows the chronicle. Five lines in this repo should probably change to
+match.
