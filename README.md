@@ -7,7 +7,7 @@ that runs alongside The Fifth Crusade — and the searchable site built from it.
 **Sister site:** https://mattdahse.github.io/the-fifth-crusade/ — the same reader, the same world,
 the other table.
 
-Drezen changed hands on the 13th of Neth, 4713 AR. While the mythic four fight their way west,
+Drezen changed hands on the 13th of Rova, 4713 AR. While the mythic four fight their way west,
 the cohorts they left behind hire whoever is standing in Drezen to keep the road open, the shrine
 supplied, and the city fed. The company are those people: 1st level, unaffiliated, and picked for
 it. Their chronicle lives here.

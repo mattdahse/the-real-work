@@ -17,7 +17,7 @@ the Timeline displays: write it in the chronicle's voice, and keep it accurate.
 A chapter's place on that Timeline comes from its own `<!-- inworld: … -->` marker in `source/`,
 not from this file. When a chapter's dates change, change both.
 
-The campaign begins after **Drezen changed hands on the 13th of Neth, 4713 AR**. The same year
+The campaign begins after **Drezen changed hands on the 13th of Rova, 4713 AR**. The same year
 and the same weekday cycle as The Fifth Crusade's chronicle: a date here and a date there name
 the same day.
 

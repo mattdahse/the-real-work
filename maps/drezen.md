@@ -7,7 +7,7 @@
 <!-- scale: the walls to the South Bank — a little under a mile -->
 
 Seventy years of demon rule, and then the walls came back into crusade hands on the **13th of
-Neth, 4713**. What the chart shows is a city relearning how to be one: the citadel and its
+Rova, 4713**. What the chart shows is a city relearning how to be one: the citadel and its
 curtain wall holding the high ground, two compounds gone up on the eastern ridge, a market
 crowded against the gate, and a whole quarter across the dry Ahari that nobody has searched.
 North is to the upper right.

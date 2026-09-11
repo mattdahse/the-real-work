@@ -4,7 +4,7 @@
 
 ## The situation
 
-**Drezen** was retaken by the crusade on the **13th of Neth, 4713 AR**, after seventy years under
+**Drezen** was retaken by the crusade on the **13th of Rova, 4713 AR**, after seventy years under
 demon rule. The crusade holds the walls and the citadel. It does not yet hold every quarter, and
 the city is still learning how to be a city again — a garrison, a market, two temples, a
 quartermaster browbeating the crown for grain, and a great many buildings nobody has searched.

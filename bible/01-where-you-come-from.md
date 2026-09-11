@@ -15,8 +15,7 @@ its spellings, its dates, its people. Where the chronicle is silent, Paizo's set
 both are silent, invent, and tell Matt so it can be written down.
 
 **How to use it.** Skim §1 so you know what everyone in the city knows. Then read the one or two
-sections that match where your character is from, pick from the prompts in §8, and check §9 before
-you claim anything that belongs to the crusade's story already.
+sections that match where your character is from, and pick from the prompts in §8.
 
 ---
 
@@ -49,9 +48,10 @@ facts:
   demons in 4638 is a crusader city again. The ***Sword of Valor***, the banner lost when it
   fell, was carried out of the dungeons beneath it. **Staunton Vhane**, the dwarf who betrayed
   the city three generations ago, is buried here.
-- **Sir Aldrich Thorne** came from the Queen as steward the next day, and the city passed to
-  **Irabeth Tirabade** to govern. The crusade holds the walls and the citadel. It does not yet
-  hold every quarter.
+- **Sir Aldrich Thorne** came from the Queen the next day — by teleportation, with two guards —
+  saw the city passed to **Irabeth Tirabade** to govern, and left the same day, declining to stay
+  for so much as a meal. He has not been in Drezen since. The crusade holds the walls and the
+  citadel. It does not yet hold every quarter.
 - **The four are away in the west**, days out of contact, and what they are doing there is not
   common knowledge. The cohorts they left behind are holding the city on a thread, and hiring.
 
@@ -122,7 +122,7 @@ lake; halflings; half-elves; and beneath Kenabres, the **mongrelmen**, the warpe
 First Crusade soldiers who were driven underground by their own comrades.
 
 **Rule.** Mendev is a monarchy under **Queen Galfrey**, the Sword of Iomedae — a Taldan woman who
-looks not yet thirty and is over a hundred years old, kept young by the sun orchid elixir and
+looks to be in her middle forties and is over a hundred years old, held there by the sun orchid elixir and
 crowned in 4601 as a paladin of Aroden, before there was a Worldwound. She retrained herself as
 Iomedae's paladin when the crusades came, and she is the one who ordered the retreat from
 Sarkoris in 4638 so that the wardstones could be raised. Her word is law within Nerosyan's walls.
@@ -152,8 +152,12 @@ as one crosses oneself before something sacred.
   the war back outward. Still the conscience of the crusade, such as it has.
 - **The Riftwardens** — a secretive society of planar scholars who want the Worldwound *closed*,
   not merely held, based in Kenabres's **Librarium of the Broken Black Wing**. **Aravashnial**,
-  the blind elven wizard, is one. Their mark is the Seeker's Spiral. *See §9 before you touch
-  this.*
+  the elven wizard blinded in the fall of Kenabres and since healed by the Queen's own priests,
+  is one. Their mark is the Seeker's Spiral, and it is not a thing to give a new character
+  without asking.
+- **Iomedae's Preservers** — the newest of the orders, founded this autumn by **Harlock
+  Greyforge** and headquartered in Drezen: five squads of paladins and clerics sworn to hold the
+  city.
 - **The Kenabres Wolves** — the spies and scouts, **Aron Kir**'s people. He is Warden of Drezen
   now.
 - **The Order of Holy Sentinels** — guardians of the ***Demonscope*** at **Clydwell Keep**, the
@@ -288,9 +292,9 @@ came down. In the quarry caravan, ten miles out, watching the sky. In the cells 
 inquisition. In the tunnels, and you did not know the tunnels were there. Among the refugees
 sheltering in the Defender's Heart when four filthy strangers walked back in with the wardstone
 broken behind them. A city watchman with twelve years' service and a burn scar you explain
-differently every time (that is **Sera Vost**, and she went west; there are others like her). A
-craftsman's son who followed Harlock (that is **Deren Ashfall**; there are others like him). A
-carpenter who lost workshop, tools and wife in an afternoon (that is **Tobias Runt**). A
+differently every time (that is **Sera Vost**; there are others like her). A craftsman's son who
+followed Harlock (that is **Deren Ashfall**; there are others like him). A carpenter who lost
+workshop, tools and wife in an afternoon (that is **Tobias Runt**). A
 mongrelman of Neathholm above ground for the first time.
 
 ---
@@ -339,7 +343,7 @@ as an elf but as a Kellid woman on an elk who leads them to game; **Erastil**; *
 Raliscrad; and names now half-lost — **Alglenweis**, **Dolok Darkfur**, **Kagia**,
 **Ristrentho**, the **Stag Mother** of the Forest of Stones, **Sturovenen** the Dragoneagle and
 his dawn-feathered children. There was worship of Sarenrae here too, in the old days, in shrines
-like the one two days west of Drezen; **Brix Copperfinch**, a gnome scholar with the expedition,
+like the one two days west of Drezen; **Brix Copperfinch**, a gnome scholar of the Dawnflower,
 has made a life's study of it. And there was always Deskari's cult in the Northmounds, driven out
 by Aroden and never quite gone.
 
@@ -446,7 +450,7 @@ Lord of the Locust Host, whose green-and-red locust wings are the sign of the en
 chattel kept for labour, food or sacrifice; the willing workers of Raliscrad; the free folk of
 Gundrun; the changed people of Sabertooth Vale and Shadow Spring; the enslaved miners of Iz, who
 broke every production record under the whip; and the thousands who lived in occupied Drezen,
-among whom **Fenna Tusk**, a half-orc girl of seventeen now with the expedition, was born. A
+among whom **Fenna Tusk**, a half-orc girl of seventeen, was born. A
 character born inside the Wound is possible. Ask Matt.
 
 **What you meet on the road.** Babau, brimoraks, vrocks, nabasu, shadow demons; derakni in the
@@ -482,7 +486,6 @@ another.
 
 - **Irabeth Tirabade** — half-orc paladin of the Eagle Watch, Governor. Held Kenabres together
   with her bare hands and was released by the Queen to ride north.
-- **Sir Aldrich Thorne** — the Queen's steward, sent the day after the fall.
 - **Aron Kir** — former spy, now Warden of Drezen; keeps the citadel's watch and its secrets.
 - **Horgus Gwerm** — a Kenabres noble who counted his gold in the rubble and now counts the city's
   grain; blunt, unsentimental, and the man to see about supply.
@@ -527,8 +530,7 @@ mile from the South Bank.
   back. The Market hires people with no company behind them for work it does not want traced to
   itself, and does not apologise for it.
 - **The shrine of Erastil** in the southern quarter — reopened by **Jeskar Hinton**, a young
-  priest who came with the first refugees, and found desecrated once already. He and his
-  hunters are away west; the shrine is not.
+  priest who came with the first refugees, and found desecrated once already.
 - **The Ahari riverbed** — dry since the Wound opened, cutting the city in half, crossed by two
   bridges, and a road for anything that would rather not use the gates.
 - **The South Bank** (F) — the quarter across the riverbed: scrap yards and rope-walks that
@@ -550,7 +552,7 @@ twelve miles, or a hard day's march.
 
 **What Drezen feels like.** A garrison learning to be a town. Acid-scarred stone. Two temples
 facing each other across a street, both newer than the season. More buildings than people, and
-nobody sure what is in most of them. Every expedition west leaves by the western gate and is
+nobody sure what is in most of them. Every party that goes west leaves by the western gate and is
 counted home through the same arch — battered, and short of somebody.
 
 ---
@@ -571,8 +573,8 @@ of the other two?
 
 1. **With the hundred.** You marched out of Kenabres on the 30th of Arodus with the four. You
    were at Vilareth Ford or Keeper's Canyon. You are one of the volunteers who lived.
-2. **With the steward.** You came up with Sir Aldrich Thorne's party on the 14th of Rova, or with
-   the relief and supply that has followed.
+2. **With the relief.** You came up with the reinforcement and supply that has followed since
+   Rova.
 3. **On a supply wagon.** Conscripted in Nerosyan, or hired on in Egede, or a stowaway. The
    wagons have been rolling since Rova.
 4. **With the refugees.** From Kenabres, from a farm the demons burned, from Valas's Gift.
@@ -622,31 +624,7 @@ west. A way to never go west again.
 
 ---
 
-## 9. Reserved by the chronicle — do not claim without asking
-
-These belong to the crusade's story, and a new character who takes one of them will collide with
-it:
-
-- **The Seeker's Spiral, and the Riftwardens' cohorts of marked children.** Rabiah carries it;
-  so does one other. There are no more.
-- **The ritual in the Molten Scar, and what was done to Harlock at fifteen.**
-- **Terendelev's scales**, the four silver scales carried since the caverns under Kenabres.
-- ***Radiance***, ***Solemn Hour***, ***Battle Hymn***, ***Soul Shear***, the ***Sword of
-  Valor***, and Yaniel who carried Radiance before.
-- **Being in the Gray Garrison** with the four on the 23rd of Arodus. You may have been in the
-  Defender's Heart when they came back. You were not up the stairs.
-- **Kin to Irabeth, Anevia, Aravashnial, Staunton or Joran Vhane, Galfrey, Hulrun.** Ask first.
-- **Arueshalae**, the redeemed succubus, and anything the demons are hunting in the west.
-- **The Ivory Sanctum**, Xanthir Vang, and the enemy's intelligence out of Vhane's journals.
-
-Spellings the table has settled, against the transcripts and sometimes against Paizo:
-**Chyrrik** (and she is female); **Abner** Suthi; **Aponavisius**; **Jeskar** Hinton; **Lenne**
-Marsh; **Deren** Ashfall; **Adara Seln**; **Selyse Avelia**; **Vorimeraak** (female). Use the
-chronicle's.
-
----
-
-## 10. Sources, and what was left out
+## 9. Sources, and what was left out
 
 *For Matt, and for anyone checking a fact.*
 
@@ -672,9 +650,3 @@ of the Worldwound, the Sarkoris Scar, the Reclaimers, Gundrun's revival, Jormurd
 Chancellor Irahai, the Academy of the Reclamation, the Godsfall towers. Also excluded: the deep
 history of Threshold and Areelu Vorlesh beyond what the four already know, and everything from
 *Wrath of the Righteous* Books IV–VI. If a player has read ahead, the bio should not show it.
-
-**One discrepancy to settle.** The crusade's calendar and its build script both put the taking
-of Drezen on **Fire Day, the 13th of Rova, 4713** (the weekday anchor for both sites). This
-repository's README, style guide, lore bible, calendar and Drezen map all say **the 13th of
-Neth**. This document follows the chronicle. Five lines in this repo should probably change to
-match.

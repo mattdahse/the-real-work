@@ -11,7 +11,7 @@ same world, and the two archives should read as one hand.
 - **System:** Pathfinder 1e. A homebrew campaign, *The Marchlands Commission*, run alongside
   *Wrath of the Righteous*. The Fantasy Grounds campaign is named **The Real Work**, and so is
   this site.
-- **Premise:** Drezen changed hands on the 13th of Neth, 4713 AR, and is still learning how to be
+- **Premise:** Drezen changed hands on the 13th of Rova, 4713 AR, and is still learning how to be
   a city again. While the mythic four fight their way west, the cohorts they left behind hire
   whoever is standing in Drezen to keep the road open, the shrine supplied, and the city fed. The
   company are those people — 1st level, unaffiliated, and picked for it.
