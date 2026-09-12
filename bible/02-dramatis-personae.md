@@ -21,6 +21,14 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
 - **Dorogh Kell** *(player: ?)* — half-orc fighter, early twenties, noticeably bigger than a
   human. Grey-green skin, subtly pointed ears, two small clean lower tusks, an open nasal helm, and
   plain round wire spectacles. Quick-minded, and making a careful, visible effort to look friendly.
+- **Diddle Scribes** *(player: ?)* — goblin alchemist, roughly fifteen years out of the ditch
+  James Helmsmith found him in. Small even for a goblin and leaner than his kin; huge tapered ears,
+  four small yellow eyes set in the dark under a deep hood; a quilted tan coat over a long brown
+  work-coat hung with pouches and a belt of stoppered vials. Reared by a human shopkeeper and
+  taught to trade with the other races — rough going at first, easier once Drezen got used to him.
+  Quirky and a touch naive; poor at people, excellent at potions. Signed on with the town guard to
+  see the world. **James Helmsmith** — his adoptive father, human, alchemist and shopkeeper, once
+  an adventurer who gathered his own reagents.
 
 ## Employers
 
