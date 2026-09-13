@@ -1,6 +1,6 @@
 ---
 name: real-work-chronicle
-description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Trivius Malrec, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
+description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Riven Maelus, Dorogh Kell, Diddle Scribes) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
 ---
 
 # The Real Work → Repo & Site
@@ -76,7 +76,7 @@ the **date**, not the title. `build.ps1` strips the line before rendering.
 
 Transcripts run long; pull them in sequential chunks of ~250–300 lines and read all of it.
 **Speaker labels in Fathom transcripts are unreliable.** Identify who did what from *content* —
-a healing prayer is Jules's, a warhammer is Wende's, a transmutation is Trivius's — not from the
+a bomb is Diddle's, a transmutation is Riven's, a sword-blow is Dorogh's — not from the
 name on the line.
 
 ## Workflow — 1. The chapter
@@ -209,8 +209,8 @@ before publishing. A chapter-opening illustration goes between the subtitle line
 
 ## Canon spellings
 
-Trivius Malrec, Wende Sandhauler, Esper Toevel, Jules Arine, Dorogh Kell, Mira
-Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
-Preservers, Rothin Vald, the Hidden Temple of Sarenrae. Transcripts will drift (Teep, Wendy,
-Espar, Jools, Dorough, Thistledance/Thistledown) — fix all of them. Add settled spellings here as
+Riven Maelus, Dorogh Kell, Diddle Scribes, James Helmsmith, Vaelus and
+Seraphine Maelus, Blackreed, Threshold, Mira Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
+Preservers, Rothin Vald, the Hidden Temple of Sarenrae. Transcripts will drift (Rivet, Malus/Maelus, Diddel,
+Doroug, Thistledance/Thistledown) — fix all of them. Add settled spellings here as
 the table produces them.

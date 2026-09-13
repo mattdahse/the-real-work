@@ -29,6 +29,13 @@ the road between them on a thread. That is where the company comes in.
 - **The Marchlands** — the broken country west of Drezen. The crusade's chart of it is the Map
   tab on The Fifth Crusade's site.
 
+- **Blackreed** — a settlement raided by the crusade some years back. Riven Maelus was in his
+  mid-teens there when the raid separated him from his parents; he has not seen them since. His
+  memory of the raid, and of the crusaders in it, is incomplete. From John's background for Riven —
+  nothing else about the place is fixed yet.
+- **Threshold** — where Riven found old documentation on transmutation and worked it on himself,
+  coming out stronger than he went in. Unplaced on the map so far; John left its location open.
+
 Add places as the company finds them, and put the ones worth a pin into `maps/`.
 
 ## Artifacts & relics

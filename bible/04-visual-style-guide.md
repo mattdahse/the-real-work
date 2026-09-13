@@ -52,24 +52,20 @@ the feeling of the instant as two or three physical tells. A calm blank face is 
 
 ## The company's colours
 
-The five were painted as a **set**, because they stand on the same map at once and must be told
+The company were painted as a **set**, because they stand on the same map at once and must be told
 apart at a glance. Keep the set in every scene that holds more than one of them:
 
 | Character | Colour | Light |
 |---|---|---|
-| Trivius Malrec | TBD | TBD |
-| Wende Sandhauler | copper-red and hot orange | warm forge-orange from low and to one side |
-| Esper Toevel | deep green and dull brass | a single cool pale lantern, a warm glint on the brass |
-| Jules Arine | rose-pink and silver-grey | soft rose-tinted key, cool silver rim |
+| Riven Maelus | ash-grey and cold arcane blue | a cold blue key from the spell in his own hand |
 | Dorogh Kell | bright steel and moss-grey | warm key on polished steel |
-
-Esper must never drift toward Wende's copper; Jules must never slide into it either.
+| Diddle Scribes | tan and bomb-orange | a warm glow from the flask in his hands |
 
 ## Devices, and the cross
 
 **Name every religious device explicitly, and name the cross in the Avoid line.** The model
 reaches for a Christian cross whenever a scene smells of priests or armoured figures, unprompted.
-Jules's symbol is **Shelyn's songbird with a long multicoloured tail feather**, in silver and
+Shelyn's symbol is **a songbird with a long multicoloured tail feather**, in silver and
 enamel — never a sun, never a sword; the world already carries Sarenrae's bare sun and Iomedae's
 sword-and-sun, and a third sun-device collapses the faiths together. Dorogh carries **no device at
 all**: nothing at the chest.

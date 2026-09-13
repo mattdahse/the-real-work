@@ -26,15 +26,13 @@ for the voice at length (published to the Lore tab; `bible/01-where-you-come-fro
 Player names are not recorded yet. Fill them in here. They live only in the bible, never in the
 prose.
 
-- **? → Trivius Malrec**: tiefling transmuter; bio TBD.
-- **? → Wende Sandhauler**: quarry dwarf; shield, warhammer, a dented chain shirt, and copper
-  braids bound with steel rings.
-- **? → Esper Toevel**: human bard of the road; green wool, tarnished brass, an instrument kept
-  close.
-- **? → Jules Arine**: human priestess of Shelyn; dove-grey and rose, a silver-and-enamel
-  songbird at her throat, a glaive across her back.
+- **John → Riven Maelus**: self-taught wanderer-wizard, drawn to transmutation; lost his parents in the
+  raid on Blackreed and keeps an ear out for them. Reads people, remembers roads, wants a way out of
+  every room.
 - **? → Dorogh Kell**: young half-orc fighter, bigger than a human, in an open nasal helm and
   plain wire spectacles. Sharper than he looks and knows it.
+- **? → Diddle Scribes**: goblin alchemist raised by a human shopkeeper; four small yellow eyes
+  under a deep hood, oversized ears, a belt of stoppered vials. Guileless, and handy with a bomb.
 
 *Matt runs the game.*
 

@@ -6,3 +6,6 @@ source/refs/
 
 # favicon previews from `make-favicon.py --preview`
 preview-*.png
+
+# DM-only notes — table secrets that must never reach the public site or its history
+bible/dm-only/
