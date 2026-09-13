@@ -26,7 +26,7 @@ for the voice at length (published to the Lore tab; `bible/01-where-you-come-fro
 Player names are not recorded yet. Fill them in here. They live only in the bible, never in the
 prose.
 
-- **John → Riven Maelus**: self-taught wanderer-wizard, drawn to transmutation; lost his parents in the
+- **John → Riven Maelus**: tiefling; self-taught wanderer-wizard, drawn to transmutation; lost his parents in the
   raid on Blackreed and keeps an ear out for them. Reads people, remembers roads, wants a way out of
   every room.
 - **? → Dorogh Kell**: young half-orc fighter, bigger than a human, in an open nasal helm and

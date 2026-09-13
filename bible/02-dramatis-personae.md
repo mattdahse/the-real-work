@@ -7,7 +7,7 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
 
 ## The Company
 
-- **Riven Maelus** *(player: John)* — wizard, early twenties, self-taught. Raised on the road by
+- **Riven Maelus** *(player: John)* — tiefling wizard, early twenties, self-taught. Raised on the road by
   **Vaelus and Seraphine Maelus**, wanderers who never kept a house and made a living by trading,
   hauling, mending, carrying word, and taking what the road offered. He was in his mid-teens when a
   crusader raid hit **Blackreed** and he was separated from them; he never found them, and does not
@@ -31,7 +31,7 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
   *Note:* John's second email spells the parents **Malus**; his first spells them **Maelus**,
   matching the character's own surname. Recorded as **Maelus** — confirm with him.
   *There is one more thing about Threshold that Riven has told no one; it is not in this file.
-  See the DM-only note, which is deliberately not committed to this public repository.*
+  See `bible/dm-only/riven-the-voice.md` — tracked, but never compiled onto the site.*
 - **Dorogh Kell** *(player: ?)* — half-orc fighter, early twenties, noticeably bigger than a
   human. Grey-green skin, subtly pointed ears, two small clean lower tusks, an open nasal helm, and
   plain round wire spectacles. Quick-minded, and making a careful, visible effort to look friendly.
