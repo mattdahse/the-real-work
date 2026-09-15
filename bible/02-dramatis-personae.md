@@ -43,6 +43,8 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
   Quirky and a touch naive; poor at people, excellent at potions. Signed on with the town guard to
   see the world. **James Helmsmith** — his adoptive father, human, alchemist and shopkeeper, once
   an adventurer who gathered his own reagents.
+- **Kora Sjon** *(player: ?)* — tengu oracle, with a bit of a poltergeist problem. Bio and
+  portrait TBD.
 
 ## Employers
 
