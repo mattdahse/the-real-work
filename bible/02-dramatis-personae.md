@@ -43,11 +43,22 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
   Quirky and a touch naive; poor at people, excellent at potions. Signed on with the town guard to
   see the world. **James Helmsmith** — his adoptive father, human, alchemist and shopkeeper, once
   an adventurer who gathered his own reagents.
-- **Kora Sjon** *(player: ?)* — tengu oracle, with a bit of a poltergeist problem. Glossy
-  blue-black corvid head and three-fingered clawed hands, one amber-gold eye, a heavy dark grey
-  beak; a gold-worked hood thrown back over a feathered mantle and dark vestments hung with small
-  charms, and a tall crook-headed staff with a lit lantern swinging from it. Portrait in
-  `characters/kora-sjon.webp`; bio TBD.
+- **Kora Sjon** *(player: Freya)* — tengu oracle of Kwanlai, thirty-three, 5'7" and a little taller
+  than a human woman; black feathers all over, a raven's head and neck, humanlike hands and birdlike
+  legs, in a light grey dress and hooded robe. Neutral good; follows **Hei Feng**. Life mystery,
+  haunted curse. Trained under a city oracle as a chick once her visions showed, and read futures for
+  a living. Married **Marrak**, a thief; they sailed and walked half the world together — Tengu are
+  reckoned good luck aboard ship — and bought a small house on a city's edge, where she told him
+  which market to work and he stole. One morning he let her sleep rather than ask for a vision, was
+  caught lifting a purse, and took a poisoned bolt getting clear. No healer would come; the wound
+  turned and she sat with him for days while he blamed her and begged her to heal him. She buried
+  him and holds herself at fault. **The haunting:** that guilt opened a way in, and unquiet spirits
+  have latched onto her ever since — the sad ones a weight she can barely move under, the angry
+  ones throwing objects, the mischievous ones sliding things out of reach; some stay hours, some
+  months. **The wound she will not touch:** she has dedicated herself to healers and medicine so that
+  nobody else sits helpless, but the sight or smell of a *late-stage* infection puts her back at
+  Marrak's bedside and she cannot act. Corpses and fresh infections she handles fine. Portrait in
+  `characters/kora-sjon.webp`.
 
 ## Employers
 
