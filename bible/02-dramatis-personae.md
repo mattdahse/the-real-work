@@ -43,8 +43,11 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
   Quirky and a touch naive; poor at people, excellent at potions. Signed on with the town guard to
   see the world. **James Helmsmith** — his adoptive father, human, alchemist and shopkeeper, once
   an adventurer who gathered his own reagents.
-- **Kora Sjon** *(player: ?)* — tengu oracle, with a bit of a poltergeist problem. Bio and
-  portrait TBD.
+- **Kora Sjon** *(player: ?)* — tengu oracle, with a bit of a poltergeist problem. Glossy
+  blue-black corvid head and three-fingered clawed hands, one amber-gold eye, a heavy dark grey
+  beak; a gold-worked hood thrown back over a feathered mantle and dark vestments hung with small
+  charms, and a tall crook-headed staff with a lit lantern swinging from it. Portrait in
+  `characters/kora-sjon.webp`; bio TBD.
 
 ## Employers
 
