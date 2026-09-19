@@ -65,7 +65,8 @@ prose.
     price board, a recruiting bill, a ledger with a column called *Shrinkage*, a chair kept for a
     god who is not coming. Report them deadpan and move on.
   - **Let people talk.** A named character gets one line in their own voice and the line does
-    the work. Mira Thistledance, asked her criteria: "Yes." Dialogue varies the rhythm for free.
+    the work. Mira Thistledance, asked what the job pays: "Glory. Also a hundred and fifty gold."
+    Dialogue varies the rhythm for free.
   - **Deadpan without the tail.** State the fact and stop. *Hulrun spent fifty years burning
     people to keep the demons out. The demons killed him first.* Do not add "there is a lesson in
     that." The reader has it.

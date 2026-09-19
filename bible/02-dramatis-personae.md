@@ -62,9 +62,15 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
 
 ## Employers
 
-- **Mira Thistledance** — half-elf bard, Lupenor Celest's cohort; keeps Lupenor's Market and
-  screens every trader who wants a stall. Hires people with no company behind them for work she
-  does not want traced to the Market, and does not apologise for it.
+- **Mira Thistledance** — half-elf bard, Lupenor Celest's cohort; keeps Lupenor's Market. Left
+  to listen to the city while the four ride west — "not spies," they insisted, "nothing so
+  grand" — she has decided, with total delight and a lifetime of ballads behind her, that she is
+  **Drezen's spymaster**. Enthusiasm bubbles out of her in everything; she is not wise, not a
+  strategist, and not sure of the details, and her plans come from stories. Having watched the
+  company in the market, she is convinced she has found her elite squad of spies and saboteurs, and
+  she is still hunting for the PERFECT name for it: every time they meet she has a few new
+  candidates, and wants theirs. Hires people who belong to no one because that is what operatives
+  are in the stories — she had not thought about what else it means.
 - **Elara Dawnstrider** — human paladin of Iomedae, who renounced her noble family; calls the
   recruits of Iomedae's Preservers and runs the order's three-day trials. Holds Drezen's order
   while Harlock is in the west.
