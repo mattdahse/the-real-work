@@ -224,7 +224,7 @@ Kora's drink tipped over into her lap. Her hands were nowhere near it. She did n
 She started cleaning it up. Riven, who had spent the morning throwing invisible fists at
 centipedes, filed the moment away and said nothing. Dorogh offered to buy her another.
 
-![Somebody observed that they were a diverse bunch.](images/ch1-two-pints-and-a-song.webp)
+![A half-orc, a goblin, a tengu, and a tiefling walk into a bar...](images/ch1-two-pints-and-a-song.webp)
 
 There is no public library in Drezen. There are said to be whole rooms of books inside the
 citadel, available to privileged individuals.
