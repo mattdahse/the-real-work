@@ -474,8 +474,8 @@ it.
 Then Dorogh, with two men in front of him and no way to ask the others whether the moment had
 come, decided that it had, and bolted through the door.
 
-He brought his shield down on the head of a man who had his back turned and was expecting nothing
-at all, and missed, and spilled his coffee.
+He came through it at a dead run behind the shield, roaring, and swung it at the head of a man who
+had his back turned and was expecting nothing at all, and missed, and spilled his coffee.
 
 ![Operative Yam springs the ambush.](images/ch1-dorogh-shield-bash.webp)
 

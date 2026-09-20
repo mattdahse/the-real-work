@@ -31,7 +31,8 @@ prose.
   every room.
 - **? → Dorogh Kell**: young half-orc fighter, bigger than a human, in an open nasal helm and
   plain wire spectacles. Sharper than he looks and knows it.
-- **? → Diddle Scribes**: goblin alchemist raised by a human shopkeeper; four small yellow eyes
+- **? → Diddle Scribes**: goblin alchemist raised by a human shopkeeper; an ordinary goblin face
+  behind a rigid four-holed alchemist's mask (two eye-holes above, two breathing holes below) worn
   under a deep hood, oversized ears, a belt of stoppered vials. Guileless, and handy with a bomb.
 
 *Matt runs the game.*
