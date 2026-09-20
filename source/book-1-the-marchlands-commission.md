@@ -6,7 +6,7 @@
      above the first one. There are none yet: the first session's chapter goes here, in the
      shape bible/00-style-and-prompt-guide.md describes. -->
 
-## **The Quiet Knives**
+## **Say it with me: 'The Quiet Knives!'**
 
 *September 19, 2026 session. A wax locust, a market full of centipedes, and the first job the company was ever offered.*
 
