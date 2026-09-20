@@ -145,6 +145,8 @@ Hobb then tackled Jory into the cobbles, sat on him, and shouted for the watch.
 Riven walked over and knocked the boy unconscious with one punch. It was a decisive blow, and
 everyone present agreed that it had looked easy.
 
+![Diddle Scribes putting out the part of it that was his own fault.](images/ch1-diddle-stamping.webp)
+
 ### **A Loaf of Bread a Day**
 
 Diddle finished stamping out his own fire, crossed the street, tugged on Kora's cloak, and held a

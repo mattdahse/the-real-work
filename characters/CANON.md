@@ -10,6 +10,14 @@ The company portraits were painted for the Fantasy Grounds campaign and are the 
 paintings — the table copies get a contrast pass for token size, these do not. They are also the
 `PORTRAITS` map in `index.html`, keyed by the exact Cast name.
 
+**Diddle's portrait was repainted on 2026-09-20.** The previous file was a flat cartoon character
+sheet: thick outlines, flat fills, cel shading. Its *design* was canon and the repaint was built
+from it — four eyes, the notched ear and its cuff, the lattice-stitched coat, the vial colours —
+but it was unusable as a likeness reference, because handing a cartoon to an image tool drags the
+whole render out of the house look, and on the Personalities page it sat beside three oil
+paintings looking like a sticker. If another portrait ever arrives in a foreign style, do the same
+thing: keep the design, repaint the medium, and say so here.
+
 **Identity here, gear elsewhere.** This file fixes what never changes — face, build, colouring,
 species markers. At first level their gear is plain and dented; when the company re-equips, note
 the change in the row rather than repainting the face.
