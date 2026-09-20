@@ -19,8 +19,9 @@
 **Lupenor's Market** on the 26th of Neth was doing what a market does in a city ten weeks out of
 demon hands, which is shouting. Traders had claimed whatever ground they could hold: a cart here,
 a lean-to propped against a wall there, a carpet spread flat on cobbles that were old when the
-citadel fell. Seven colours of silk. Pepper, rosemary, salt. Chickens underfoot. The merchants had
-arrived well ahead of the residents, which is the order these things happen in.
+citadel fell. Seven colours of silk. Pepper, rosemary, salt. Chickens underfoot. A board by the
+water pump carried the week's fixed prices in chalk, and grain had been rubbed out and written in
+again three times that month. The merchants had arrived well ahead of the residents.
 
 Four people were standing in that street who did not know one another.
 
@@ -29,16 +30,17 @@ about fifty-five with a leather patch over one eye, who dug under Drezen's walls
 stayed on afterwards to dig the ruins out instead. Everything on Wat's rug used to be broken:
 hinges, a kettle, a lock with a new key tied to it, a mended lantern, a row of old tools gone
 brown and oiled back into use. Riven had pulled a tea kettle and a few spoons out of an abandoned
-house on the South Bank and made them serviceable again, which is most of what he does. Wat
-watches the alleys the way men do who have spent a long time underground, and he does not think
-much of people who ask where his stock came from.
+house on the South Bank, mended them, polished them, and was being offered ten copper for the lot.
+Wat watches the alleys the way men do who have spent a long time underground, and he does not
+think much of people who ask where his stock came from.
 
 **Kora Sjon** had her back to the water pump, buying pins and bone buttons from **Marit Olsk**, a
 small tired woman in a good grey coat gone threadbare at the cuffs, calling needles and thread off
 an upturned crate that was not hers.
 
-**Dorogh Kell** had come in from the west end to buy a birthday present and found himself a spot
-out of the flow of traffic, which is what you do when you are the tallest thing in the street.
+**Dorogh Kell** had come in from the west end to buy a birthday present. He had not settled on
+whose. He found a spot out of the flow of traffic, because he is the tallest thing in most streets
+and people mention it.
 
 **Diddle Scribes** was losing a haggle. His master had handed him a shopping list and a promise to
 reimburse whatever he judged the goods were worth, which is one way to teach a lesson about
@@ -296,7 +298,7 @@ back.
 
 Diddle was Tomato, because he throws things. Dorogh was Yam. Kora was Carrot. Riven was Cabbage.
 
-Dorogh asked to be Pickle. He was not Pickle.
+Diddle asked whether he could be Pickle instead. He was not Pickle.
 
 The pitch followed. She is the spymaster of Drezen, she said, dropping her voice to a volume that
 carried, and she has been looking a long time for an elite strike team of master infiltrators, and
@@ -323,14 +325,17 @@ fifty gold for it, more for better intelligence. Her operational proposal was th
 infiltrate the place disguised as a troupe of acrobats. When that landed poorly she offered monks.
 
 She was also still hunting for the right name for the strike force. She tried **the Quiet Knives**
-on them, and made the whole room say it with her, and did not seem to love it either. Somebody
-countered with the Marketplace Irregulars. It was agreed that the question could wait.
+on them, and made the whole room say it with her, and did not seem to love it either. She offered
+the Market Shadows. She offered Operation Nightingale, and then took it straight back: that was a
+mission name, she said, and she was saving it for a mission worth the having. Nobody told her.
+Somebody countered with the Marketplace Irregulars. It was agreed that the question could wait.
 
 They signed on for the one job, as a trial. Riven asked for library access as part of the terms,
 and Mira thought research was a wonderful idea and tore a sheet of parchment in half and wrote him
-a note on it. They agreed a signal: a red flag tied to the water spout in the market meant she
-needed to talk, a blue flag meant they did, and any other flag meant that somebody else had tied a
-flag to the spout, which would be its own kind of news.
+a note on it. Then they worked out a signal system, and she took it down on the wax tablet as they
+went. A red flag tied to the water spout in the market meant she needed to talk. A blue flag meant
+they did. A purple flag meant she needed to talk, purple being nearly red. Any other flag on the
+water spout meant that somebody had tied a flag to the water spout.
 
 Somebody asked what had become of her last team.
 
@@ -389,6 +394,12 @@ studying was none of their concern.
 They went home to sleep on it, and agreed to meet at the alchemist's shop after breakfast.
 
 ### **A Copper a Pound**
+
+They met at the alchemist's shop after breakfast, where Diddle's master opened up to find three
+strangers on his step asking for his goblin, and elected not to ask about it. Dorogh greeted
+Diddle as Pickle. Diddle corrected him: Tomato. Operative Tomato. Dorogh observed that Pickle was
+what he had asked for. It was settled that he could have both, on the grounds that Mira was not
+going to check.
 
 The South Bank is the worst part of Drezen and nobody in Drezen argues the point. It is where the
 slaves were housed during the occupation. It has no reliable water, no arable ground, no decent
@@ -478,9 +489,10 @@ Somewhere close by, a baby started screaming. Something thumped against the door
 was holding shut, and the handle rattled, and she did not let it open.
 
 Kora put a crossbow bolt into the man with the black chin whiskers. Diddle went past everybody's
-legs at a dead run, announcing a medic coming through, knelt in the doorway, and spent his last
-real potion on Riven, who came back to himself face down on the floor of a stranger's house. Kora
-got in beside Dorogh and closed his wounds while a hatchet was being swung at the pair of them.
+legs at a dead run, announcing a medic coming through, knelt in the doorway, and poured his last
+potion into Riven, who came back to himself face down on the floor of a stranger's house. It was
+the second he had spent in two days and the last one he had. Kora got in beside Dorogh and closed
+his wounds while a hatchet was being swung at the pair of them.
 
 Dorogh killed the man he had failed to knock out.
 
