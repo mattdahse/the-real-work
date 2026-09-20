@@ -363,6 +363,9 @@ same number of fingers. A man was sent in to ask a sergeant. The sergeant said n
 voice behind them suggesting that somebody in authority had cleared it, and the guards agreed that
 a voice had spoken and did not believe a word of it.
 
+Diddle went home. His master was still waiting on the morning's ingredients, and Diddle has
+outlived the average goblin by a comfortable margin and intends to go on doing it.
+
 So Riven went in alone, and Kora walked back across the city in the dark and knocked on Mira's
 side door, and Mira opened the peephole and said, "Agent Carrot. What are you doing here?" and
 wrote out two more notes without asking a single question, because research is wonderful.
