@@ -76,6 +76,8 @@ crust; and a seven-year-old at the baker's handcart named **Pip Venn**.
 Jory reached his crescendo. Deskari would preserve him, and if they doubted it they could watch
 what Deskari would do. Then he kicked out the side of the crate he was standing on.
 
+![It was hard to take Jory seriously.](characters/jory-tallow.webp)
+
 ### **Four Strangers and Four Centipedes**
 
 What spilled out was one rolling knot of legs that took a moment to sort itself into four giant
