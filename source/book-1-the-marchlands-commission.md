@@ -16,38 +16,47 @@
 
 ### **The Boy on the Crate**
 
-Drezen's market on the 26th of Neth was doing what a market does in a city ten weeks out of demon
-hands, which is shouting. Vendors had claimed whatever ground they could hold: a cart here, a
-lean-to propped against a wall there, a carpet spread flat on cobbles that were old when the
+**Lupenor's Market** on the 26th of Neth was doing what a market does in a city ten weeks out of
+demon hands, which is shouting. Traders had claimed whatever ground they could hold: a cart here,
+a lean-to propped against a wall there, a carpet spread flat on cobbles that were old when the
 citadel fell. Seven colours of silk. Pepper, rosemary, salt. Chickens underfoot. The merchants had
 arrived well ahead of the residents, which is the order these things happen in.
 
 Four people were standing in that street who did not know one another.
 
-**Riven Maelus** was negotiating over salvage with **Wat Crake**, a one-eyed veteran of the
-crusade's sappers who came out of the war a digger rather than a fighter and now sells refurbished
-junk off a carpet. Riven had pulled a tea kettle and a few spoons out of an abandoned house on the
-South Bank and made them serviceable again, which is most of what he does.
+**Riven Maelus** was negotiating over salvage with **Wat Crake**, a broad, grey-bearded man of
+about fifty-five with a leather patch over one eye, who dug under Drezen's walls in the taking and
+stayed on afterwards to dig the ruins out instead. Everything on Wat's rug used to be broken:
+hinges, a kettle, a lock with a new key tied to it, a mended lantern, a row of old tools gone
+brown and oiled back into use. Riven had pulled a tea kettle and a few spoons out of an abandoned
+house on the South Bank and made them serviceable again, which is most of what he does. Wat
+watches the alleys the way men do who have spent a long time underground, and he does not think
+much of people who ask where his stock came from.
 
-**Kora Sjon** had her back to the water pump, buying pins and bone buttons from an older woman
-named **Merrick**.
+**Kora Sjon** had her back to the water pump, buying pins and bone buttons from **Marit Olsk**, a
+small tired woman in a good grey coat gone threadbare at the cuffs, calling needles and thread off
+an upturned crate that was not hers.
 
 **Dorogh Kell** had come in from the west end to buy a birthday present and found himself a spot
 out of the flow of traffic, which is what you do when you are the tallest thing in the street.
 
 **Diddle Scribes** was losing a haggle. His master had handed him a shopping list and a promise to
 reimburse whatever he judged the goods were worth, which is one way to teach a lesson about
-people. **Keta Holm** had raised her price on him because he smelled funny. He offered three
-copper anyway. She was surprised enough to come down to four, from seven, and he walked away with
-his cat's whisker and a quiet private sense of having won something.
+people. **Ketta Holm**, a wiry herbalist of about thirty-five who came up from Nerosyan as a camp
+apothecary and stayed in Drezen because the army pays for bandages on time, had raised her price
+on him because he smelled funny. He offered three copper anyway. She was surprised enough to come
+down to four, from seven, and he walked away with his cat's whisker and a quiet private sense of
+having won something.
 
 Then a boy climbed onto a crate beside the water pump.
 
 He was sixteen at most, in a tradesman's apron with something yellow and sticky down the front of
 it, and he held up a lump of wax shaped like a locust by somebody who had never looked closely at
-one. Merrick began shouting at him to get down before he made a fool of himself. **Jory Tallow**,
+one. Marit began shouting at him to get down before he made a fool of himself. **Jory Tallow**,
 she called him, apprenticed to the candle-maker up the road. He had come up out of **Kenabres**
-with her. He was a good kid, she said, a little rattled in the head, and who wasn't.
+with her. She had bought her candles from his master's shop for years and watched him grow up
+behind the counter, and when the city was opened in Arodus she had assumed he was dead. He was a
+good kid, she told Kora, a little rattled in the head, and who wasn't.
 
 Jory was not listening. He was addressing the market.
 
@@ -57,9 +66,10 @@ winning side?"
 Dorogh, who could not live where he lives without knowing the name **Deskari**, shrugged and went
 back to his shopping with half an eye on the crate. Riven walked over for a closer look, counting
 children on the way, on the theory that a crowd this loud usually has somebody small working it.
-There were three, and none of them were thieves: an acolyte boy with a whetstone and a purse, a
-woman called **Liesl** with a baby on her hip, and a seven-year-old girl at the baker's cart named
-**Pip**.
+There were three, and none of them were thieves: a gangly boy called **Aldo Fenn** in a
+Preserver's white tabard a size too large, holding a new whetstone and carrying no weapon at all;
+a laundress called **Liesl Ambry** with her two-year-old son **Benno** on her hip, gnawing a
+crust; and a seven-year-old at the baker's handcart named **Pip Venn**.
 
 Jory reached his crescendo. Deskari would preserve him, and if they doubted it they could watch
 what Deskari would do. Then he kicked out the side of the crate he was standing on.
@@ -70,22 +80,37 @@ What spilled out was one rolling knot of legs that took a moment to sort itself 
 centipedes, each about as long as a man is tall and a foot and a half wide counting the parts that
 moved. They scattered into the market and went hunting for whatever looked easiest.
 
-The street answered the way a street does. Old **Hrenna** stayed at her barrel of coals and warmed
-her hands. Wat Crake selected a length of iron from among his wares and stood slapping it into his
-palm, waiting for anything at all to come onto his carpet. A scribe named **Pete** discovered that
-velvet slippers are not running shoes and went down the street screaming, trailing paper out of
-his satchel. A porter named **Dunn** spent the whole crisis thinking carefully about whether he
-still got paid if he ran. **Liesl** wedged herself between her baby and the street and did not
-move again.
+The street answered the way a street does.
+
+Old **Hrenna** stayed on her upturned bucket at the brazier and held her hands out to the coals.
+She is seventy, Sarkorian, and was carried off from a steading as a girl and kept in this city by
+the demons who held it, and she has been free for a few weeks. There is not very much left of her.
+She watched the whole thing with enormous patient eyes, and she did not move once, and if one of
+them had come at her it would have had her, and she knew it.
+
+**Wat Crake** selected a length of iron from among his wares and stood slapping it into his palm,
+waiting for anything at all to come onto his carpet. He was not frightened. He was annoyed.
+
+**Piet Harl**, a clerk in a black coat gone shiny at the elbows who kept books for a counting-house
+in Kenabres until Kenabres was opened, discovered that a clerk's velvet slippers are not running
+shoes and went down the street screaming, trailing paper out of his satchel. **Dun Ferrow**, a big
+slow porter, put down a sack of meal and spent a good part of the crisis working out whether he
+still got paid if he ran. **Liesl Ambry**, whose husband did not come back from the taking, got
+her body between Benno and the street and did not move again.
 
 The four strangers did something else.
 
 Riven stepped back and put a fist of blue-white light into the nearest centipede, a working that
 slid off his hand and kept the shape of it as it flew. The thing rolled up onto its front legs and
 came down again with a noise like heavy rain on a roof, and did not change its mind about where it
-was going. He shouted at the acolyte boy to run, and the boy ran.
+was going. He shouted at Aldo Fenn to run, and Aldo ran, instantly and without arguing. Aldo is
+seventeen. He joined **Iomedae's Preservers** the week Drezen fell, because the Preservers are
+Harlock Greyforge's and Harlock Greyforge is the greatest man he has ever seen from a distance,
+and he has been drilled with a spear ever since by other recruits who do not know how either.
+Nobody had ever given him an order in a real fight before. He has thought about it a good deal
+since.
 
-Pip went under a wagon. The centipede went under after her.
+Pip went under her father's handcart. The centipede went under after her.
 
 Dorogh got down on his belly in the filth of the street and worked a long spear into the gap,
 trying to reach the thing that was eating a child without putting the point through the child. It
@@ -95,21 +120,23 @@ that children being eaten was worth the risk, moved up along the stalls, and lob
 thumbed open in the air. It burst and reduced a centipede to legs and flame. It also set fire to a
 fruit stall, which he went and stamped out afterwards.
 
-The centipede under the wagon bit Pip through the middle and she stopped moving.
+The centipede under the cart bit Pip through the middle and she stopped moving.
 
 Kora crossed twenty feet of contested street to get within reach of her, crouched to see under the
 axle, and made a sound like a chirp. There was a light so faint you had to already be looking for
-it to see it at midday. The girl's bleeding stopped. Her father, **Oscar**, who bakes, saw the
-wounds go still and took it for the worst news of his life.
+it to see it at midday. The girl's bleeding stopped. Her father, **Oskar Venn**, saw the wounds go
+still and took it for the worst news of his life.
 
-Dorogh killed the thing under the wagon from his belly and got up. Riven killed the one Kora had
-wounded. A butcher named **Hob** waded in with a cleaver, took a bite and a dose of paralytic for
-his trouble, and stayed upright out of sheer indignation. The last centipede bit Jory Tallow as he
-tried to run from the crate he had opened, which he would later find theologically confusing.
+Dorogh killed the thing under the cart from his belly and got up. Riven killed the one Kora had
+wounded. **Hobb Garrow**, who soldiered in the Fourth Crusade and has cooked for the Preservers'
+barracks ever since, was in the street arguing over a string of onions. He came in with his
+cleaver, took a bite and a dose of paralytic for his trouble, and stayed upright out of sheer
+indignation. The last centipede bit Jory Tallow as he tried to run from the crate he had opened,
+which he would later find theologically confusing.
 
 Dorogh put the spear through it, and the fight was over in less time than it takes to describe.
 
-Hob then tackled Jory into the cobbles, sat on him, and shouted for the watch.
+Hobb then tackled Jory into the cobbles, sat on him, and shouted for the watch.
 
 Riven walked over and knocked the boy unconscious with one punch. It was a decisive blow, and
 everyone present agreed that it had looked easy.
@@ -125,24 +152,34 @@ good a character reference as anyone gets. She poured the potion into the wound.
 red foam and the skin closed smooth under it, and Pip pushed herself onto her elbows, reached up,
 and touched Kora's beak, and did not say anything at all.
 
-Oscar wanted their names. Diddle. Kora. Doro, said Dorogh, happy to help.
+Oskar wanted their names. Diddle. Kora. Doro, said Dorogh, happy to help.
 
-"I'm never going to forget you," Oscar told them. "Anytime you want bread, it's on the house. A
+"I'm never going to forget you," Oskar told them. "Anytime you want bread, it's on the house. A
 loaf a day for the rest of your lives."
+
+It is worth knowing what he was offering. Oskar Venn came up from Nerosyan behind the supply
+wagons a fortnight after the city fell, a widower with a child and a trade an army needs. He rents
+a cold oven in an empty house two streets over. He is a narrow, stooped man who apologises to
+large people before they have said anything, and the one thing in the world he is proud of is that
+his is the first bread baked in Drezen in seventy years.
 
 Riven, who had spent the fight in the open and the aftermath under a hood, went to help put out
 the last of the flames and gave his name to nobody in a uniform.
 
-The watch arrived from both ends of the street and converged on the one person in Drezen who had
-been paying complete attention. **Bruna** had spent the entire incident backed against a wall on
-her own rug, declining to move off it for anybody, watching. Her account was accurate down to the
-antenna that had landed in her good silverware. She gave the watch the goblin's bomb and the
-goblin putting the fire out, both. She reported that the bird woman had cast something she could
-not name, which seemed to have worked, because the child was up and running.
+The watch arrived from both ends of the street and converged on the one person in the market who
+had been paying complete attention. **Bruna Aske** sells pots and pans and ladles off a rug, and
+keeps the only honest scales in Lupenor's Market, which is a thing she has had a row with every
+trader on the street to establish. She had spent the entire incident standing on that rug holding
+her brass scales to her chest with both hands, declining to move off it for anybody, watching.
 
-The watch asked where the cultist had gone. The garrison cook, Bruna said, had carried him off
-over his shoulder to **Mira's**. The watchmen nodded as though that settled the matter and went
-that way.
+Her account was accurate down to the antenna that had landed in her good silverware. She gave the
+watch the goblin's bomb and the goblin putting the fire out, both. She reported that the bird
+woman had cast something she could not name, which seemed to have worked, because the child was up
+and running. She is not on anybody's side. She is on the side of the scales.
+
+The watch asked where the cultist had gone. The garrison cook, Bruna said, meaning Hobb, had
+carried him off over his shoulder to **Mira's**. The watchmen nodded as though that settled the
+matter and went that way.
 
 A few minutes later somebody started calling silk again.
 
@@ -150,9 +187,9 @@ Riven picked up the wax locust, which nobody had thought to collect. It was bees
 lavender, with thumbprints still in it where the boy had pressed and pulled and twisted it into
 shape. It was an ordinary lump of wax made by hand by somebody who was trying.
 
-They followed Merrick to the candle shop, where a short round man with a walrus moustache heard
-what his apprentice had done, said the boy had not been right since Kenabres, and shut up shop to
-go and speak for him. He had noticed Jory slipping off somewhere the last few days. He did not pay
+They followed Marit to the candle shop, where a short round man with a walrus moustache heard what
+his apprentice had done, said the boy had not been right since Kenabres, and shut up shop to go
+and speak for him. He had noticed Jory slipping off somewhere the last few days. He did not pay
 him enough to go drinking, and the boy had not come back drunk, so he had left it alone.
 
 Nobody bought a candle.
@@ -200,16 +237,17 @@ behind it wanted a password.
 The room behind the door had a wall of paper in it. Floor plans. Scraps of parchment and cloth.
 Cramped writing that ran margin to margin as though it were the last paper in the world. Long
 looping hands. Some of it in code. All of it strung together with red wool running in every
-direction. The notes had not come out of one person's desk. One page among them was a diary
-entry written by a little girl. It was not signed, and it was not in Mira's hand.
+direction. The notes had not come out of one person's desk. One page among them was a diary entry
+written by a little girl. It was not signed, and it was not in Mira's hand.
 
 Jory Tallow was tied to a chair in the middle of it with one black eye and a bandaged bite.
 
-**Mira Thistledance** keeps **Lupenor Celest's** market while Lupenor rides west. She is a
-half-elf with silver chains in her hair and a lute across her back, and she has decided, with
-total delight, that her real position is spymaster of Drezen. She had watched the whole thing in
-the market from a second-floor window. She had already interrogated the boy. What she wanted now
-was to watch the four of them work.
+**Mira Thistledance** keeps **Lupenor Celest's** market while Lupenor rides west. She is a half-elf
+with green eyes and brown hair threaded with fine silver chains, a lute swinging behind her on its
+strap and a wax tablet in one hand covered edge to edge in cramped notes and arrows, and she has
+decided, with total delight, that her real position is spymaster of Drezen. She had watched the
+whole thing in the market from a second-floor window. She had already interrogated the boy. What
+she wanted now was to watch the four of them work.
 
 So Riven pulled his hood back, put his horns in the boy's entire field of vision, and observed
 that the only reliable way to purify a thing touched by demons is to set it on fire. The colour
@@ -219,10 +257,12 @@ muscle.
 
 It worked, in the sense that the boy said everything he knew in one breath.
 
-He had wanted to be on the winning side. He was certain Deskari would win and would crush anyone
-who was not his, so he had gone looking for people who worshipped Deskari, following rumours down
-to a scrapyard on the South Bank where cultists were said to gather. They were cultists. They
-served some other demon lord entirely. They laughed at him and sent him home.
+He had wanted to be on the winning side. He had been in Kenabres in Arodus when the city was
+opened, and had seen the thing in the sky above it, and had watched the crusade fail to stop it.
+He was certain Deskari would win and would crush anyone who was not his, so he had gone looking
+for people who worshipped Deskari, following rumours down to a scrapyard on the South Bank where
+cultists were said to gather. They were cultists. They served some other demon lord entirely. They
+laughed at him and sent him home.
 
 So he had gone down into the cellars of the abandoned houses on the South Bank alone, and caught
 giant centipedes, and kept them in a crate, and fed them rats until he had enough of them to stage
@@ -315,8 +355,8 @@ An argument followed. The company put it to the gate that they were one unit, an
 holds a note collectively. The literate guard observed that bearer is singular and not plural. The
 others noted that the four of them were not of a height, were not of a race, and did not have the
 same number of fingers. A man was sent in to ask a sergeant. The sergeant said no. Kora threw a
-voice behind them suggesting that somebody in authority had cleared it, and the guards agreed
-that a voice had spoken and did not believe a word of it.
+voice behind them suggesting that somebody in authority had cleared it, and the guards agreed that
+a voice had spoken and did not believe a word of it.
 
 So Riven went in alone, and Kora walked back across the city in the dark and knocked on Mira's
 side door, and Mira opened the peephole and said, "Agent Carrot. What are you doing here?" and
@@ -363,13 +403,14 @@ The scrapyard on Cinder Row was a fair-sized house with a yard behind it, walled
 fence of uneven planks. There was a red arrow slapped onto the boards pointing round into the
 alley, a sandwich board that said SCRAP, and a sign on the gate that said BEWARE OF DOGS.
 
-There were two. Riven found the first of them by its nose in a knothole and, seeing no better idea
-on offer, reached through the fence with a spectral hand and rubbed its belly. The dog lost its
-mind. The second dog joined in. Between the yelping and the chain-rattling the company established
-that the yard held two large animals of the same line, one younger and the other missing half an
-ear and an entire leg, and that they were not so much fighting as disagreeing. Through the gaps in
-the planks they also established a pile of salvaged lumber, a pile of masonry sorted by colour,
-and a heap of rust.
+There were two, and they were the one thing in that yard that could have been settled kindly.
+Riven found the first of them by its nose in a knothole and, seeing no better idea on offer,
+reached through the fence with a spectral hand and rubbed its belly. The dog lost its mind. The
+second dog joined in. Between the yelping and the chain-rattling the company established that the
+yard held two large animals of the same line, one younger and the other missing half an ear and an
+entire leg, and that they were not so much fighting as disagreeing. Through the gaps in the planks
+they also established a pile of salvaged lumber, a pile of masonry sorted by colour, and a heap of
+rust.
 
 Dorogh knocked at the office door as an honest man looking for work. The man who opened it had a
 scrap hook in one hand and a hangover behind his eyes, and quoted a copper a pound for good steel,
@@ -379,8 +420,8 @@ and he would chain the dogs and weigh it out.
 
 It was a scrapyard. It was an entirely functional, unglamorous scrapyard.
 
-On the man's arm was a tattoo of a labyrinth. Kora saw it, and said nothing at all until they were
-well down the alley.
+Inked on the inside of the man's wrist was a labyrinth. Kora saw it, and said nothing at all until
+they were well down the alley.
 
 They talked it over somewhere private. Two men at least, sleeping where they worked, which made a
 night approach worse rather than better. Two dogs. A tattoo. The word of a half-mad boy who had
@@ -399,11 +440,11 @@ them quiet.
 
 The gate opened on a worker complaining that it had only been an hour and he had barely slept, and
 then giving up and waving them in. He set a scale up by the wall and began turning over the tile
-with his hook. The second man went to sit with the dogs. Both of them had the same labyrinth inked
-on them, one on the upper arm and one on the back of the wrist. Diddle admired the tattoo out
-loud. The man squinted at him, said "What of it," and went back to testing the chains. Diddle then
-asked when the scale had last been calibrated, and the man offered to wait while he went home for
-his own weights, and spat on the ground.
+with his hook. The second man went to sit with the dogs. Both of them had the same labyrinth on
+them, one on the upper arm and one on the back of the wrist. Diddle admired the tattoo out loud.
+The man squinted at him, said "What of it," and went back to testing the chains. Diddle then asked
+when the scale had last been calibrated, and the man offered to wait while he went home for his
+own weights, and spat on the ground.
 
 Kora drifted along the piles, browsing, until she could see through the door into the house: a
 table, a hearth, a pair of chairs, and two more men eating breakfast. Riven found a heap big
@@ -424,15 +465,17 @@ who began to scream in their chains. The man at the scale finally looked up from
 find an explosion behind him, a woman shrieking in the house, and his customers gone. He came at
 Dorogh with the hook and missed.
 
-A woman came out of a side room, very pregnant, asking what all this was. Riven laid a working of
-exhaustion on her and she sagged back into the doorway and held it.
+A woman came out of a side room, heavily pregnant, asking what all this was. Riven laid a working
+of exhaustion on her and she sagged back into the doorway and held it.
 
-Her husband, **Hesk Dolvin**, stood up from the breakfast table, took a hatchet off his belt that
+Her husband is **Hesk Dolvan**, a scrap dealer past fifty in a good coat gone shiny at the elbows,
+with a scrap merchant's hands and a scrap merchant's habit of pricing whatever is in front of him
+before he decides about it. He stood up from the breakfast table, took a hatchet off his belt that
 was more tool than weapon, said "Stay away from my wife," and put it into Riven, who went down in
 the doorway and stayed down.
 
-Somewhere close by, a baby started screaming. Something thumped against the door the woman was
-holding shut, and the handle rattled, and she did not let it open.
+Somewhere close by, a baby started screaming. Something thumped against the door **Alia Dolvan**
+was holding shut, and the handle rattled, and she did not let it open.
 
 Kora put a crossbow bolt into the man with the black chin whiskers. Diddle went past everybody's
 legs at a dead run, announcing a medic coming through, knelt in the doorway, and spent his last
@@ -445,14 +488,14 @@ The worker with the bolts in his back gave up on the yard, ran inside past the c
 fumbling at a trapdoor set into the middle of the floor. It was chained shut. He did not have the
 key. He went out the far door instead and kept going.
 
-**Aaliyah** got past Riven while he was too hurt to stop her, went into her own kitchen, found a
-knife where she knew it would be, and began working up the courage to use it on him.
+Alia got past Riven while he was too hurt to stop her, went into her own kitchen, found a knife
+where she knew it would be, and began working up the courage to use it on him.
 
-A door opened. A little girl looked out at the burning yard, at the man lying face down across the
-table, at the half-orc with the morningstar and the goblin at his feet, and then closed the door
-again, her curiosity satisfied. A little boy was shouting for his mother. The dogs were still in
-their chains and the lumber was still burning, and nobody had yet said the word Baphomet out loud
-inside that house.
+A door opened. **Sera Dolvan**, who is twelve, looked out at the burning yard, at the man lying
+face down across the table, at the half-orc with the morningstar and the goblin at his feet, and
+then closed the door again. Behind it were her brother **Corin**, who is nine and was shouting for
+his mother, and the baby in its crib. The dogs were still in their chains and the lumber was still
+burning, and nobody had yet said the word Baphomet out loud inside that house.
 
 The company had come to count cultists. What they had found so far was a family, a trapdoor that
 nobody was allowed to open, and a fight they had started themselves.

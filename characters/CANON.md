@@ -36,3 +36,44 @@ body *and* the `Avoid:` line.
   smile is closed-mouth, every time.
 - **Warm skin on Dorogh.** Half-orc skin under a torch renders warmer than asked; the portrait was
   greyed by warmth after the fact. Ask for grey-green and check it.
+
+## The module's portraits
+
+The Fantasy Grounds module **The Marchlands Commission** carries a painted portrait for every
+named person in it, in this same house look, and those are the paintings Matt shows at the table.
+**They are canon on sight.** When a person is met in play, copy their portrait across rather than
+generating a new one:
+
+```
+%APPDATA%\SmiteWorks\Fantasy Grounds\modules\The Marchlands Commission.mod   (a zip)
+  portraits\<kebab-name>.webp      full-size, what belongs here
+  tokens\<kebab-name>.webp         the table token, contrast-passed; not this
+  images\<scene>.webp              scene and battle maps
+```
+
+The module also holds portraits for people the company has **not** met. Do not copy those across
+and do not add them to `PORTRAITS`: the gallery shows no one the players have not met.
+
+Brought over after session 1, keyed to their Cast names and wired into `PORTRAITS`:
+
+| Character | Portrait | Cast group |
+|---|---|---|
+| **Mira Thistledance** | [`mira-thistledance.webp`](mira-thistledance.webp) | Employers |
+| **Jory Tallow** | [`jory-tallow.webp`](jory-tallow.webp) | Met in Drezen |
+| **Pip Venn** | [`pip-venn.webp`](pip-venn.webp) | Met in Drezen |
+| **Oskar Venn** | [`oskar-venn.webp`](oskar-venn.webp) | Met in Drezen |
+| **Wat Crake** | [`wat-crake.webp`](wat-crake.webp) | Met in Drezen |
+| **Marit Olsk** | [`marit-olsk.webp`](marit-olsk.webp) | Met in Drezen |
+| **Bruna Aske** | [`bruna-aske.webp`](bruna-aske.webp) | Met in Drezen |
+| **Old Hrenna** | [`old-hrenna.webp`](old-hrenna.webp) | Met in Drezen |
+| **Hobb Garrow** | [`hobb-garrow.webp`](hobb-garrow.webp) | Met in Drezen |
+| **Aldo Fenn** | [`aldo-fenn.webp`](aldo-fenn.webp) | Met in Drezen |
+| **Liesl Ambry** | [`liesl-ambry.webp`](liesl-ambry.webp) | Met in Drezen |
+| **Dun Ferrow** | [`dun-ferrow.webp`](dun-ferrow.webp) | Met in Drezen |
+| **Ketta Holm** | [`ketta-holm.webp`](ketta-holm.webp) | Met in Drezen |
+| **Piet Harl** | [`piet-harl.webp`](piet-harl.webp) | Met in Drezen |
+| **Hesk Dolvan** | [`hesk-dolvan.webp`](hesk-dolvan.webp) | Adversaries |
+| **Alia Dolvan** | [`alia-dolvan.webp`](alia-dolvan.webp) | Adversaries |
+
+Available in the module and **not** brought over yet, because the company has not met them:
+`sera-dolvan`, `corin-dolvan`, `dolvan-infant`, `yard-dog`, and the whole of the manor cast.

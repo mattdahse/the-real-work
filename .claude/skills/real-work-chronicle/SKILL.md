@@ -71,6 +71,35 @@ Matt runs the game (mattdahse@gmail.com). Player names live here and in the bibl
 prose**. Fathom's speaker labels are still not trustworthy; use this table to sanity-check, not to
 attribute.
 
+## The module — read it before writing, every time
+
+Matt's homebrew Fantasy Grounds module **The Marchlands Commission** is the campaign's own
+reference, and it outranks the transcript on every name, spelling, description and background.
+Fathom mangles names badly; the module has them right. It is a zip:
+
+```
+%APPDATA%\SmiteWorks\Fantasy Grounds\modules\The Marchlands Commission.mod
+  db.xml                         npc / battle / treasureparcels / quest / encounter / library
+  portraits\<kebab-name>.webp    full-size portraits, house look, canon on sight
+  tokens\<kebab-name>.webp       contrast-passed table tokens, not for the site
+  images\<scene>.webp            scene and battle maps
+```
+
+Read the `npc` nodes for everyone the session touched: each carries a *Description*, *Tactics* and
+*Roleplaying* block, and the Roleplaying block is where the character actually lives. Convert FG
+formattedtext the same way as the Player Notes in step 3. The live campaign's own `db.xml` holds
+no NPCs of its own, so the module is the only roster.
+
+**The spoiler line.** The module is written for the GM and contains a great deal the company has
+not found: what is under the scrapyard floor, the cult's name, the manor, and people they have not
+met. Use it for **who somebody is** once the company has met them, and for correct names,
+descriptions and backgrounds. Do **not** publish live plot the party has not uncovered, and do not
+add an unmet person to the Cast or to `PORTRAITS`.
+
+**Where the module and the table disagree, the table wins** — the chronicle records what happened
+in front of the players — and the disagreement goes in **Open discrepancies** in
+`bible/06-in-world-calendar.md` so Matt can rule on it.
+
 ## Recording metadata — record BOTH ids
 
 Fathom gives a session **two different numbers**: the **call id** in the share URL
@@ -227,11 +256,16 @@ Riven Maelus, Dorogh Kell, Diddle Scribes, Kora Sjon, James Helmsmith, Vaelus an
 Seraphine Maelus, Blackreed, Threshold, Mira Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
 Preservers, Rothin Vald, the Hidden Temple of Sarenrae, Deskari, Baphomet, Kenabres, the Ahari.
 
-Settled at the table in session 1: **Jory Tallow**, **Pip**, **Oscar**, **Merrick**,
-**Keta Holm**, **Bruna**, **Hob**, **Dunn**, **Pete**, **Liesl**, **Hesk Dolvin**, **Aaliyah**,
-the **Two Pints and a Song**. Two are spelled from audio only and want confirming: **Wat Crake**
-(Matt spelled it W-A-T / C-R-A-K-E) and **Hrenna**, the woman at the coal barrel.
+Verified against the module after session 1: **Jory Tallow**, **Pip Venn**, **Oskar Venn**,
+**Marit Olsk**, **Ketta Holm**, **Bruna Aske**, **Old Hrenna**, **Hobb Garrow**, **Aldo Fenn**,
+**Liesl Ambry** (her son **Benno**), **Dun Ferrow**, **Piet Harl**, **Wat Crake**,
+**Hesk Dolvan**, **Alia Dolvan**, **Sera Dolvan**, **Corin Dolvan**, the **Two Pints and a Song**.
+The candle-maker with the walrus moustache was improvised at the table and has no module entry or
+name yet.
 
-Transcripts will drift — fix all of them: Rivet, Malus/Maelus, Diddel/Dittles/Dibbles, Doroug/Doro/Doreau/Darug,
-Cora/Korra, Thistledown, Dresden, Descari/Discari/Dysgari, Canabras/Canaveras, Baphomat. Add settled
-spellings here as the table produces them.
+Transcripts will drift — fix all of them: Rivet, Malus/Maelus, Diddel/Dittles/Dibbles,
+Doroug/Doro/Doreau/Darug, Cora/Korra, Thistledown, Dresden, Descari/Discari/Dysgari,
+Canabras/Canaveras, Baphomat, Merrick/Merritt (Marit Olsk), Keta (Ketta), Oscar (Oskar), Hob
+(Hobb), Dunn (Dun Ferrow), Pete (Piet Harl), Aaliyah (Alia), Dolvin (Dolvan), Creekey (Crake).
+**Do not settle a name from audio when the module has it.** Add settled spellings here as the
+table produces them.

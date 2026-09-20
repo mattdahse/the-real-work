@@ -33,8 +33,9 @@ inside a code fence, is read by the build as a month.)
 - **26th** — Four strangers were standing in **Drezen's** market when **Jory Tallow** climbed a
   crate, preached the coming of **Deskari**, and kicked the side out of a box holding four giant
   centipedes. **Riven Maelus**, **Dorogh Kell**, **Diddle Scribes** and **Kora Sjon** killed all
-  four between them. A baker's daughter named **Pip** was bitten through and lived, because a
-  tengu stopped her bleeding under a wagon and a goblin spent a healing potion on her. **Mira
+  four between them. A baker's daughter named **Pip Venn** was bitten through and lived, because a
+  tengu stopped her bleeding under her father's handcart and a goblin spent a healing potion on
+  her. **Mira
   Thistledance** watched the whole thing from a second-floor window, had the boy tied to a chair
   in her office by evening, and hired the four of them as her first strike team for a hundred and
   fifty gold and a note to the citadel library. That night they read what the books had on
@@ -56,4 +57,19 @@ inside a code fence, is read by the build as a month.)
 
 ## Open discrepancies
 
-None yet.
+Between what was said at the table and what the Fantasy Grounds module *The Marchlands
+Commission* records. The chronicle follows the table in every case below; Matt rules.
+
+- **When Drezen fell.** The bible, the in-world calendar and The Fifth Crusade's chronicle all
+  give **the 13th of Rova, 4713**. Two of the module's NPC notes (Old Hrenna, Wat Crake) say
+  **the 13th of Neth** and "the taking this Neth". Chapter I says the market was "ten weeks out of
+  demon hands", which is the 13th of Rova to the 26th of Neth. If Neth is right, the whole
+  campaign is thirteen days after the liberation instead of ten weeks, and a good deal of the
+  city's settledness has to go.
+- **Jory Tallow's age.** The module calls him a twenty-year-old. At the table he was played as
+  sixteen and "not shaving yet". Chapter I has him at sixteen at most.
+- **Jory's master.** The module has the master die in the fire at Kenabres. At the table he is
+  alive in Drezen, keeps the candle shop, and closed it to go and speak for the boy. Chapter I has
+  him alive.
+- **Alia Dolvan's term.** The module says seven months gone; at the table she was "due in weeks,
+  not months". Chapter I says only that she is heavily pregnant.
