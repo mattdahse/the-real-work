@@ -1,0 +1,54 @@
+{
+  "source": "Fantasy Grounds campaign calendar <calendar><log>",
+  "current": {
+    "day": 26,
+    "month": 11,
+    "year": 0
+  },
+  "months": {
+    "1": "Abadius",
+    "2": "Calistril",
+    "3": "Pharast",
+    "4": "Gozran",
+    "5": "Desnus",
+    "6": "Sarenith",
+    "7": "Erastus",
+    "8": "Arodus",
+    "9": "Rova",
+    "10": "Lamashan",
+    "11": "Neth",
+    "12": "Kuthona"
+  },
+  "entries": [
+    {
+      "id": "id-00001",
+      "day": 24,
+      "month": 11,
+      "monthname": "Neth",
+      "year": 0,
+      "name": "24th Neth",
+      "log": "",
+      "gmlog": ""
+    },
+    {
+      "id": "id-00002",
+      "day": 26,
+      "month": 11,
+      "monthname": "Neth",
+      "year": 0,
+      "name": "26th Neth",
+      "log": "Marketplace Mayhem - Meeting Mira - Late-night demon research",
+      "gmlog": "Campaign begins"
+    },
+    {
+      "id": "id-00003",
+      "day": 27,
+      "month": 11,
+      "monthname": "Neth",
+      "year": 0,
+      "name": "27th Neth",
+      "log": "Assault on the Scrapyard",
+      "gmlog": ""
+    }
+  ]
+}

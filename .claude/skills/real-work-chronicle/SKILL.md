@@ -54,9 +54,22 @@ Maintaining the archive after a session means up to **six** jobs — do all that
 - **A session transcript** pasted in chat, **or Matt's description** from memory, **or** just "do
   the recap" (figure out the next chapter from the chronicle).
 - The session's **real-world play date** — put it in the subtitle. If unknown, check Matt's Google
-  Calendar. **This table's calendar event has not been named yet** — the crusade's is "Pathfinder";
-  if a search for this table's game finds nothing, ask Matt what the event is called and record it
-  here.
+  Calendar. **Event naming rule (Matt, 2026-09-20):** an invite naming **"The Real Work"** is this
+  table; one naming **"Wrath of the Righteous"** is the crusade's table in `the-fifth-crusade`.
+  The live events read `Pathfinder - The Real Work`. Match on the title, then confirm on the date.
+
+### The table (recorded 2026-09-20, session 1)
+
+| Player | Character | Email |
+| --- | --- | --- |
+| John Lake | Riven Maelus | johnclake102@gmail.com |
+| Alexander Cantella | Dorogh Kell | ajcantella@gmail.com |
+| Jeremy Weathers | Diddle Scribes | renjitwulf@gmail.com |
+| Freya Dahse | Kora Sjon | fdahse12@gmail.com |
+
+Matt runs the game (mattdahse@gmail.com). Player names live here and in the bible, **never in the
+prose**. Fathom's speaker labels are still not trustworthy; use this table to sanity-check, not to
+attribute.
 
 ## Recording metadata — record BOTH ids
 
@@ -166,8 +179,7 @@ reports no new days, Matt hasn't advanced the FG calendar; say so rather than in
    live): `git commit -am "Add <title>"` then `git push`. Pages redeploys in ~1 min; verify against
    the live URL.
 3. **Leave a Gmail draft** to the players linking the latest session — `create_draft`, **never
-   send**. **This table's player emails are not recorded yet** — ask Matt the first time and write
-   them here. Subject like `The Real Work recap — <Chapter Title> (<date>)`, a one- or two-line
+   send**. Recipients are the four player emails in **The table** above. Subject like `The Real Work recap — <Chapter Title> (<date>)`, a one- or two-line
    teaser, and the site link. To deep-link the new chapter, use
    `https://mattdahse.github.io/the-real-work/#/read/ch<order>` where `<order>` is the chapter's
    global position (= total chapter count after the build).
@@ -180,10 +192,11 @@ its start in Arizona time (`-07:00`) with `runsHours` from the event's **own len
 half hour. **Never copy `location` into `where`** — it may be a live meeting link, and this file is
 served on the public site.
 
-**The mode is not derivable yet.** The crusade's table has a weekday rule (Friday online, Saturday
-in person); this table has none recorded. Do not read the mode off the title or the location. Ask
-Matt, write the answer into `next-session.js`, and if a rule emerges record it here. If no future
-event exists, set `when: null` — the header then says the next session is not yet scheduled.
+**The mode.** This table has played **online** so far: session 1 ran on Zoom with Fantasy Grounds,
+and the invites carry a Zoom link. Default to `'online'` and leave `where: ''`. This is a habit,
+not yet a rule, and it is **not** the crusade's weekday rule (Friday online, Saturday in person):
+if a session is ever called in person, Matt has to say so. If no future event exists, set
+`when: null` — the header then says the next session is not yet scheduled.
 
 ## Illustrations & the house art style
 
@@ -204,13 +217,21 @@ before publishing. A chapter-opening illustration goes between the subtitle line
 - What changed in the **Cast**, **Lore**, and the **Calendar**, if anything.
 - That the **player draft** is ready in Gmail for Matt to review and send.
 - **Suggested bible updates** (do not silently overwrite `bible/*`): new NPCs, places, items.
-- Open questions — and, until they are answered and written into this file: the calendar event's
-  name, the mode rule, the player emails, and which player plays whom.
+- Open questions. The calendar event's name, the mode, the player emails and who plays whom are
+  now recorded above; still open are the **party moniker** (Mira is still auditioning names) and
+  the two audio-only spellings under **Canon spellings**.
 
 ## Canon spellings
 
-Riven Maelus, Dorogh Kell, Diddle Scribes, James Helmsmith, Vaelus and
+Riven Maelus, Dorogh Kell, Diddle Scribes, Kora Sjon, James Helmsmith, Vaelus and
 Seraphine Maelus, Blackreed, Threshold, Mira Thistledance, Elara Dawnstrider, Drezen, the South Bank, Cinder Row, Lupenor's Market, Iomedae's
-Preservers, Rothin Vald, the Hidden Temple of Sarenrae. Transcripts will drift (Rivet, Malus/Maelus, Diddel,
-Doroug, Thistledance/Thistledown) — fix all of them. Add settled spellings here as
-the table produces them.
+Preservers, Rothin Vald, the Hidden Temple of Sarenrae, Deskari, Baphomet, Kenabres, the Ahari.
+
+Settled at the table in session 1: **Jory Tallow**, **Pip**, **Oscar**, **Merrick**,
+**Keta Holm**, **Bruna**, **Hob**, **Dunn**, **Pete**, **Liesl**, **Hesk Dolvin**, **Aaliyah**,
+the **Two Pints and a Song**. Two are spelled from audio only and want confirming: **Wat Crake**
+(Matt spelled it W-A-T / C-R-A-K-E) and **Hrenna**, the woman at the coal barrel.
+
+Transcripts will drift — fix all of them: Rivet, Malus/Maelus, Diddel/Dittles/Dibbles, Doroug/Doro/Doreau/Darug,
+Cora/Korra, Thistledown, Dresden, Descari/Discari/Dysgari, Canabras/Canaveras, Baphomat. Add settled
+spellings here as the table produces them.

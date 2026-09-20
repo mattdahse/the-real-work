@@ -28,11 +28,31 @@ line is indented. Third person, **bold** proper names, ***italic*** relics and s
 mechanics. (The example is written inline here on purpose: a real heading in this file, even
 inside a code fence, is read by the build as a month.)
 
+## Neth, 4713 AR
+
+- **26th** — Four strangers were standing in **Drezen's** market when **Jory Tallow** climbed a
+  crate, preached the coming of **Deskari**, and kicked the side out of a box holding four giant
+  centipedes. **Riven Maelus**, **Dorogh Kell**, **Diddle Scribes** and **Kora Sjon** killed all
+  four between them. A baker's daughter named **Pip** was bitten through and lived, because a
+  tengu stopped her bleeding under a wagon and a goblin spent a healing potion on her. **Mira
+  Thistledance** watched the whole thing from a second-floor window, had the boy tied to a chair
+  in her office by evening, and hired the four of them as her first strike team for a hundred and
+  fifty gold and a note to the citadel library. That night they read what the books had on
+  **Deskari** and on **Baphomet**, and found the two of them allies rather than rivals.
+- **27th** — The company crossed the dry **Ahari** into the **South Bank** and walked the fence of
+  a scrapyard on **Cinder Row**: eight feet of uneven plank, two chained dogs, and the labyrinth
+  of **Baphomet** inked on the man who quoted them a copper a pound for good steel. They spent an
+  hour building a sled and loading it with honest salvage, went back in as customers, and started
+  a fight they could not finish. **Riven** was dropped in a doorway by a hatchet and brought back
+  with **Diddle's** last potion. The lumber was burning, a trapdoor in the floor stood chained,
+  and there were children behind the doors when the day broke off.
+
 ---
 
 ## Silent days
 
-None yet.
+- **24 Neth, 4713** — logged in Fantasy Grounds with no entry. Nothing at the table happened on it;
+  it is the campaign's setup day.
 
 ## Open discrepancies
 
