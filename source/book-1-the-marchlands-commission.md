@@ -112,6 +112,8 @@ and he has been drilled with a spear ever since by other recruits who do not kno
 Nobody had ever given him an order in a real fight before. He has thought about it a good deal
 since.
 
+![The first magic in this chronicle, and it did not change the centipede's mind.](images/ch1-riven-telekinetic-fist.webp)
+
 Pip went under her father's handcart. The centipede went under after her.
 
 Dorogh got down on his belly in the filth of the street and worked a long spear into the gap,
@@ -472,6 +474,8 @@ come, decided that it had, and bolted through the door.
 
 He brought his shield down on the head of a man who had his back turned and was expecting nothing
 at all, and missed, and spilled his coffee.
+
+![Operative Yam springs the ambush.](images/ch1-dorogh-shield-bash.webp)
 
 After that it went the way these things go.
 
