@@ -67,7 +67,9 @@ Commission* records. The chronicle follows the table in every case below; Matt r
   campaign is thirteen days after the liberation instead of ten weeks, and a good deal of the
   city's settledness has to go.
 - **Jory Tallow's age.** The module calls him a twenty-year-old. At the table he was played as
-  sixteen and "not shaving yet". Chapter I has him at sixteen at most.
+  sixteen and "not shaving yet". Chapter I has him at sixteen at most, and **his portrait was
+  repainted on 2026-09-20 to match the table** rather than the module, so the prose and the picture
+  now agree. The module's own art still shows a man in his twenties.
 - **Jory's master.** The module has the master die in the fire at Kenabres. At the table he is
   alive in Drezen, keeps the candle shop, and closed it to go and speak for the boy. Chapter I has
   him alive.

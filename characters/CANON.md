@@ -75,7 +75,7 @@ Brought over after session 1, keyed to their Cast names and wired into `PORTRAIT
 | Character | Portrait | Cast group |
 |---|---|---|
 | **Mira Thistledance** | [`mira-thistledance.webp`](mira-thistledance.webp) | Employers |
-| **Jory Tallow** | [`jory-tallow.webp`](jory-tallow.webp) | Met in Drezen |
+| **Jory Tallow** | [`jory-tallow.webp`](jory-tallow.webp) — **repainted 2026-09-20**, see below | Met in Drezen |
 | **Pip Venn** | [`pip-venn.webp`](pip-venn.webp) | Met in Drezen |
 | **Oskar Venn** | [`oskar-venn.webp`](oskar-venn.webp) | Met in Drezen |
 | **Wat Crake** | [`wat-crake.webp`](wat-crake.webp) | Met in Drezen |
@@ -93,3 +93,11 @@ Brought over after session 1, keyed to their Cast names and wired into `PORTRAIT
 
 Available in the module and **not** brought over yet, because the company has not met them:
 `sera-dolvan`, `corin-dolvan`, `dolvan-infant`, `yard-dog`, and the whole of the manor cast.
+
+**Jory Tallow's portrait is no longer the module's.** The module paints him as a man in his
+twenties; at the table he was played as sixteen and not yet shaving, and Chapter I says so. The
+portrait was regenerated from the module's own composition — same moment, same wax locust held
+aloft, same wax-spotted apron, same grey market — with the face and build aged down to a boy's:
+no facial hair at all, soft jaw, thin neck and wrists, clothes a size too big. **Where the module
+and the table disagree about a person, the table wins and the art follows the table.** The
+discrepancy is logged in `bible/06-in-world-calendar.md`.
