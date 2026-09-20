@@ -203,7 +203,9 @@ introduced themselves properly for the first time: a half-orc in padded armour a
 spectacles, apologising for his size before anybody complained of it; a goblin who took his hood
 off once he was warm; a tengu with a raven's head and talons under a light grey robe, who watches
 more than she speaks; and a tiefling with ram's horns and a staff he never quite set down.
-Somebody observed that they were a diverse bunch.
+Somebody observed that they were a diverse bunch. Somebody else had fetched a bar stool over from
+the counter so that Diddle could sit at the table rather than under it. Nobody made anything of
+it.
 
 Diddle lives here. He came up with his master and does not regard Drezen as his natural
 environment, which explains a good deal about him. Kora is from the other side of the world and
