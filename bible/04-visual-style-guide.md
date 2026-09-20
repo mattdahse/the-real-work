@@ -60,6 +60,7 @@ apart at a glance. Keep the set in every scene that holds more than one of them:
 | Riven Maelus | ash-grey and cold arcane blue | a cold blue key from the spell in his own hand |
 | Dorogh Kell | bright steel and moss-grey | warm key on polished steel |
 | Diddle Scribes | tan and bomb-orange | a warm glow from the flask in his hands |
+| Kora Sjon | blue-black plumage, light grey cloth, pale gold | a cold key, or the faint white of her own healing |
 
 ## Devices, and the cross
 

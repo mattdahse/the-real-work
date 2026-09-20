@@ -131,6 +131,8 @@ axle, and made a sound like a chirp. There was a light so faint you had to alrea
 it to see it at midday. The girl's bleeding stopped. Her father, **Oskar Venn**, saw the wounds go
 still and took it for the worst news of his life.
 
+![A light so faint you had to already be looking for it.](images/ch1-first-action.webp)
+
 Dorogh killed the thing under the cart from his belly and got up. Riven killed the one Kora had
 wounded. **Hobb Garrow**, who soldiered in the Fourth Crusade and has cooked for the Preservers'
 barracks ever since, was in the street arguing over a string of onions. He came in with his
@@ -305,6 +307,8 @@ back.
 Diddle was Tomato, because he throws things. Dorogh was Yam. Kora was Carrot. Riven was Cabbage.
 
 Diddle asked whether he could be Pickle instead. He was not Pickle.
+
+![Operative Cabbage, Operative Carrot, Operative Tomato and Operative Yam.](images/ch1-operative-cabbage.webp)
 
 The pitch followed. She is the spymaster of Drezen, she said, dropping her voice to a volume that
 carried, and she has been looking a long time for an elite strike team of master infiltrators, and
