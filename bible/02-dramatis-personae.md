@@ -36,10 +36,10 @@ table meets them; move them to **Adversaries** or mark them dead as it happens.
   human. Grey-green skin, subtly pointed ears, two small clean lower tusks, an open nasal helm, and
   plain round wire spectacles. Quick-minded, and making a careful, visible effort to look friendly.
 - **Diddle Scribes** *(player: ?)* — goblin alchemist, roughly fifteen years out of the ditch
-  James Helmsmith found him in. Small even for a goblin and leaner than his kin; huge tapered ears,
-  an ordinary goblin face hidden in the field behind a rigid faceted alchemist's mask with four
-  round holes in it, the upper two for seeing and the lower two for breathing, worn under a deep
-  hood; a quilted tan coat over a long brown
+  James Helmsmith found him in. Small even for a goblin at **2'7"** and leaner than his kin; huge
+  tapered ears, **green eyes**, an ordinary goblin face hidden in the field behind a rigid faceted
+  alchemist's mask with four round holes in it, the upper two for seeing and the lower two for
+  breathing, worn under a deep hood; a quilted tan coat over a long brown
   work-coat hung with pouches and a belt of stoppered vials. Reared by a human shopkeeper and
   taught to trade with the other races — rough going at first, easier once Drezen got used to him.
   Quirky and a touch naive; poor at people, excellent at potions. Signed on with the town guard to
