@@ -118,6 +118,61 @@ This is where the work is. This is why the company is being paid, and why the pa
 Outside the walls to the west, on the far bank. Older than the occupation, and added to steadily
 since the retaking. The only district in Drezen with a growing population.
 
+## Two Pints and a Song
+<!-- at: 43.1, 55.1 -->
+<!-- kind: site -->
+<!-- style: icon -->
+
+A middling tavern between the citadel wall and the riverbank: not the seedy end of the street and
+not the end where a paladin drinks watered wine either. The mead is watered, but not enough to
+make a point of it. A round and the afternoon's meal for four comes to nine silver, which is what
+**Riven Maelus** paid on the 26th of Neth for three people he had met that morning. The company
+walked in here as four strangers and walked out with a payroll. Somebody carried a bar stool over
+from the counter so that **Diddle Scribes** could sit at the table instead of under it, and nobody
+made anything of it.
+
+## Helmsmith Elixirs
+<!-- at: 50.9, 61.7 -->
+<!-- kind: site -->
+<!-- style: icon -->
+
+**James Helmsmith's** shop, and the nearest thing **Diddle Scribes** has to an address. Helmsmith
+was an adventurer before he was a shopkeeper and gathered his own reagents, which is why the
+shelves carry things no sensible trader stocks and why the prices are what they are. He found
+Diddle in a ditch some fifteen years ago, raised him, taught him the trade and the manners both,
+and now sends him out with a list and a promise to reimburse whatever he judges the goods were
+worth. On the morning of the 27th he opened up to find three armed strangers on his step asking
+for his goblin, and elected not to ask about it.
+
+## Kora's Home
+<!-- at: 6.3, 36.3 -->
+<!-- kind: site -->
+<!-- style: icon -->
+
+A small fortune-telling shop on the western outskirts, past the last of the paved street, where
+the rent is low because the view is the Marchlands. **Kora Sjon** reads for whoever walks out that
+far: cards, tea leaves, a crystal ball, whichever the customer came expecting. Most of it is
+legitimate.
+
+## Riven's Claim
+<!-- at: 79.1, 65.0 -->
+<!-- kind: site -->
+<!-- style: icon -->
+
+An empty house on the eastern slope that nobody else had claimed, which in this city is less a
+boast than a remark about the housing. **Riven Maelus** has half a sound roof and a door that
+bars, and he has counted the ways out of every room in it. He has not said how long he means to
+stay anywhere, and he did not say it here either.
+
+## Dorogh's Place
+<!-- at: 29.2, 57.6 -->
+<!-- kind: site -->
+<!-- style: icon -->
+
+**Dorogh Kell** lodges west of the market in a room with a good window and a low doorway he has
+stopped resenting. There are more books in it than a fighter is supposed to own, and a spare pair
+of wire spectacles in a tin, because he has thought about what happens to the first pair.
+
 ## The Western Road
 <!-- at: 3.0, 46.0 -->
 <!-- kind: region -->
