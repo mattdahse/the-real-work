@@ -561,6 +561,8 @@ Hesk stepped back out of Dorogh's reach and started on a prayer. He had forgotte
 
 "I put this goblin here," said Diddle, and stepped back, and this time the crossbow was loaded.
 
+![Hesk had forgotten what was standing beside his knee.](images/ch2-who-put-this-goblin-here.webp)
+
 Kora had found the man Dorogh brained across the breakfast table still breathing, to her considerable relief, since she had not much wanted him dead, and she knelt and saw that he stayed that way. Hesk called him **Stewie**. Riven told Alia to stop it, got a pace of clear floor, and put a blue fist across the room into Hesk's jaw. Dorogh watched it go by, thought that he really must learn how that was done, and followed it with the morningstar.
 
 "Leave him alone!" Alia screamed.
@@ -665,6 +667,8 @@ Dorogh arrived and said hello.
 
 "Ro," said the guide, and found the pitch. "Rose."
 
+![The guide. They would know him by the flower.](images/ch2-rose-on-the-bridge.webp)
+
 Riven came up with his staff clicking on the stones. Diddle came last, carrying four potions and an opinion of the whole enterprise. Rose told them to follow, but not too close, and gathered up the dress and led them over the dry riverbed into the **South Bank**. Kora walked three steps behind him the entire way.
 
 The tannery stands two doors down from the scrapyard. It is stone, and the dwarves who built this city knew stone, so it has outlasted seventy years of demons with nothing worse than a door hanging by one hinge. The drying racks out front have fallen in. It still smells like a tannery. Inside were rusted knives, rotted benches, and a trapdoor with sound planks that somebody had kept swept. There was no padlock on it.
@@ -729,6 +733,8 @@ Oskar Venn pays his debts in the same coin, to the same number of loaves.
 
 Dorogh put his back to a stone the old man had been levering at for some time, and it rolled. Under it were a crushed spine, some ribs, and most of a skull. Emmet made a small sound and lifted it out with both hands. He said he would know that skull anywhere. He put it in a burlap sack.
 
+![The first of six.](images/ch2-emmet-and-the-skull.webp)
+
 There were six. Emmet thought he knew where the rest lay. With help it was a couple of hours, and Dorogh struck the bargain there in the rubble: the company would dig, and afterwards Emmet would walk out with them and tell everything he knew about what was under the South Bank to somebody who could draw. It would save them exploring the rest. It would also lay six people to rest, which Dorogh thought worth doing on its own account.
 
 Emmet looked Kora over and judged that the bird would not be much of a lifter. She tried a rock the size of a fist and proved him right, and after that she fetched the skulls out of the narrow places with a spectral hand, one at a time, very gently. Diddle kept watch on the ladder and the well from behind a boulder, and did not come near the old man.
@@ -756,6 +762,8 @@ The eye turned to Dorogh. "Who is that with you?"
 "Do they have any food?"
 
 Dorogh said he could check. He had trail rations in his pack, which made him the only one of the four who had thought to bring any, and he counted out four days' worth, one for each of them, and lobbed them over the edge. There was crunching. There was also slurping, though nothing he had thrown was wet.
+
+![Dorogh wanted to know what it was, and was clever enough to go on wanting.](images/ch2-the-bishop.webp)
 
 Nobody went to the lip to look. Dorogh wanted to know what it was and was clever enough to go on wanting. Emmet called goodbye to it and it rumbled something back, and the company went round the north wall at a brisk pace while it ate.
 

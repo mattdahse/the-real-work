@@ -90,6 +90,7 @@ Brought over after session 1, keyed to their Cast names and wired into `PORTRAIT
 | **Piet Harl** | [`piet-harl.webp`](piet-harl.webp) | Met in Drezen |
 | **Hesk Dolvan** | [`hesk-dolvan.webp`](hesk-dolvan.webp) | Adversaries |
 | **Alia Dolvan** | [`alia-dolvan.webp`](alia-dolvan.webp) | Adversaries |
+| **Emmet Rook** | [`emmet-rook.webp`](emmet-rook.webp), brought over after session 2 | Under the South Bank |
 
 Available in the module and **not** brought over yet, because the company has not met them:
 `sera-dolvan`, `corin-dolvan`, `dolvan-infant`, `yard-dog`, and the whole of the manor cast.
