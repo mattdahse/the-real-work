@@ -46,7 +46,19 @@ inside a code fence, is read by the build as a month.)
   hour building a sled and loading it with honest salvage, went back in as customers, and started
   a fight they could not finish. **Riven** was dropped in a doorway by a hatchet and brought back
   with **Diddle's** last potion. The lumber was burning, a trapdoor in the floor stood chained,
-  and there were children behind the doors when the day broke off.
+  and there were children behind the doors. It ended with **Hesk Dolvan's**
+  hands in the air and his account of himself across his own kitchen table: a knee taken to
+  **Baphomet** to stay out of a collar, slave tunnels under his floor, and **the Labyrinth**
+  lodging in them. The company left his strongbox with him, called it a robbery, and went back to
+  the market, where **Mira Thistledance** paid a hundred and fifty gold apiece, became the
+  Gardener, and renamed her vegetables as flowers.
+- **28th** — A boy in a red dress with a rose behind his ear led the company to an abandoned
+  tannery on **Cinder Row** and a ladder forty feet down. Under the **South Bank** they found
+  swallows scratched low on the walls, the nest where **Jory Tallow** trapped his centipedes, and
+  an old digger named **Emmet**, called the Mole, clearing a rockfall that still falls every few
+  minutes for the six slaves under it. They dug the six out in an hour and a half. He led them
+  past the thing in the midden pit, which he calls **the Bishop** and which **Dorogh** fed, and
+  stopped at the mouth of a cavern nobody can cross without a torch.
 
 ---
 
@@ -73,5 +85,14 @@ Commission* records. The chronicle follows the table in every case below; Matt r
 - **Jory's master.** The module has the master die in the fire at Kenabres. At the table he is
   alive in Drezen, keeps the candle shop, and closed it to go and speak for the boy. Chapter I has
   him alive.
+- **The man Dorogh brained.** Chapter I as first published said Dorogh *killed* the worker at the
+  breakfast table. In session 2 he was dying, not dead: Kora stabilised him and Hesk called him
+  "Stewie". Chapter I now reads "put down". "Stewie" is audio-only and has no module entry.
+- **The tannery ladder.** The module gives a short wooden ladder; at the table it went down forty
+  feet. Chapter II says forty.
+- **When the Bakehouse branch fell.** At the table Emmet said the six died "about four years ago".
+  The module does not date it. Chapter II says four years.
+- **The Bishop's day.** The module's Bishop asks whether it is Sunday. At the table it said "It's
+  Moon Day", which matches the 28th. Chapter II follows the table.
 - **Alia Dolvan's term.** The module says seven months gone; at the table she was "due in weeks,
   not months". Chapter I says only that she is heavily pregnant.

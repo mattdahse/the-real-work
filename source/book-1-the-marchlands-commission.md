@@ -513,7 +513,7 @@ potion into Riven, who came back to himself face down on the floor of a stranger
 the second he had spent in two days and the last one he had. Kora got in beside Dorogh and closed
 his wounds while a hatchet was being swung at the pair of them.
 
-Dorogh killed the man he had failed to knock out.
+Dorogh put down the man he had failed to knock out.
 
 The worker with the bolts in his back gave up on the yard, ran inside past the company, and began
 fumbling at a trapdoor set into the middle of the floor. It was chained shut. He did not have the
@@ -532,3 +532,249 @@ The company had come to count cultists. What they had found so far was a family,
 nobody was allowed to open, and a fight they had started themselves.
 
 *Session of September 19, 2026.*
+
+## **You Don't Look Like a Lily**
+
+*September 27, 2026 session. A surrender, a robbery nobody committed, a hundred and fifty gold, and six men under a rockfall.*
+
+<!-- inworld: 27 Neth 4713 to 28 Neth 4713 -->
+
+<!-- fathom: call=839171107 recording=187062158 -->
+
+### **Who Put This Goblin Here**
+
+The fight in **Hesk Dolvan's** kitchen went on for about as long again as it had already lasted, and very little of it was to anyone's credit.
+
+**Diddle Scribes** levelled a crossbow at the scrap dealer and shouted at him to drop the hatchet. The crossbow was not loaded. He was relying on the general confusion to cover the point, and it did. **Riven Maelus**, back on his feet and bleeding, wrapped himself in another layer of force and tried for a clear line. **Dorogh Kell** swung and missed. Hesk swung back and missed. **Kora Sjon** loosed a bolt past both of them into the wall.
+
+**Alia Dolvan** went straight past Riven with the kitchen knife in her hand, and he let her go, having concluded that he was not going to strike a pregnant woman unless she left him no choice. She did not go for him. She went to the door of her children's room, put her back against it, and held the knife out at the house in general. Somewhere to the south a door opened and slammed, which was the last anybody heard of the man with the black chin whiskers.
+
+Dorogh, who is a thoughtful person, then tried reason. "Surrender," he told Hesk, "and I won't harm you." His voice cracked in the middle of it.
+
+"No," said Hesk.
+
+Riven began a working and Alia shoved him in the chest, with nothing behind it but indignation, and the working came apart in his hands. She then appeared to realise that she had just shoved a tiefling wizard, and went rather still.
+
+Hesk stepped back out of Dorogh's reach and started on a prayer. He had forgotten what was standing beside his knee. Diddle punched him in the shin, and the prayer went the way of Riven's spell.
+
+"Who put this goblin here?"
+
+"I put this goblin here," said Diddle, and stepped back, and this time the crossbow was loaded.
+
+Kora had found the man Dorogh brained across the breakfast table still breathing, to her considerable relief, since she had not much wanted him dead, and she knelt and saw that he stayed that way. Hesk called him **Stewie**. Riven told Alia to stop it, got a pace of clear floor, and put a blue fist across the room into Hesk's jaw. Dorogh watched it go by, thought that he really must learn how that was done, and followed it with the morningstar.
+
+"Leave him alone!" Alia screamed.
+
+"Then tell him to stand down," said Diddle.
+
+Hesk dropped the hatchet and put his hands up.
+
+"I told you!" said Dorogh.
+
+### **A Completely Valid Religion**
+
+The baby was still screaming and the dogs were still screaming and there were four strangers in the house. Diddle told Alia to go and see to her children, which seemed to him only logical. She did not move until her husband, down on one knee and bleeding into his good coat, waved her off and said, "Tend to the young'uns. It's all right." Then she went in and shut the door, and the crying came down by degrees and stopped. The dogs did not.
+
+Dorogh sat Hesk at his own table and loomed. Kora looked to his wounds once she was done with Stewie's, and it was remarked that beating a man and then healing him would make an excellent business if one could only find a way to charge for it.
+
+It was at about this point that somebody recalled the yard was on fire.
+
+Dorogh went out to look. The lumber was catching slowly, the way boards and beams do, and the worker Diddle had bombed was lying senseless on top of it, and the two dogs had wound their chains round the post trying to get away from the heat. He took the long way round the dogs, dragged the man off the pile, and something went *thunk* into the yard gate behind him. It was a crossbow bolt. Across the street, in a second-floor window of an abandoned house, a boy of fifteen or so was waving both arms, and partway down the wall beneath him a scrap of paper was drifting to the ground.
+
+The boy vanished from the window, came out of a side door, collected the paper, ran it across Cinder Row, and put it into Dorogh's hand.
+
+"I really thought that would stick to the crossbow bolt," he said, and ran away again.
+
+The note had a hole through the middle. It said: *Whistle if you need help.*
+
+Dorogh stamped out the fire, shut the gates, and went back inside.
+
+Indoors, Diddle had climbed onto the bench beside the unconscious Stewie and asked Hesk to tell him about the cultists.
+
+"The worship of **Baphomet** is a completely valid religion," said Hesk. "Referring to it as a cult is demeaning."
+
+His account of himself was this. He was in Drezen during the occupation, when a human in this city was either a member of the church or a slave, and he had not cared to be a slave. So he took a knee at the altar now and then and kept his family fed. His own offerings were gold and supplies. Others gave blood, and Baphomet loves a sacrifice, and it was usually slaves, at least until a few months ago, when slaves became hard to come by. He was not high enough in the thing to be asked. What happens at the temple, he said, stays at the temple.
+
+As for the floor: the slaves of Drezen had dug tunnels under the South Bank, years of them, trying to get out of the city, and the tunnels come up in more than one house. His was one, and he had moved in before he knew it. When the crusade took the walls, **the Labyrinth** moved in downstairs. They put their own men in his yard as workers, to keep an eye on him and his, and so long as he was agreeable there was a little money in it. Two people down there each believe they are in charge and are at war over it. He stays out of the politics. He opens the trapdoor when they knock, because he likes his throat as it is, and he chained it shut the rest of the time after one of them came up drunk one night looking for the latrine and found the children's room instead. The staple was still bright and the splinters round it were fresh.
+
+He hooked a thumb, slowly, under a cord at his neck, with a goblin's hand hovering over a vial the whole time, and laid two keys on the table. The big one was the padlock. They were welcome to go down, he said. Under the trap was only his cellar, and the way on was behind a shelf. He would be locking it again after them. He thought it fair to mention that.
+
+The company withdrew to a corner to discuss what, precisely, they had been hired to do. Hesk watched them work it out with growing bewilderment. It was established that the job had been to learn things, that things had been learned, and that Mira's name was not to be said in front of him. Asked what she should be called instead, Dorogh said **the Gardener**, on account of the vegetables. Everyone agreed that this made it worse.
+
+Kora was for going down at once, before the man who ran could raise the cellars. Riven had wanted it done today in the first place. Diddle wanted to be paid, and observed that if he was going to go down a hole full of cultists he would rather be paid for that as well. Dorogh looked at the padlock, and at the four of them, and asked whether anyone had brought food, since people were known to grow old in labyrinths. Nobody had.
+
+So Dorogh made Hesk an offer instead, subject to approval. One new worker in the yard, theirs. An eye kept on the family. A little coin for the inconvenience. In return Hesk would mark who came and went through his floor. It was pointed out that he would also be doing the right thing, and proving that he was not a dangerous cultist in need of removal.
+
+"Boy," said Hesk, "that sounds like a generous offer."
+
+There remained the matter of how a scrap dealer explains four armed strangers, two felled workers and a burnt woodpile to the people under his floor. Dorogh's answer was that he had been robbed. The strongbox was bolted under the counter in the shop, behind a board that sat half an inch proud of its neighbours, and Hesk winced when it was mentioned. Dorogh opened it with Hesk's own key, since the lock was worth fifty gold and he saw no reason to break it. Inside were silver bars, a good deal of coin, a deed of tenancy with seals on it, and two vials of cloudy red liquid that Diddle turned over at length and could not name. They were healing potions. Hesk kept them for emergencies.
+
+Dorogh threw the deed on the floor for effect and carried everything else to the kitchen table, and told Hesk to hide it somewhere his lodgers did not know about. Diddle looked at the potions for some time. He had spent his last two on other people in as many days. He left them where they were.
+
+"You gave me a fair shake," Hesk said. "Next time you come, though. Just knock."
+
+### **The Gardener**
+
+They went back by a roundabout way, to throw off anyone following, and reached **Lupenor's Market** towards noon. A red flag on the water spout meant that they needed to talk, or possibly that she did. Nobody had a red flag. Dorogh's shirt was red enough, most of it being his own blood and there being a hole in it already, so he took it off, had a drink at the pump, and left it draped there in the manner of a man who has forgotten his shirt. He was not subtle about it. He is not built for it.
+
+They bought grilled meat on sticks. Dorogh paid a silver and two copper for the four of them. It tasted like chicken, which settled nothing.
+
+Halfway through, a young woman stumbled past and dropped a small stone at Dorogh's feet. He helped her up. Kora picked up the stone, and a pair of lips opened on the underside of it.
+
+"Agent Yam," said the stone. "Come to me right away."
+
+The shirt was gone from the pump when they passed it.
+
+The peephole slid open on a pair of eyes going left and right. Had they been followed? Not that they knew of, said Dorogh, although technically they had followed each other. Chains rattled.
+
+**Mira Thistledance** heard all of it: the yard, the family, the tunnels, the two masters downstairs, and the bargain Dorogh had struck on her behalf without asking. She steepled her fingers. Her options, she said, were to honour the deal, to pretend to honour the deal, or to have him arrested. It was put to her that there was a wife and three children and a fourth coming. She did not say which she would choose.
+
+She was told that she was now the Gardener.
+
+"Oh, that's brilliant. Why didn't I think of that?" She wrote it down.
+
+**The Quiet Knives**, she conceded, had not survived the morning. She had had them followed, and her informants reported explosions almost at once. She did not mean it as a complaint. They had charged in and taken control of the situation and she thought it was amazing. Then she was at the wall of red string, unpinning and repinning, and decided there must be another way down near the old tannery on Cinder Row.
+
+"Obviously I need to send a team in. Luckily I have a team right here. Oh! But first."
+
+She took a purse out of the desk and dropped it in front of them. It was a hundred and fifty gold apiece, counted and correct. In the South Bank that is a fortune. Diddle found that he could not comfortably lift his share, and Dorogh that he could not comfortably carry his.
+
+Then she rubbed her hands together. The vegetables were compromised. She had distinctly heard someone in the market that morning shouting yams, tomatoes and carrots. It was probably commerce, but one could not be too careful. She proposed flowers.
+
+Dorogh said that was brilliant. Diddle told him to stop encouraging her.
+
+Diddle, if he had to be a flower, would be **Nightshade**. Riven, who had said very little all day, said **Daisy**. Dorogh chose **Lily**, which he understood to be beautiful and poisonous, and Kora took **Tulip**. Mira cracked her knuckles, or made the motion of it. Nothing cracked.
+
+The new commission: go down, map what is there, count heads, find out what is being plotted, and bring back whatever else can be carried in the memory. A guide would wait at the **Ahari** bridge until noon the next day, and they would know him by the flower in his hat. If they needed her again they were to go to the man who sells meat on sticks and ask for the goat.
+
+Somebody asked after **Jory Tallow**. He was under watch. The church of **Sarenrae** was considering him and was not going to consider quickly.
+
+"The less I know from here on, the better," said Mira happily, and told them to leave one at a time, five minutes apart. In the front room a gnome in a clerk's eyeshade looked up at the first of them, and then with great care did not.
+
+Diddle went home and spent a hundred gold and the whole of the night at his master's bench, and had four potions to show for it in the morning. Dorogh bought a shirt. Kora hung out her sign and had one customer, an old man who comes regularly and has no interest in his future. He asked her to supper again. She declined again. He left fifteen copper and the impression that he would be back.
+
+### **Rose**
+
+The 28th of Neth was Moon Day. Kora went to the bridge early and stood where she could not be seen, to find out who came.
+
+Who came was a girl in a red dress, with a rose tucked behind her ear and hair of an unlikely shade of red, having a good deal of trouble with her skirts. The lipstick had been put on with more effort than skill. The feet under the hem were bare and filthy. It was the boy with the crossbow.
+
+He kept his post for half an hour. Another boy came up, said something, and laughed, and was punched in the nose, and left.
+
+Dorogh arrived and said hello.
+
+"Ro," said the guide, and found the pitch. "Rose."
+
+Riven came up with his staff clicking on the stones. Diddle came last, carrying four potions and an opinion of the whole enterprise. Rose told them to follow, but not too close, and gathered up the dress and led them over the dry riverbed into the **South Bank**. Kora walked three steps behind him the entire way.
+
+The tannery stands two doors down from the scrapyard. It is stone, and the dwarves who built this city knew stone, so it has outlasted seventy years of demons with nothing worse than a door hanging by one hinge. The drying racks out front have fallen in. It still smells like a tannery. Inside were rusted knives, rotted benches, and a trapdoor with sound planks that somebody had kept swept. There was no padlock on it.
+
+Under it a ladder went down forty feet into the dark.
+
+### **Swallows**
+
+Three of the four see in the dark. Kora does not, and made a light, and then apologised for it.
+
+It was a tunnel of bare earth, nine feet at its highest and less in places, with no timbering in it anywhere. Dorogh, who knows a little of how things stay up, concluded that no dwarf had been near it and that nobody who dug it had done such a thing before. It had held for years regardless. In one place the diggers had met a boulder too hard for whatever they were digging with, and had gone round.
+
+Past the boulder the way opened into a junction. One passage ran north towards lamplight. Three ran more or less south. From somewhere down those came a long low rumble, too faint to place.
+
+It occurred to Dorogh that he ought to be drawing a map, mapping being the job. Nobody had parchment. Nobody had charcoal. The note with the hole in it had been left behind as well, and they had been advised by it to whistle.
+
+Kora found the birds. Low on the wall, two feet off the floor, someone had scratched the outline of a swallow into the rock with something like a spoon. There was another at the next opening and another beyond that, none quite alike, all fork-tailed, and all flying the same way. She looked at one for magic and found none. Nobody knew what they meant.
+
+They tried the dark passages first, on the theory that it is harder to sneak past people than past nothing.
+
+The south-eastern one widened into a chamber ankle-deep in dry husks the colour of old varnish, some as long as an arm. Something in it moved. Dorogh turned to the others and made a sign with both hands and a great many fingers, which was his best rendering of a giant centipede, and began to back away. Diddle passed him going the other direction with a vial already out.
+
+There were three, and they were dealt with in the manner now customary: fire, a crossbow bolt, Riven's fist, and Dorogh's boot. Dorogh reached a long way down afterwards to slap palms with Diddle, on the grounds that asking him to reach up would have been unkind.
+
+Against the far wall stood a crate, upside down, with one edge propped on a stick.
+
+So that was where Jory Tallow had done his trapping. Beyond it the earth gave way to fitted dwarven masonry with a hole knocked through it the size of a door, and through the hole was the shaft of a well: water thirty feet below, cracks of daylight between planks above, and a knotted rope running past in both directions. That was how he had come and gone.
+
+### **The Mole**
+
+Back at the junction they heard stone shifting in the passage due south, and a man grunting, and then someone down there lit a lantern.
+
+Diddle went to look, and nothing in the South Bank is quieter than Diddle when he wishes to be. He found an old man on his knees in a spill of rubble with a pick across his thighs, working a stone loose the way you would unpick a knot. The lantern by his knee was turned so low it barely counted. Where he had cleared, something pale showed between two stones, and then something else pale.
+
+From behind the rockfall came the sound of other picks, several, not in time with one another. Somebody back there laughed. Then the roof groaned and came down, with a noise of tons of stone and earth, close enough that Diddle looked up in a panic to watch it land on him.
+
+Nothing fell. The old man had not so much as looked up.
+
+Diddle came back and reported. Kora went and listened for herself, and felt the feathers lift along the back of her neck, and knew it for what it was. She has had a great deal of practice. There are people, she told them, who die so suddenly that they go on doing the last thing they did, over and over. The old man was alive. The ones he could not hear were the others.
+
+Diddle's view was that they should leave well alone, and he held it firmly. He had heard of things that became ghosts the moment they were disturbed. Dorogh thought that was called dying.
+
+"Tell you what," said Diddle. "I'll wait here. When I hear you scream, I'll know I was right."
+
+Dorogh walked down the passage in his armour, making all the noise that implies, and called out, not loudly: "Ahoy there. You need help with something?"
+
+The old man started badly. He had heard someone coming and had thought it was somebody else. He turned the lantern up, and blinked at a half-orc in wire spectacles, and asked who he was.
+
+"You can call me Lily."
+
+"You don't look like a Lily."
+
+He got to his feet with the pick for a cane, and his joints could be heard at it. His name was **Emmet**. They called him the Mole. He asked whether Dorogh was new. Told that Dorogh had found a hole and climbed down it out of curiosity, his eyes went wide, and he gave directions to the ladder, second on the right, and told him to go, now, because the people down here were not nice.
+
+Then he said, "Hang on a second," and waited. The picks started. The laughter came. The roof fell in again over their heads.
+
+"You mind telling me what that was?"
+
+About four years ago, Emmet said, some of the slaves had been digging up towards the market district, or out to the Ahari, and hit soft ground. He was the only one who got out. They had not left since. He reckoned that if he could get enough of their bones out from under and put them over the cliff, they would have rest. He worked at it whenever he could steal away. The rest of his hours belonged to the people down here, who fed him a loaf of bread a day to dig where they pointed. He had been digging under this city since the tunnels were slave tunnels, and it was the only life he knew, but he would rather not be made to.
+
+Oskar Venn pays his debts in the same coin, to the same number of loaves.
+
+Dorogh put his back to a stone the old man had been levering at for some time, and it rolled. Under it were a crushed spine, some ribs, and most of a skull. Emmet made a small sound and lifted it out with both hands. He said he would know that skull anywhere. He put it in a burlap sack.
+
+There were six. Emmet thought he knew where the rest lay. With help it was a couple of hours, and Dorogh struck the bargain there in the rubble: the company would dig, and afterwards Emmet would walk out with them and tell everything he knew about what was under the South Bank to somebody who could draw. It would save them exploring the rest. It would also lay six people to rest, which Dorogh thought worth doing on its own account.
+
+Emmet looked Kora over and judged that the bird would not be much of a lifter. She tried a rock the size of a fist and proved him right, and after that she fetched the skulls out of the narrow places with a spectral hand, one at a time, very gently. Diddle kept watch on the ladder and the well from behind a boulder, and did not come near the old man.
+
+It took an hour and a half.
+
+"A few more backs was all it ever needed," Emmet said. "I just never could get anybody down here to help me." He shouldered the sack and put his lantern out, since he did not need it and it hurt his eyes. "Quickest way to the cliffs is through the midden."
+
+### **The Bishop**
+
+Diddle had already been as far as the midden. He had got near enough to smell it and to hear, from the echo, that the floor of it went a long way down, and had come back and reported a dead end. Pressed, he allowed that there was one other exit, and that it was the stop at the bottom he objected to.
+
+It was a great chamber with a pit in it and a ledge of trodden muck round the rim. The rubbish stood in a ring: broken crockery, rags, bones, rotten timber, something that had been a cartwheel. Down in the dark in the middle of it, the heap moved. An eye rose on a stalk, found Emmet, and stopped.
+
+"It's Moon Day," said a voice from the bottom, very deep and very wet.
+
+"I know, Bishop. They should be bringing the trash down any minute. We're just passing through."
+
+The eye turned to Dorogh. "Who is that with you?"
+
+"I didn't catch it," said Emmet.
+
+"Lily," said Dorogh.
+
+"Do they have any food?"
+
+Dorogh said he could check. He had trail rations in his pack, which made him the only one of the four who had thought to bring any, and he counted out four days' worth, one for each of them, and lobbed them over the edge. There was crunching. There was also slurping, though nothing he had thrown was wet.
+
+Nobody went to the lip to look. Dorogh wanted to know what it was and was clever enough to go on wanting. Emmet called goodbye to it and it rumbled something back, and the company went round the north wall at a brisk pace while it ate.
+
+The passage beyond ran north a short way and opened onto something much larger. Emmet stopped at the mouth of it and let the sack down off his shoulder.
+
+"Oh, I clean forgot. We need a torch. Who's got a torch?"
+
+It had to be fire. Kora's light would not serve. Nobody had a torch. Dorogh asked the alchemist, reasonably, whether a man who set so many things alight might carry the means, and was told that this was a large assumption.
+
+"Well," said Emmet, "we can't get past them darkmantles without one."
+
+Dorogh has read about darkmantles. They hang from the roofs of caverns looking like part of the roof, and they drop, and they wrap a person head to shoulders and squeeze. Light does not trouble them and neither, ordinarily, does fire. These ones, Emmet explained, had been taught from small to leave alone anybody carrying the right sort of torch.
+
+The cliff was thirty feet on, a sharp turn left, and sixty feet more.
+
+Emmet pinched Dorogh's upper arm, pronounced it solid rock, and suggested he simply march out there and kill them. For a brave adventurer it would be no trouble at all, he said. For this lot, who could say.
+
+There was the lit passage back at the junction, where there might be torches, on the far side of the Bishop, who would by then have finished eating. Or there was Dorogh's idea, which was to take off his helm and his new shirt, rig the one inside the other into something like a man, and have Kora walk it out ahead of them on her spectral hand to see what fell on it.
+
+It was his second shirt in two days. When the day broke off he was still holding it, at the edge of a cavern nobody had yet looked up into, with six men in a sack behind him and sixty feet to go.
+
+*Session of September 27, 2026.*

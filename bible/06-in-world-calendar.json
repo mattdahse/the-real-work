@@ -49,6 +49,16 @@
       "name": "27th Neth",
       "log": "Assault on the Scrapyard",
       "gmlog": ""
+    },
+    {
+      "id": "id-00004",
+      "day": 28,
+      "month": 11,
+      "monthname": "Neth",
+      "year": 0,
+      "name": "28th Neth",
+      "log": "Into the Low Road",
+      "gmlog": ""
     }
   ]
 }
