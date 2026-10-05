@@ -21,7 +21,7 @@
    The page converts `when` into each reader's own local time, wherever they are. */
 
 window.NEXT_SESSION = {
-  when: null,
+  when: '2026-10-17T11:00:00-07:00',
   mode: 'online',
   where: '',
   runsHours: 5
