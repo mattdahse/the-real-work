@@ -1,6 +1,6 @@
 ---
 name: real-work-chronicle
-description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, and player-email draft in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Riven Maelus, Dorogh Kell, Diddle Scribes) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
+description: Compose and publish recaps for Matt's second Pathfinder table — The Real Work, the ground-level campaign (The Marchlands Commission) that runs alongside the Fifth Crusade at Drezen — and keep its Cast, Lore, in-world calendar, player-email draft, and Discord #recaps post in sync. Use whenever Matt pastes a session transcript for this table, describes a session from memory, asks for a recap / chronicle update / "Chapter X" for The Real Work, asks to update its cast, add a secret, or refresh its calendar/timeline, or refers to its characters (Riven Maelus, Dorogh Kell, Diddle Scribes) or its jobs (the South Bank job, Cinder Row, the Sarkorian manor, Mira's commission). Triggers include "transcript", "recap", "session summary", "chronicle update", "Chapter X", "The Real Work", "Marchlands Commission", or any pasted multi-paragraph game-session log set in Drezen's South Bank or on the western road. If a pasted log is about Harlock, Varic, Lupenor or Rabiah it belongs to the crusade's repository and its wotr-chronicle skill instead — say so.
 ---
 
 # The Real Work → Repo & Site
@@ -14,7 +14,7 @@ repository (`the-fifth-crusade`) and its own skill. The two share a world, a yea
 reader, and a house look; they do **not** share chapters, casts or secrets. A session log about
 Harlock, Varic, Lupenor or Rabiah is the other table's.
 
-Maintaining the archive after a session means up to **six** jobs — do all that apply:
+Maintaining the archive after a session means up to **seven** jobs — do all that apply:
 
 1. **Chronicle** — write the session's chapter and publish it.
 2. **Cast** — add any new persons of importance; mark the dead.
@@ -22,6 +22,8 @@ Maintaining the archive after a session means up to **six** jobs — do all that
 4. **Calendar** — pull the session's new in-world days out of Fantasy Grounds.
 5. **Player draft** — leave a Gmail *draft* to the players linking the latest session.
 6. **Next session** — read the next game off Matt's Google Calendar into `next-session.js`.
+7. **Discord** — post a short blurb and a link to the new chapter in the server's #recaps, once
+   Matt has approved the draft.
 
 ## Repository layout
 
@@ -227,6 +229,50 @@ not yet a rule, and it is **not** the crusade's weekday rule (Friday online, Sat
 if a session is ever called in person, Matt has to say so. If no future event exists, set
 `when: null` — the header then says the next session is not yet scheduled.
 
+## Workflow — 7. The Discord post (#recaps)
+
+The table's Discord server, **Pathfinder - The Real Work**, keeps one short post per chapter in
+**#recaps**: a blurb, one plate, and a link to the chapter on the site. **Never post the whole
+chapter.** Matt ruled that out (2026-09-21) because it means too much scrolling once the sessions
+pile up. This step belongs to this table only: the crusade has no Discord channel, so do not
+carry it over to `wotr-chronicle`.
+
+**Show Matt the full draft and wait for a yes before posting.** The post goes straight to the
+players, and IFTTT can post but **cannot edit or delete**. A bad post has to be deleted by hand
+in Discord and posted again. Post only after step 5's push is live, so the link and the plate
+both resolve.
+
+Post through the IFTTT connector with `run_action`: `service_slug: "discord"`,
+`slug: "post_rich_message_to_channel"`, `account_id: 460523335` (Matt's Discord account,
+`mattdahse`), and these fields:
+
+| Field | Value |
+| --- | --- |
+| `channel_id` | `1549450429249748995/1551745386396385311` (#recaps) |
+| `message` | `New chapter in the chronicle.` |
+| `allowable_mentions` | `no_mentions` |
+| `embed_title` | the chapter title, plain, with no numeral |
+| `embed_description` | the blurb, a blank line, then `**[Read Chapter <N> on the archive →](<deep link>)**` |
+| `embed_footer` | `Chapter <N> · <Month Day, Year> session` |
+| `embed_color` | `9c6b1e` (the site's gold, `--accent2`) |
+| `embed_image_url` | one plate from the chapter, on the live site: `https://mattdahse.github.io/the-real-work/images/<file>.webp` |
+
+- **The link goes inside the embed as a masked link.** Never put it in `message` as
+  `<https://…>`: IFTTT reads the angle brackets as an HTML tag and strips the link out, which is
+  what happened to the first Chapter I post. A bare URL in `message` survives, but Discord unfurls
+  it into a second card, and the site has no link-preview tags to make that card worth having.
+- The deep link is the Gmail draft's (`#/read/ch<order>`). `<N>` is the chapter's Roman numeral.
+- **The blurb** is two or three sentences in the chronicle's voice: no mechanics, no player names,
+  nothing the table has not seen. Say only what the chapter says. A job offered is not a job paid:
+  Chapter I's blurb reads "the promise of a hundred and fifty gold", not "a hundred and fifty gold".
+- **The plate** should show the company, ideally all four of them. Check that it returns 200 on the
+  live site before posting, and if more than one plate fits, offer Matt the choice.
+- If the channel list ever changes, `get_actions` for `discord` with `resolve_options: true`
+  lists the channels the IFTTT bot can reach.
+
+**Posted so far:** Chapter I (2026-09-21, the tavern plate); Chapter II (2026-10-16, the Bishop plate). Add each new chapter here once it is
+up, so that a later run never posts the same chapter twice.
+
 ## Illustrations & the house art style
 
 The archive is illustrated in the same house look as the crusade's. Two files govern it:
@@ -245,6 +291,8 @@ before publishing. A chapter-opening illustration goes between the subtitle line
 - One-paragraph summary: chapter number, session date covered, that it's live (link the site).
 - What changed in the **Cast**, **Lore**, and the **Calendar**, if anything.
 - That the **player draft** is ready in Gmail for Matt to review and send.
+- The **Discord post**: either that it is up in #recaps, or the draft (blurb, plate, footer) waiting
+  on Matt's yes.
 - **Suggested bible updates** (do not silently overwrite `bible/*`): new NPCs, places, items.
 - Open questions. The calendar event's name, the mode, the player emails and who plays whom are
   now recorded above; still open are the **party moniker** (Mira is still auditioning names) and
