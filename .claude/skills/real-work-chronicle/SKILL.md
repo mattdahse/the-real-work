@@ -270,7 +270,7 @@ Post through the IFTTT connector with `run_action`: `service_slug: "discord"`,
 - If the channel list ever changes, `get_actions` for `discord` with `resolve_options: true`
   lists the channels the IFTTT bot can reach.
 
-**Posted so far:** Chapter I (2026-09-21, the tavern plate); Chapter II (2026-10-16, the Bishop plate). Add each new chapter here once it is
+**Posted so far:** Chapter I (2026-09-21, the tavern plate); Chapter II (2026-10-16, the Bishop plate); Chapter III (2026-10-18, the "Get in the box" plate). Add each new chapter here once it is
 up, so that a later run never posts the same chapter twice.
 
 ## Illustrations & the house art style
