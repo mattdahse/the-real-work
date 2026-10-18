@@ -795,6 +795,8 @@ It was his second shirt in two days. When the day broke off he was still holding
 
 <!-- fathom: call=865690616 recording=193727725 -->
 
+![Get in the box.](images/ch3-masters-of-the-drezen-way.webp)
+
 ### **Plan B**
 
 Nobody had a torch. Everybody had a reason.
