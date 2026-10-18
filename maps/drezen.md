@@ -110,13 +110,67 @@ demon rule and have not been searched. **Cinder Row** runs through it. The crusa
 walls above it and very little of what is under its roofs, and has decided that this counts.
 This is where the work is. This is why the company is being paid, and why the pay is what it is.
 
-## The Cemetery
+## The Old Cemetery
 <!-- at: 7.2, 75.7 -->
 <!-- kind: site -->
 <!-- style: icon -->
 
-Outside the walls to the west, on the far bank. Older than the occupation, and added to steadily
-since the retaking. The only district in Drezen with a growing population.
+Outside the walls to the west, reached straight across the **South Bank** without crossing the
+Ahari. It has been filling with crusaders since the Worldwound opened, and then the demons kept
+it for seventy years, which they enjoyed. A good many of its graves have been dug out, which is
+not the same as dug up; **Kora Sjon** puts it at about a third. A mausoleum in the middle has a
+sign in front of it that says DO NOT APPROACH. The poor go at the western edge, under wooden
+slabs with the names scratched in. On the 28th of Neth the company buried six diggers from the
+**Low Road** there, three feet down to keep the critters off, under a marker made from the handle
+of somebody else's spade. There is a newer burial ground round the temple on the hill to the
+east. It has more people about it. The only district in Drezen with a growing population.
+
+## Ippy's Cottage
+<!-- at: 3.6, 79.2 -->
+<!-- kind: temple -->
+<!-- style: icon -->
+
+A stone cottage at the cemetery's edge, built to a gnome's measure, with the spiral of
+**Pharasma** painted on the door and herbs drying under the eaves. **Ippy** keeps it, and the
+cemetery, because nobody else was going to. She takes her tea at the table, which nobody taller
+than a goblin can reach. She will bless and sanctify the dead for ten gold. The burying is on you.
+
+## The Drezen Back Door
+<!-- at: 13.4, 80.6 -->
+<!-- kind: ruin -->
+<!-- style: icon -->
+
+The west end of the Low Road: a cave in the cliff face that looks like solid rock from the
+inside, and is not. Sixty feet of rope ladder is spiked to the stone at the lip, ready to be
+thrown through the wall. On the outside a lip of rock runs down the cliff beside it and hides it
+from the watchtowers, and below are the cemetery and the Marchlands. This is how the **Templars
+of the Ivory Labyrinth** walked people into Drezen, gave them a trade and a coat, and sent them
+up into the city. The company found it on the 29th of Neth, hauled the ladder back in, and left
+it where it was. To get there from inside, cross the darkmantles' cavern with a light.
+
+## The Old Tannery
+<!-- at: 25.8, 79.4 -->
+<!-- kind: ruin -->
+<!-- style: icon -->
+
+Stone, on **Cinder Row**, two doors down from **Hesk Dolvan's** scrapyard. The dwarves who built
+the city knew stone, so it has come through seventy years with nothing worse than a door hanging
+by one hinge. The drying racks out front have fallen in, and it still smells like a tannery.
+Inside, under the rotted benches, is a trapdoor with sound planks that someone keeps swept, and a
+forty-foot ladder down into the Low Road. No padlock. It is the one way in that, as far as the
+company knows, nobody is watching.
+
+## The Church Shed
+<!-- at: 57.6, 55.8 -->
+<!-- kind: temple -->
+<!-- style: icon -->
+
+A church of **Iomedae** a short walk east of the water pump in **Lupenor's Market**, with a tool
+shed round the side. Ask the meat vendor for the goat, follow the well-dressed girl, find the old
+man at the pump with a flower that does not suit his shirt, and you end up here. The **Gardener**
+has met the company in it with goat on skewers, and they have since left a prisoner in it, which
+she says is not how safe houses work. There is a real gardener as well. He goes off the clock at
+dusk and does not ask.
 
 ## Two Pints and a Song
 <!-- at: 43.1, 55.1 -->
