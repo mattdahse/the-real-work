@@ -823,6 +823,8 @@ Then a tentacle rose out of the pit holding a broomstick with a straw horse's he
 
 Dorogh went a little closer. Riven came up behind him, took a firm grip on the back of his belt, and set his feet. The eye considered them both.
 
+!["Come a little closer. I'll give it to you."](images/ch3-the-hobby-horse.webp)
+
 "What are you, a human?"
 
 "A tiefling," said Riven.
@@ -864,6 +866,8 @@ Dorogh told her about the sewers, and the rockfall, and showed her a skull. She 
 "Oh, those are definitely haunted." She was not sure she wanted them in her graveyard. She was clergy, she said. She would bless them, and sanctify them, and they could bury them. It would not be cheap.
 
 "The burying is on you anyway," said Ippy. "But the sanctifying, that's where the real work comes in. I'm going to need ten gold."
+
+!["The burying is on you anyway."](images/ch3-ippy.webp)
 
 Kora had her purse out before anyone else, on the principle that whatever made her pack lighter was a bargain. Ippy bit one of the coins, set her teacup down, rolled her neck, took out her holy symbol and began to chant. After a minute the jaws in the bag stopped working. The skulls slowed in their rolling and then lay still, and were bones.
 
@@ -966,6 +970,8 @@ Two more young men came in from the east in matching clothes. At that distance a
 The other burned one came at Diddle. "Stop shooting me," he said. Kora's next bolt took one of the newcomers clean out of the fight, and his companion turned and ran back the way they had come. Diddle stepped in close to the young man trying to stab him, put the crossbow into his stomach, and pulled the trigger. Then he turned, slowly, to look at the big man. Riven was heard to wonder aloud whether he wanted this one in the company.
 
 The big man and Dorogh traded blows for some while and neither of them landed one. Each time he swung, the helm turned a little on his head, until the eye-slits no longer lined up with his eyes, and he spent a round of the fight reaching up with both hands to twist it straight. Riven hit it with a fist of force, very hard. Then Dorogh found his range and began to land, and Diddle put a bolt in the big man's thigh, and at the far side of the chamber a stretch of rock wall swung open under the scrapper's fiddling and he went through it.
+
+![Each time he swung, the helm turned a little on his head.](images/ch3-the-horn.webp)
 
 From beyond the wall came pounding and shouting. *Open the door! Let us up!* A good deal of it was about Hesk.
 
@@ -1134,6 +1140,8 @@ There was also a map on oiled linen, of the country north and west of Drezen, wi
 Anselm took up the ladder, heaved, and threw it at the wall. It went through. They heard it uncoil on the far side, rung by rung, thump by thump, until the ropes went taut on their spikes.
 
 Riven went first, backwards. His feet and then his legs went into the stone, and he felt a rung under his toes, and the rest of the company watched him sink into the wall to the waist and then out of sight, the ropes twitching as he climbed. He came out on a cliff face sixty or seventy feet above the **Marchlands**. A lip of rock ran down the cliff beside the ladder and hid it from the watchtowers on the walls. It was cold, and the wind off the Marchlands had night in it. Anyone with a ladder and a bag could come and go here for as long as nobody knew. The wind, it was agreed, explained the shrinkage.
+
+![The back door to Drezen.](images/ch3-the-back-door.webp)
 
 He climbed back up and told them, and they hauled the ladder in.
 
