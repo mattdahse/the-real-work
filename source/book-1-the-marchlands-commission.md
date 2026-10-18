@@ -787,7 +787,7 @@ It was his second shirt in two days. When the day broke off he was still holding
 
 *Session of September 27, 2026.*
 
-## **That's Where the Real Work Comes In**
+## **Masters of the Drezen Way**
 
 *October 17, 2026 session. A torch nobody owned, six skulls in hallowed ground, a map in goat grease, a man in a box, and the back door to Drezen.*
 
