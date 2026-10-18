@@ -96,3 +96,17 @@ Commission* records. The chronicle follows the table in every case below; Matt r
   Moon Day", which matches the 28th. Chapter II follows the table.
 - **Alia Dolvan's term.** The module says seven months gone; at the table she was "due in weeks,
   not months". Chapter I says only that she is heavily pregnant.
+- **The chalk maze in the Knot.** The module calls it a good one, patiently done, round and round
+  to an empty centre. At the table it was a bad labyrinth: two openings, and paths that do not
+  connect. Chapter III follows the table.
+- **The ledge.** The module puts mourners in the cemetery below all day, which is why nobody uses
+  the ladder in daylight. At the table Riven went down into a cold night wind. Chapter III says the
+  wind "had night in it" and leaves the hour at that.
+- **Where the six went.** The module lays the haunt by taking the bones over the ledge into the
+  Marchlands. At the table Emmet told the company to take them to a cemetery instead; they paid
+  **Ippy** (improvised, no module entry) ten gold to sanctify them and buried them at the western
+  edge of the old cemetery. Not a contradiction so much as a road not taken; recorded so the ledge
+  scene does not later assume the bones went over.
+- **The six fingers.** Anselm Vauk's portrait shows six fingers on his right hand. The table
+  noticed and Chapter III says so. If that was a painting slip rather than a choice, the portrait
+  and one sentence in Chapter III change together.

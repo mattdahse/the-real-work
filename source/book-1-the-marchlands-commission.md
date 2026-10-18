@@ -786,3 +786,393 @@ There was the lit passage back at the junction, where there might be torches, on
 It was his second shirt in two days. When the day broke off he was still holding it, at the edge of a cavern nobody had yet looked up into, with six men in a sack behind him and sixty feet to go.
 
 *Session of September 27, 2026.*
+
+## **That's Where the Real Work Comes In**
+
+*October 17, 2026 session. A torch nobody owned, six skulls in hallowed ground, a map in goat grease, a man in a box, and the back door to Drezen.*
+
+<!-- inworld: approx 28 Neth 4713 to 29 Neth 4713 -->
+
+<!-- fathom: call=865690616 recording=193727725 -->
+
+### **Plan B**
+
+Nobody had a torch. Everybody had a reason.
+
+**Diddle Scribes** sees in the dark and had never wanted one. **Riven Maelus** turned out his pack and found knives, a winter blanket and no fire. **Dorogh Kell** had rope and a dagger and nothing to light either with. **Kora Sjon** had crossbow bolts, which are eight inches long and no thicker than a candlewick, and are therefore not a handle.
+
+So they built one in theory. A torch, Dorogh reasoned, wants three things: something fibrous, something to soak it in, and something to hold it by. They had the blanket and the rope for the first. They had nothing for the second. Riven offered his quarterstaff for the third, and was halfway through the offer before he remembered that it was the thing he had bound his magic into, and that burning it would very probably hurt. Kora suggested there might be options to try before they set fire to the weapons. Dorogh asked the alchemist whether he could reverse one of his bombs into something that burned slowly and did not go off. Diddle said he could set something on fire for certain, but would not promise how long it lasted, or whether anyone kept their eyebrows.
+
+Riven volunteered to walk in and draw one down, wearing every protection he could put on himself. Dorogh, who has read about **darkmantles**, explained that they do not hit a man. They wrap him from the crown down and squeeze, and after that his armour is a matter of historical interest. Kora offered a small blessing that would make an attacker think twice, and admitted it would not make one think very hard.
+
+Diddle settled the debate by picking up a rock and throwing it into the cavern. Something fluttered, high up and forty feet off. There were at least two of them. He threw a second rock. Nothing answered it. Once they had settled back against the roof, even eyes that see in the dark could not pick them out from the stone.
+
+Dorogh went back to the edge of the midden to look for a stick. He found paper, slime and a great deal of what he would only describe as organic matter. Some of it was rigid and some of it was long. None of it was both. The larger rubbish was nearer the pit, and so was the **Bishop**.
+
+"Hey, Bishop. You still down there?"
+
+An eye came up over the lip on its stalk, its pupil gone huge in the dark, and found him. "You have more food for me?"
+
+Dorogh said he might, and asked whether it had any sticks. The Bishop asked how much he weighed. Then it asked whether he was fit, and a second tentacle came up over the edge in an exploratory way, as if it meant to pinch his arm. Dorogh pointed out that he had fed it already and that it was very rude to threaten a man who had brought you dinner. The Bishop said the dinner had been dry.
+
+Then a tentacle rose out of the pit holding a broomstick with a straw horse's head on the end.
+
+"Come a little closer," said the Bishop. "I'll give it to you."
+
+Dorogh went a little closer. Riven came up behind him, took a firm grip on the back of his belt, and set his feet. The eye considered them both.
+
+"What are you, a human?"
+
+"A tiefling," said Riven.
+
+"Tieflings are too chewy and crunchy at the same time," the Bishop said. "Not in a good way. Bring the orc back."
+
+The hobby horse bobbed invitingly. Kora threw a couple of trail rations over the edge, and they came straight back. Dorogh told it that it did not seem to be negotiating in good faith. Riven suggested they leave it to starve. As they went, the Bishop observed that if they were going into town anyway, they might bring it something back.
+
+"Why?" said Riven. "You didn't do anything for us."
+
+Riven was a little offended to have been found inedible. Dorogh was not flattered to have been found otherwise.
+
+### **Hallowed Ground**
+
+**Emmet** had watched all of this with the sack of skulls over his shoulder and an old man's patience. When it was clear they were going back, he scratched his head.
+
+"Well," he said, "if you're leaving anyway, just take the bones with you and bring them to a cemetery or something."
+
+"That," said Diddle, "was an option?"
+
+Emmet would not come with them. He would wait at his bunk until they came back. Asked whether he had a bunk, he wanted to know whether they thought he slept in a hole. Slaves get bunks. He handed over the sack: six skulls, the rest having gone to powder long ago, and they rattled. They had been rattling all along. In the bag they rolled about against one another and their jaws worked, and they would not stop. He warned the company not to tip them in a gutter on the way. He would know if they were not put in hallowed ground. Those were his friends.
+
+They went back past the midden in single file, flat against the wall. Diddle made no sound at all. Dorogh made all of the sounds, and was told afterwards that it was simply not one of his gifts. Nothing came up out of the pit.
+
+At the crossing of the five tunnels Riven went ahead alone up the northern passage, toward the light. He saw candles, and a brighter light through an opening on the east side, and a circle drawn on the floor, and two armed men in what looked very like a uniform. On the way back he was less quiet than on the way in. He heard muttering, and boots on gravel, but nobody followed him into the southern dark. The company agreed to come back better prepared, which was the first time anyone had said it and not the last.
+
+Up the forty-foot ladder, out through the tannery, across the **South Bank**. The burial grounds of **Drezen** lie at the edges of the city. There is a new one round the temple on the hill to the east, with plenty of people about it, and an old one far to the west that has been filling up with crusaders since the Worldwound opened. Dorogh chose the old one, on the grounds that these were old bones.
+
+It has seen action. A good many of its graves have been dug out, which is not the same as dug up. In the middle stands a mausoleum with a sign in front of it that says DO NOT APPROACH. Kora estimated that roughly a third of the plots had at some point been left from below. Dorogh asked whether that was normal, and decided that for a crusader city which the demons had then kept for seventy years, it was.
+
+Dorogh did not feel that a fighter was qualified to lay anyone to rest, and wanted somebody to say something. They found a cottage at the edge of the grounds with the spiral of **Pharasma** on the door. It looked a fair size from a distance, and then they got closer. Dorogh would have had to stoop to knock. He looked down at Diddle, and Diddle, who knows how gnomes feel about goblins, declined. Then he went anyway, squatted on the step to make himself as small as possible, and tapped very gently.
+
+The door was opened by a young gnome woman in a small bathrobe, holding a cup of tea on a saucer. Her name was **Ippy**. She was the caretaker, she said, because nobody else was going to be, and she had appointed herself. She invited them in for tea, turned and walked back into the cottage, and stopped when she realised that nobody was going to fit through the door.
+
+"Oh," she said. "I always have it at the table."
+
+Dorogh told her about the sewers, and the rockfall, and showed her a skull. She looked into the bag.
+
+"Oh, those are definitely haunted." She was not sure she wanted them in her graveyard. She was clergy, she said. She would bless them, and sanctify them, and they could bury them. It would not be cheap.
+
+"The burying is on you anyway," said Ippy. "But the sanctifying, that's where the real work comes in. I'm going to need ten gold."
+
+Kora had her purse out before anyone else, on the principle that whatever made her pack lighter was a bargain. Ippy bit one of the coins, set her teacup down, rolled her neck, took out her holy symbol and began to chant. After a minute the jaws in the bag stopped working. The skulls slowed in their rolling and then lay still, and were bones.
+
+She pointed them to the far western edge of the grounds. At least three feet down, she said, to keep the critters off. And if there were holes there already, they should not go near them.
+
+The western edge was where the poor went: some fresh graves, some sunken ones, some marked with wooden slabs that had names scratched into them, and some that looked as if their occupants had left in a hurry and taken pieces of the coffin with them. Somebody had left a spade behind, rusted and splintered. Dorogh dug. Riven said the words, as a follower of **Desna**, asking her to watch over these poor men who had been crushed in a fall, to see them safe to Pharasma's judgement and on to whatever gods they had followed in life. When it was done Dorogh broke the handle off the spade and drove it in for a marker, because every other scrap of wood in the place was already somebody's.
+
+Walking away, it occurred to Riven that Desna is the goddess of luck, and that these six had died in an accident. She may not have been the right person to ask.
+
+The walk back was quieter. The skulls had talked a great deal.
+
+### **Torches**
+
+Dorogh's lodging was more or less on the way. He went in for his torches and his flint and steel, and found the flint and steel. He had never owned a torch. Nobody had. They went to **Drezen Outfitters** in the market district and bought several, as the price of a lesson.
+
+Riven gave Diddle fifty gold, for the potion that had got him up off Hesk Dolvan's floor. Diddle said he could turn that into two more, eventually. Then he went round the corner to his master's shop and bought, at cost, a ***sunrod***, a flask of ***oil of magic weapon*** for Dorogh's morningstar, and four ***cure*** potions to hang from his belt. Kora observed that at this rate she could make a living off the rest of the company, and seemed to be considering it.
+
+It was Diddle who wanted to know, with great care and some amusement, why they still needed the torch, given that they had just buried the bones they had needed it to get past.
+
+Kora said, "Just in case."
+
+It occurred to somebody, much later, that Emmet's lantern had had oil in it the whole time.
+
+They went back down the tannery ladder for Emmet and found him on his way up to meet them, having got bored. His sack was knotted at the neck and slung over his shoulder. He asked whether they were buying him an apartment in the city. He asked whether the demons had been gone a while, and whether humans were back in charge up there. For the most part, Dorogh told him. He would not say it was any better. Diddle said there was less killing.
+
+Riven went up the ladder first and opened the trap. Even inside a dusty tannery the light came down the shaft like a blade, and Emmet shrieked and clapped his hands over his eyes.
+
+"Give me a minute! I haven't been upstairs since... what year is it?"
+
+Somebody found a bandage, and he went up the rest of the way with gauze over his eyes, and came out into the daylight by degrees.
+
+### **Goat**
+
+They walked him to **Lupenor's Market** and did it properly this time. Dorogh went to the man who sells meat on sticks and asked for the goat. It was late afternoon and trade was brisk. The man said it would be a minute, he would have to go and prepare it, they should sit over there.
+
+They sat over there. A well-dressed girl of nine or ten walked up to them and said, "You need to go to the fire pump," and walked off.
+
+At the pump an old man was leaning on the handle with a flower in his shirt. It was a flower that had no business in that shirt, on that man, in that street. Dorogh went up to him and asked whether he was also a member of the Gardener's Club.
+
+"Yes." The old man pointed toward a church steeple, very discreetly, with one finger held flat against his own chest. "You need to go to the church over there."
+
+It was a church of **Iomedae**, with a few worshippers in it, and in the corner was the same little girl, who beckoned them round the side to a tool shed. In the tool shed was **Mira Thistledance**, with four skewers of meat.
+
+"Your order's ready."
+
+Dorogh gave his skewer to Emmet, who loves goat, and made the introductions without anybody's real name in them. This was the Gardener. This was the Mole. He had dug under the South Bank all his life and knew it in the dark, and in return for his freedom and perhaps a place to live, he would set down everything he knew. Mira took this in, produced a folded sheet of parchment and a stick of charcoal, pointed at a crate, and said, "Here you go. Start making me a map." Emmet set to at once. His fingers were still greasy from the goat.
+
+Mira drew the four of them out behind the shed. It was a wonderful find, she said. An inside man. But she could not take the word of a nearly blind slave who plainly had a few marbles loose, so they would have to go back down and check his map against the ground. Dorogh looked at her for some time on the subject of loose marbles. And next time they brought her a resource, she added, they might stop at a bathhouse on the way.
+
+Then she remembered something, and reached into her belt pouch. She had been talking to Diddle's master, she said. He had agreed to help her with a project. Fresh from what she called her research and development department, she handed round little jars an inch high with cork stoppers.
+
+"Next time you need to cross the city incognito, you rub just a little of this mustache paste on your lip. You'll instantly grow a mustache."
+
+Kora asked whether it would grow on a beak. Mira scratched her chin. "I don't know. I didn't ask. It's a good question."
+
+When the first cork came out, the smell was such that three of the company had to turn away and compose themselves. Diddle smelled nothing out of the ordinary, being a goblin and having spent his life in a shop full of chemicals. Dorogh took one jar, observing that he might never use it. Nobody else took one.
+
+Dorogh suggested that the Gardener might keep a rented room somewhere, moved about from time to time, where they could bring people instead of a shed. Mira wrote down *safe houses*, and underlined it. Kora wondered whether Emmet might go to work in the scrapyard, since they had more or less promised Hesk a man, and Dorogh pointed out that the people under Hesk's floor knew Emmet's face. He would need a job somewhere else.
+
+The Gardener, as she put it, took care of him, by which she meant that she found him a place. In the morning a folded sheet of parchment had been pushed under Diddle's door: the tunnels under the South Bank in charcoal, every turning they had seen and a good many they had not, with grease on it.
+
+![The Low Road in charcoal, as the Mole set it down, with the goat still on his fingers.](images/map-low-road-charcoal.webp)
+
+It agreed with everything they had seen for themselves. It showed the circle in the northern chamber, and the candles, and another spiral to the west. That night Riven went to the library and read about spells, and the others went home and slept.
+
+### **Orientation**
+
+The 29th of Neth. Back down the tannery ladder, for the third time in two days. Riven put a layer of force about himself at the foot of it. Diddle had a torch in one hand. Dorogh had the morningstar out, and somehow found himself at the very back of the company, where a man in armour is of least use.
+
+Riven and Diddle crept up the northern passage to the edge of the light. Neither of them was seen. Then nobody quite knew what to do, so Diddle walked out into the middle of the chamber and called out:
+
+"Hey, is this where orientation is?"
+
+There were two young men in mail by a crate with a lantern on it, and they looked confused, but only briefly. Against the wall sat a third man, with a black chin-beard and a bandage round his middle, who had last been seen leaving **Hesk Dolvan's** house by the side door.
+
+"That's the goblin from the attack upstairs!"
+
+There are not, it should be said, many goblins in Drezen.
+
+Riven was quickest. He laid ***grease*** across the floor under the two young men, and one of them went down at once and stayed down. The other kept his feet by a miracle, then tried to walk off it and went down as well. For a good while after that the fight went on around two men in mail who could not get up, and went down again whenever they tried. Dorogh charged in with his morningstar and shield and tried to look intimidating, and was largely successful. Kora raised her crossbow and found that the bolt in it had been turned round, point to the string. She had loaded it properly. One of her spirits was taking an interest. She turned it back without comment, and the company's private suspicion that someone among them was a saboteur was quietly put to rest.
+
+Diddle threw a bomb into the grease, which did both of the young men no good at all. The man with the chin-whiskers ran to the wall and reached up, and for the first time the company saw the cord, a length of twine run along hooks the whole length of the wall and away down the tunnels both ways. He pulled it three times. Bells went off to the east and the west.
+
+Riven went to deal with him. In the heat of the moment he reached out to shock the man and cast a working that would only have tired him, and missed with it anyway. The scrapper did not miss. It was a scrap hook, and it put Riven on the ground for the second time in three days. A wizard is customarily kept behind a fighter, and Riven has been finding out why. Dorogh came across and hit the scrapper very hard. Kora, shouting "Riven's down again!" in a tone that suggested it was becoming a habit, reached him and laid hands on him and brought him round whole. He was on his back, but he was whole.
+
+Diddle bombed the second young man until he was more burn than man.
+
+Then from behind the crates at Diddle's back came a very big man.
+
+### **The Horn**
+
+He wore scale mail cut from three different coats, and on his head was a great horned helm made for a much bigger skull than his. It sat on his shoulders like a bucket. He swung a greataxe at Diddle and missed, and everyone in the room understood that if he had not missed there would have been no more Diddle.
+
+Riven, still on the floor, thought he would have liked that helmet, and that it would be rude to say so.
+
+The scrapper looked at the big man, and at the half-orc, and at the burning young men, and withdrew in an orderly fashion toward the east, which is what he had done the last time he met the company as well. Riven got up and put a shield of force before him. Dorogh looked at the scrapper's back and then at the axe, and went for the axe, and told the goblin he could hide behind him.
+
+Two more young men came in from the east in matching clothes. At that distance and in that light, nobody could say whether they were comrades or something more. One of the burned pair found his feet at last, came at Riven with a short sword, and missed. Riven put a fist of force into him and he went down. Riven thanked Kora as he did it.
+
+The other burned one came at Diddle. "Stop shooting me," he said. Kora's next bolt took one of the newcomers clean out of the fight, and his companion turned and ran back the way they had come. Diddle stepped in close to the young man trying to stab him, put the crossbow into his stomach, and pulled the trigger. Then he turned, slowly, to look at the big man. Riven was heard to wonder aloud whether he wanted this one in the company.
+
+The big man and Dorogh traded blows for some while and neither of them landed one. Each time he swung, the helm turned a little on his head, until the eye-slits no longer lined up with his eyes, and he spent a round of the fight reaching up with both hands to twist it straight. Riven hit it with a fist of force, very hard. Then Dorogh found his range and began to land, and Diddle put a bolt in the big man's thigh, and at the far side of the chamber a stretch of rock wall swung open under the scrapper's fiddling and he went through it.
+
+From beyond the wall came pounding and shouting. *Open the door! Let us up!* A good deal of it was about Hesk.
+
+Riven sent a fist up under the edge of the helm and into the big man's throat, and he went down choking and did not get up. Dorogh finished it.
+
+The rock wall had slid shut again. The young man who had fled shut it behind him, after a moment's thought, from the far side. It took all four of them to find the catch, and it was Kora who found it, mostly because she was the one holding the light. Beyond the wall was a cellar with stairs going up to a trapdoor, and on the stairs was the scrapper, banging on the trapdoor with his hook and cursing Hesk and every Dolvan back to the first one. Behind the door, very faintly, someone was saying, "Hang on a second, I gotta find my keys."
+
+The young man who had shut the door was at the foot of the stairs. Riven hit him across the jaw. Dorogh reached up the stairs, took the scrapper by the ankle, and pulled. The scrapper put his hook into Dorogh as he came down, and got the worse of the trade. Then Riven stepped in to the young man, took him by the wrist and cracked his elbow, and his sword went to the floor.
+
+There was nowhere for the young man to go. He put up his hands. The scrapper tried to get up, and Dorogh hit him once more, and that was the end of the man with the chin-whiskers.
+
+While Dorogh was tying up the prisoner, the trapdoor opened. Hesk Dolvan put his head down through it, saw who was in his cellar, shut it again, and they heard the lock click.
+
+He had asked them to knock. In fairness, they had not.
+
+### **Costumes**
+
+Every one of the dead wore an iron disc at his throat, hooked and stamped with a maze. The company took the discs. They might serve as passes later, or at least be counted. The big man's helm turned out to weigh eight pounds and to have a very loose strap. Dorogh concluded that it was more or less a blindfold with horns on. He tried to carry nearly everything else, and was presently dragging rather than carrying it, which meant leaving most of it on the floor. He kept a bucket of offal somebody had brought down for the pit, meaning to give it to the Bishop.
+
+The prisoner said his name was **Lutz**. Dorogh kept a hand on the rope.
+
+Off the eastern rooms was a small chamber with bunks and a basin and a row of pegs, and on the pegs hung clothes, as if their owners had just taken them off: a laundress's apron, a cooper's leather, a clerk's black coat, and two white tabards with a red sword on the breast. On the table were a pot of ink, a stack of passes for the citadel gate correct in every respect except that nobody had signed them, and a narrow book. On the last peg hung a long blue scarf with small white stars embroidered along one edge.
+
+Kora had been reaching for the book, and her eyes went straight back to the scarf. She knows it. One of her regulars wears it: a widow, or likely a widow, who comes to have the cards read about her husband and when he will come home, and always asks for the seat by the one window in Kora's house that looks out over the western road. The third star has been picked half loose, by a thumb, while the cards are turned.
+
+The book was a register. It had fourteen entries since Rova, each with a date, the name given to the arrival, the trade that came with it, and a remark in the same careful hand. The remarks were short and not kind. *A cooper; cannot cooper. A laundress; for the market end. A widow, for the west end; comes and goes by the ladder.* The eighth and the eleventh entries read only *For the Preservers*, and had no remark at all.
+
+**Iomedae's Preservers** are the order that holds Drezen. The tabards on the pegs were new, and the swords on them had been stitched in cheap red thread.
+
+Riven looked the room over for magic and found none. He suggested that, the cult being more or less routed, the company might take the place over as headquarters, since it already had a costume department. It was pointed out that there was blood everywhere, and a monster in the corner. It was a fair point.
+
+Kora took the scarf. Riven took out a knife and asked Lutz what the clothes were for.
+
+"Those are costumes," said Lutz.
+
+"For what?" He was gripped by the shirt and turned toward the midden. He was told about the Bishop. He was told that the Bishop was not so bad, and that he himself looked nice and squishy on the inside.
+
+"For the people that come up the ladder. So they can get into the city."
+
+How many more worked down here? Lutz looked round at who was on the floor, and saw the helm under Dorogh's arm. "Well, there's the Horn," he said, and then, "never mind, the Horn's gone. I think it's just **Anselm** left. He's the Keeper. He's the one with the books. He's the one that pays us." He was down the tunnel, through the gate.
+
+The Horn's name had been **Gerrit**. Anselm had been in charge, Lutz explained, until the helm came. Gerrit put it on, and became the Horn, and took spiritual command, and after that some of them followed one and some the other. Riven was quietly glad he had not tried it on.
+
+And what were they doing here at all? "Getting people in and out of the city. Now the crusaders are here it got hard to move them through the gates." And why were they moving people in and out of the city? "Look, I'm just doing my job. That's a question for the higher-ups."
+
+Kora went ahead into a room heaped to the roof props with sacks of grain. Most were split. The grain had spilled out across the floor in a fan, and the fan was covered in small, very busy footprints. Above the heap, where nobody in the cult had bothered to look, someone had scratched a column of little marks into the wall in groups of five, with a tiny picture beside each group: a loaf, a turnip, a fish. Then something the size of a terrier came up out of the sacks with grain in its whiskers, and two more behind it, and they lowered their heads at her. Kora decided that this was not her problem today and left.
+
+"That's the food stores," said Lutz. "Where we keep the stolen grain."
+
+"How do you deal with the rats?"
+
+"What rats?"
+
+Riven took Lutz by the collar to show him. Dorogh still had the other end of him, and Riven got two paces and stopped dead. There followed a brief exchange about who had been holding the prisoner first. It was suggested that if they had wanted one each, they should have kept two alive. Dorogh settled it by giving Lutz the bucket of offal to carry, and told him that if he spilled it he would be feeding the Bishop himself.
+
+South of the hall was a chapel. The slaves who dug these tunnels made it, two plank benches and a block of stone for an altar, and they covered every wall from floor to roof with marks scratched in with nails and spoons and bits of bone: a sword, a sun, a butterfly, a bow, a hammer, a key, a bird with its wings spread, and hundreds more nobody knew, some of them a single line, cut by people who could no longer remember what their god looked like but wanted to be counted. Across all of it, deep and new, someone had carved a maze. On the altar sat a goat's head inside a five-pointed star. Not a skull. A head. The blood was clotted and sticky. **Baphomet** keeps a tidy house.
+
+On the way back Kora had a good look at the circle chalked on the floor of the guard chamber. It was meant for a labyrinth. It had two openings and the paths inside it did not connect. It was a perfect circle, though.
+
+### **Highly Irregular**
+
+Through the barricade where the Horn had stood, and along the hall, Diddle found a door and opened it. A narrow man of about fifty was rolling up off a cot, in a chain shirt much too big for him, with ink on the fingers of both hands. Kora noticed that he had six fingers on his right one. Nobody had time to bring it up. He snatched up a glaive and held it the way a man holds a mop someone has asked him to mind.
+
+"Who are you?"
+
+Diddle told him not to worry about that. "Who sent you?"
+
+"Miles Turnberger," said Diddle.
+
+The man looked very confused. Miles Turnberger, he said, ought to be in the books. Diddle showed him one of the iron discs. The man's eyes narrowed. Diddle said he had been sent to collect what was being shipped out. The books.
+
+"The books aren't going anywhere. This is highly irregular. I need to be informed of any requisitions."
+
+Diddle agreed with him entirely, and dug a piece of paper out of his bag, and invited him to come out into the hall where the light was better and he could show him. Anselm went behind his desk instead and fiddled with the lantern. Dorogh dropped his pack and the prisoner's rope together and came in at a run.
+
+"Freeze."
+
+Anselm looked up at him. "You're not wearing the symbol, are you?"
+
+Dorogh had one. He handed it over. The paperwork, he said, was in the bag.
+
+Riven took up a place in the doorway and held a fist of force ready for whoever got an idea first. Anselm stood, and began a working. Dorogh turned the morningstar to the flat and knocked him back into his chair, and the working was lost.
+
+"Someone's got to sign for the books," said Diddle, who had not broken character and did not intend to.
+
+Dorogh put a hand on Anselm's shoulder, leaned down close, and told him to shut up and sit there quietly until they asked him a question. Then he squeezed. "Got it?"
+
+Anselm's lips pressed together until they were white.
+
+Out in the hall, Lutz had an idea. He dropped the bucket of offal and ran west. Riven's fist clipped him going past, but he kept running. At the end of the hall, where a black tarp was strung across the passage, he grabbed with his tied hands at one of the torches that burned there, knocked it to the floor, and fell through the tarp.
+
+There was the flap of leathery wings, and a scream that stopped partway.
+
+Dorogh's rope went with him. It had been the company's only rope.
+
+"Wait! Wait! I have money! I can pay you!" Anselm took a ring of keys from his belt and found a small one, and opened a lockbox under the desk, and held out a pouch. Diddle took it and checked it for traps, in case they were clever. Fifty-two gold.
+
+There was a locked door in the north wall. Diddle asked for the key, so that he could check it against his paperwork.
+
+"You're still trying to convince me you're from the cult?"
+
+He handed the keys to Dorogh. Dorogh stood him up and told him to open it himself. He tried the wrong key, rattled it, tried the right one. Inside was a strongroom, and in the strongroom an iron-bound chest.
+
+"It belongs to the cult," said Anselm. "If it goes missing, they're definitely going to want an accounting."
+
+"I am the cult."
+
+"Of course you are."
+
+A little point of dagger encouraged him, and he opened it. There were silver bars with the stamps half filed off, two vials of cloudy red liquid that Diddle named as ***cure*** potions, and a heavy purse sewn shut and sealed with the maze. It was marked in a careful hand with two initials, Y. K., and the words *the halfway house*. It held sixty gold.
+
+Asked whether they kept records of everyone, Anselm said, "Of course. We keep very good records."
+
+"How invested are you in the cultist life?"
+
+"I've been thinking about a career change for a long time, actually."
+
+Dorogh liked him. He emptied the chest, and told Anselm to get in it. Anselm pointed out that there was no need for him to get into the box if the box was behind a locked door. Dorogh considered this and agreed that he was quite right, and told him to get in the box. Anselm did some arithmetic in his head and did not like the total, and got in. Dorogh threw some rations in after him and locked the lid.
+
+"Please don't leave me in here to starve to death."
+
+"Don't betray the cult next time."
+
+"We are the cult."
+
+While he was in it, they went through his room. There was a ledger in five columns: *Received*, *Sent West*, *Spoiled*, *The Bishop*, and *Shrinkage*. Every column added up. An entry in Lamashan read *Helmsmith's, potions, four, bought, two hundred gold*. There was a brass seal on a chain with a maze cut in its face, and a water-stained treatise *On Mines and Countermines* with a moth pressed in it at the chapter on shoring. Hanging on the wall in a frame of scrap wood was a letter from the **Templars of the Ivory Labyrinth**, the only one that order had ever sent. It listed the correct hymns for the Feast of the Horned Month, in order, and said that attendance was expected. There was a scrap of paper addressed *For the Master of the Drezen Way*. Inside, in big square letters, it said *Send men*. And there were three letters, unsent, sealed with the maze and addressed to the Templars, each asking for a ruling on who held the title of Master of the Drezen Way. The third was shorter than the first.
+
+So that had been the quarrel. One man had the books and the keys, and the other had a hat.
+
+Riven observed that the company might be the Masters of the Drezen Way themselves now. People could worship him. He understood that was how one became a god. Dorogh told him he was not helping the tiefling stereotypes.
+
+"Look," said Riven, "I'm already horned."
+
+Kora let Anselm out. His eyes went left and right through the crack in the lid before he would come any further. Asked when the Feast of the Horned Month was, he said it was **Kuthona**, next month. They were to hold it here, for the local faithful, and it was very important that they used the prescribed prayers. *We*, someone noticed. Anselm corrected himself to *they*.
+
+### **The Back Door**
+
+What to do with him was settled more easily than Lutz had been. Anselm would go to the Gardener alive, and the Gardener would decide. It was observed that he was making good choices, unlike the last man they had tried to keep.
+
+Riven proposed packing the books and papers into a bag and making Anselm carry it. Anselm said there was a backpack by the back door.
+
+"The back door to what?"
+
+"The back door to Drezen." He looked from one of them to the next. "You came all this way and you don't even know why we're here?"
+
+"Apparently not," said Dorogh. "We're not very good at questioning."
+
+"It's how they used to bring in infiltrators."
+
+"See," said Riven, "I told you this one was more useful than the other one."
+
+Anselm said that it was very important to bring a torch into the next room, or the cloakers would get them. Dorogh asked whether he meant torches like those two by the tarp. They were burning without any smoke. Anselm agreed that they were ***everburning torches***. Riven took one and Dorogh the other. Diddle took a plain one of his own, and Kora kept her light and stayed close to the goblin.
+
+When they lifted the tarp, the light poured into a natural cavern of fallen rock and stone teeth. On the floor in the middle something like a black leather bag was wrapped about a body, eating it. When the light reached it, a face full of tentacles opened and closed, and it was gone up into the roof. What it left behind was Lutz, or most of him. He had nothing on him worth taking. He had not looked the sort to have gold teeth.
+
+They crossed in a tight knot, under the torches, and nothing came down.
+
+On the far side the passage narrowed and stopped at a wall. A heap of rope ladder lay against it, sixty feet of hemp with hardwood rungs, its head made fast to four iron spikes driven into the floor. Beside it was a backpack of very good make. Anselm pointed at the wall. "That wall isn't really there," he said. "Watch your step."
+
+In the backpack Diddle found a vial of clear blue liquid with a paper tag tied round its neck, numbered *H.E. 212* and marked with a tiny drawing of a flask.
+
+"Wait a second. I wrote this tag." It was a potion of ***lesser restoration***, out of the storeroom behind his master's shop. Someone had stolen it. The ledger said the shop's potions had been bought. Somebody wanted to know whether Diddle's master was involved, and Diddle did not have an answer ready.
+
+There was also a map on oiled linen, of the country north and west of Drezen, with a line of small marks drawn over it in a different ink. They were not places, Anselm explained. They were markers. If you stood at any one of them, you could see the next. They led to a way station.
+
+Anselm took up the ladder, heaved, and threw it at the wall. It went through. They heard it uncoil on the far side, rung by rung, thump by thump, until the ropes went taut on their spikes.
+
+Riven went first, backwards. His feet and then his legs went into the stone, and he felt a rung under his toes, and the rest of the company watched him sink into the wall to the waist and then out of sight, the ropes twitching as he climbed. He came out on a cliff face sixty or seventy feet above the **Marchlands**. A lip of rock ran down the cliff beside the ladder and hid it from the watchtowers on the walls. It was cold, and the wind off the Marchlands had night in it. Anyone with a ladder and a bag could come and go here for as long as nobody knew. The wind, it was agreed, explained the shrinkage.
+
+He climbed back up and told them, and they hauled the ladder in.
+
+Nobody wanted to come back into Drezen from the outside with a prisoner and a sack of cult papers, so they went back the way they had come. The stairs to the scrapyard opened only from Hesk's side, and Anselm understood there had been an incident. The rest of the loot stayed in a heap where it was: the chain shirts, the Keeper's glaive (which Dorogh wanted), and the grain. There was enough grain to feed a good part of the city, and the rats had been eating it. They agreed to come back for it.
+
+They climbed out through the tannery with a good deal of trouble, having no rope.
+
+### **The Same Shed Twice**
+
+They split up. Dorogh and Diddle took Anselm to the tool shed behind the church, since it was the only place they knew. There was a man in it, an ordinary gardener, hanging up a pair of shears. He looked at them with deep suspicion, shrugged, said he was off the clock, and left. They settled down to wait.
+
+Riven and Kora went straight to Mira's door and knocked. The panel slid open on a pair of eyes going left and right, and then the door opened and they were hauled in.
+
+"Come, come, quickly. What did you find? Where's the rest of you? Did they die? Did you get their bodies? Tell me, was it horrible?"
+
+"Oh, it was terrible," said Riven. "There were monsters, and a lot of people died. Some people were turned into food."
+
+"My first team..."
+
+"Well, not *our* people."
+
+"Oh. Oh, good. Tell me everything."
+
+Riven told her they had a prisoner, and gave her the papers he was carrying: the note, the framed letter, the three letters that had never gone west. She began to read and caught herself, and shook herself out of it.
+
+"I'll have a chance to read all this later. Where's our prisoner?"
+
+"The garden shed. Where we dropped off the last one."
+
+"You can't use the same place twice! People can be watching it!" She had trained them, she said, better than that. "Tell me you at least disguised him with some mustache paste."
+
+Riven assured her that they had been so convincing, the man had turned from his evil ways. Kora mentioned that there might have been some locking of him in a chest at one point.
+
+"That never happened," said Riven.
+
+Mira said that she would have to let **Elara** know, and get a couple of the Preservers down here, in case they were needed. Somewhere in the company's packs was a register with two entries that read only *For the Preservers*.
+
+He had an idea, he said. Why didn't Mira and Kora go to the shed and collect the prisoner, and he would stay here and mind the house.
+
+Mira looked at him.
+
+Somewhere between the old cemetery and Hesk's cellar stairs, all four of them had become a little harder to kill. In the South Bank, that is the only promotion there is.
+
+*Session of October 17, 2026.*

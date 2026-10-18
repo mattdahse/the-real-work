@@ -91,6 +91,8 @@ Brought over after session 1, keyed to their Cast names and wired into `PORTRAIT
 | **Hesk Dolvan** | [`hesk-dolvan.webp`](hesk-dolvan.webp) | Adversaries |
 | **Alia Dolvan** | [`alia-dolvan.webp`](alia-dolvan.webp) | Adversaries |
 | **Emmet Rook** | [`emmet-rook.webp`](emmet-rook.webp), brought over after session 2 | Under the South Bank |
+| **Anselm Vauk** | [`anselm-vauk.webp`](anselm-vauk.webp), brought over after session 3. Six fingers on the raised right hand, noticed at the table and written into Chapter III | Adversaries |
+| **Gerrit Bask** | [`gerrit-bask.webp`](gerrit-bask.webp), brought over after session 3 | Adversaries |
 
 Available in the module and **not** brought over yet, because the company has not met them:
 `sera-dolvan`, `corin-dolvan`, `dolvan-infant`, `yard-dog`, and the whole of the manor cast.
