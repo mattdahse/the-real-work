@@ -110,3 +110,22 @@ Commission* records. The chronicle follows the table in every case below; Matt r
 - **The six fingers.** Anselm Vauk's portrait shows six fingers on his right hand. The table
   noticed and Chapter III says so. If that was a painting slip rather than a choice, the portrait
   and one sentence in Chapter III change together.
+- **Who sent them west.** The module's debrief has Mira take the company to the shed, Elara
+  come to Mira's back room in a plain cloak, and Elara commission the halfway house for forty
+  gold and the Preservers' writ. At the table Elara summoned all four to her office on **Paradise
+  Hill** the next afternoon, told them to report to her, and offered only expenses for credible
+  information; **Mira** gave them the job herself, off the oiled-linen map, for three hundred gold
+  apiece on their return and two jars of moustache paste for Diddle. Chapter IV follows the table.
+  Anselm's account of the halfway house, Ostrander Gell and the unclaimed purse never came up.
+- **The Waiting Cairn.** The module puts the fight at the last cairn at dusk, the wolves
+  sitting up waiting, and the party camping there to see the manor at dawn. At the table the
+  wolves were harrying the man on the cairn when the company arrived, and the company pushed on
+  at dusk the same day to the ruined village and the manor itself. Chapter IV follows the table.
+- **Garth Wyle.** The module has him live, draw the house in the dirt, and go where the company
+  sends him. At the table he was never asked his name and never drew the house; Kora's mage hand
+  touched his shoulder, Diddle bombed him and Dorogh killed him with the longspear. Chapter IV
+  names him once, in the narrator's voice, from the module. **Tam's** remains and disc were not
+  found. If the name should stay unpublished until the company learns it, strike the one
+  sentence in Chapter IV and the Cast entry together.
+- **Which way the last pole pointed.** At the table the pole north of the cairn was first said
+  to face northeast, and the manor was then put to the northwest. Chapter IV gives no bearing.

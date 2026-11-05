@@ -1186,3 +1186,369 @@ Mira looked at him.
 Somewhere between the old cemetery and Hesk's cellar stairs, all four of them had become a little harder to kill. In the South Bank, that is the only promotion there is.
 
 *Session of October 17, 2026.*
+
+## **Brush Off Your Shoulders**
+
+*November 4, 2026 session. A summons to Paradise Hill, a sandwich for the Gardener, a road of iron hoops, three wolves, and a man who kept looking behind him.*
+
+<!-- inworld: approx 29 Neth 4713 to 1 Kuthona 4713 -->
+
+<!-- fathom: none; recorded by Fieldy, conversation=01a1a92d-b225-735e-a735-842b7495ebd4 -->
+
+### **Theft Prevention**
+
+**Mira Thistledance** did what she does with a prisoner. She put a little of the moustache paste under **Anselm's** nose, as a disguise, and he begged for death, and was taken away to wherever the Gardener keeps the people she is deciding about. The company were paid. They were told they would be sent for when there was a new mission. They agreed, among themselves, that they were done with her for as long as she would allow it, and understood that she was not done with them.
+
+They went home. **Kora Sjon** found a sharp object waiting on every seat in her house: a nail standing on its head on the kitchen chair, a pin on the stool, broken glass on the cushion, laid out with the care of a child preparing a teacher's chair. She cleared them without comment. She has long since learned to tip out her shoes before she puts her feet in them. Her trade has fallen off since the visions stopped coming true. She still gives advice. She reads people now instead of futures, and finds it pays about the same.
+
+**Riven Maelus** went back over his spellbook, and found that the most exotic thing any of his workings asked for was a scrap of cured leather. An old boot sets a wizard up for months. In the morning he went to the library to read up on local lore, which is where nobody could find him.
+
+**Dorogh Kell** did push-ups. There is no gymnasium in Drezen. There are training grounds for the guards and the Preservers, and there is a house with heavy things in it, and Dorogh lifted them.
+
+**Diddle Scribes** went to his master. The potion with his own handwriting on its tag had not been sold. It had walked out of the storeroom behind the shop, and the Labyrinth's ledger said otherwise. **James Helmsmith** heard him out and began at once to wring his hands. They must stop this, he said. And then, brightening: what if they poisoned some of the stock, and simply made sure never to sell those bottles? Then whoever stole them would have to come in and buy antitoxin, and then they would have them. Diddle was entirely in favour. His master cracked his knuckles, said he knew just the thing, and went to work.
+
+It was asked, later, whether whatever the Gardener has is catching.
+
+### **Paradise Hill**
+
+By late afternoon the Preservers had come for them, one at a time.
+
+The first knock was at Kora's door: a young woman in scale mail with the sword of **Iomedae** at her throat, who asked very politely whether Kora would mind terribly coming up to **Paradise Hill** to speak with **Elara of the Preservers**. Kora knew the name. Elara Dawnstrider is the captain of Iomedae's knightly order, which is to say the nearest thing Drezen has to an army. Kora asked whether she had a choice. The young woman shrugged. She had not been told to drag her there, she said. But if she went back without her, other people probably would be. Kora went, and the young woman looked relieved.
+
+Dorogh's escort was a stocky young man in a helmet that did not fit him, which Dorogh had seen before on somebody else. Diddle's was a tall, slender man in chain who looked down, found a goblin, and was taken somewhat aback.
+
+"You are Nightshade, right?"
+
+"Who's asking?"
+
+"Elara Dawnstrider. By proxy." He looked at him again. "You don't look like a nightshade."
+
+"You don't look like a human," said Diddle, "but here we are." He asked whether he might interest the man in some potions while they were at it. The man asked whether he had any cologne. He had a date later. Love potions, perhaps. They could talk about those.
+
+Riven took longest to find. Somewhere near the end of the afternoon a Preserver in a tabard over studded leather came into the library at a run, looked left and right, and was about to leave when he saw the tiefling hunched over a book at the long table. He had been to a hundred doorways that day following rumours. He was sweating.
+
+"Are you Daisy?"
+
+Riven raised one finger. The young man waited. Riven turned a page, and put the book down.
+
+"Do I look like a daisy to you?"
+
+Then he stood up and walked slowly round the young man, examining the stitching on his tabard with every appearance of expertise, in the manner of a cat. A house cat, not a large one. The young man took half a step back and explained that it was really Elara who needed him to go up to Paradise Hill, and that he would take him there.
+
+"Oh, I get an escort. Am I supposed to tip you?"
+
+"No, sir. It's not necessary." A pause. "Although I'm not forbidden from accepting tips."
+
+Riven put every book back where it had come from, because it was a library, and then asked what they were waiting for.
+
+The road up Paradise Hill is a long switchback track. At the top it passes between two temples, **Sarenrae's** on the left and the house of the united faiths on the right, and comes to a formal gate where each escort nodded to the guards and was let through. Beyond it is a parade ground of flat stone marked out for formations, a small and understated temple to Iomedae on one side, and on the other a barracks and office building that dominates the compound. The whole of it is walled. Every line in it is straight. Somebody is on weed duty, because there are no weeds.
+
+On the way across, Riven asked to use the privy. He went in in his own clothes and came out in a white tabard with a red sword on the breast, stitched in cheap red thread, off a peg in a cult's costume department under the South Bank. His escort watched a series of feelings cross his own face: confusion, then concern, then anger, then worry. In the end he took a deep breath and said, to himself, "I gotta do my job."
+
+"Blessed be Iomedae," said Riven, and walked on.
+
+### **The Waiting Room**
+
+They arrived in the order the Preservers had found them: Dorogh first, then Diddle, then Kora, and half an hour behind everyone, Riven. There was a row of three chairs, a closed office door, and one guard in front of it with a spear, who had clearly been told to stand there like a statue and be intimidating, and was finding it difficult.
+
+The difficulty was Kora. She sat with her hands in her lap and a small working of hers tapped the guard on the shoulder. He brushed at it and looked round, and remembered himself, and decided he had imagined it. A few minutes later it tapped the other shoulder. He tried to look at it by moving only his eyes. The third time, he spun round and faced the wall, sure that somebody was behind him.
+
+Then he turned back and began, quite methodically, to find a suspect. He considered the orc with the spectacles, narrowed his eyes, and ruled him out: too much armour to be quick. He considered the tengu, who has a beak and therefore the finest face for cards in Drezen, and could not read her at all. Then he looked at the goblin, and his face settled.
+
+Diddle had no idea what was going on. He gave the guard a thumbs-up. When the guard glared, Diddle waved, and kept on waving, on the principle that he would kill him with kindness, and for the rest of the wait his hand stayed up. Dorogh attempted small talk. How long had he been a guard? He had a spear there, did he? Each time the tapping came, at the ribs or the knee or the collarbone, the guard brought the butt of his spear down on the flagstones with a crack, as though it were the only word he was allowed. Dorogh, noticing the way the man kept looking at Diddle, wandered over and stood squarely in the line between them.
+
+"Diddle, I think that guard doesn't like you."
+
+"It's okay," said Diddle, waving. "I'll kill him with kindness."
+
+When Riven was shown in at last, wearing the tabard, the guard blinked twice and looked at Riven's escort. Riven's escort shrugged and left a little faster than he needed to. The guard turned and knocked on the office door three times, exactly evenly, the gaps between the knocks as measured as a drill.
+
+A woman's voice said, "Enter."
+
+### **Elara**
+
+The office was sparse. The desk was a table: a flat piece of wood on four legs, every corner a right angle, not makeshift but not one ounce more than it needed to be. On it stood neat stacks of paper, and each stack was covered by a blank sheet with a stone on top. There was one chair in the room, behind the desk, plain and unpadded, and it was hers.
+
+**Elara Dawnstrider** stood behind it in full plate of gold. It was covered in spikes, and none of them were ornamental. They were there to ruin anything that tried to take hold of her. There were short barbs at the knuckles of her gauntlets and wicked curves at her shoulders. Her helm sat on the desk. Against the wall behind her leaned a long spear with a carved haft and a light in it. She is five feet nine, which is tall for a human woman, and she waited while they lined up in front of her.
+
+Riven had spent his evenings in a library to some purpose. He knew that among Iomedae's faithful the salute is a fist to the breast, and he gave it, and came to attention. The others copied him as best they could.
+
+Kora was standing a good eight inches clear of the desk when the inkpot tipped over on its own and began to run toward the papers. Elara looked down at it, and up at Kora specifically, with an expression of complete and perfect disdain. Then she moved the papers, took a handkerchief from a pouch, laid it over the spill, and it was as if it had never happened.
+
+She drew a sheet out of the middle of a stack and read from it. "Nightshade. Tulip. Daisy. And Lily. Do I have the right people?"
+
+Somebody said she could call him Farmer, if she liked. She did not appear to like.
+
+"Riven. I understand you've been recruited by Mira. Is this true?"
+
+"I can neither confirm nor deny that statement," said Riven, in a Preserver's tabard. "I wish I could deny it." And then, as an afterthought: "I have no idea who that is."
+
+Mira, Elara said, seems to think she is above the law. She had been hearing about operations carried out under Mira's auspices against cultists on the **South Bank**. Somebody asked whether there had been a reward. "Answers, please." Kora asked whether they might go and ask Mira whether they were allowed to discuss it. "The fact that you have to ask," said Elara, "tells me what I need to know."
+
+Those operations would go through her office from now on. If they wanted to be immune from the law while they carried them out, the operations had to be sanctioned. Riven took this to mean that she would be paying them.
+
+"Oh, she pays you as well? Interesting."
+
+Dorogh felt that the record ought to be set straight. They had not done that much crime, he said. If anything, they had saved a family at the junkman's place. And they had disposed of some cultists who worshipped, what was his name, the goat one. Balthazar.
+
+"**Baphomet**."
+
+"Yeah, that one." They could show her where. The sacrifices had been very bloody. If anything, he said, she might want to thank Mira.
+
+Elara allowed, as much as she loathed to, that he was right. Mira was uncovering what appeared to be real demonic infiltration of the order. She had shown Elara evidence that at least two of her own Preservers might have been compromised. Somewhere in the company's packs was a register with two entries that read only *For the Preservers*. Elara owed Mira that. But she would not have the company running roughshod over the laws of **Drezen**. For some reason, she added, Mira had put her on some kind of need-to-know list. Some of the reports she had been sent were redacted. The audacity.
+
+She would deputise them for certain missions that might permit them to skirt the law. Riven asked why she did not simply deputise them now and save herself the trouble, since they would otherwise be knocking on her door every ten minutes, the way that lady ran about. She said she would station someone near each of their houses to take their reports instead. If they gave her credible information, she would help with their expenses.
+
+"What are we doing, guys? Are we breaking the law?"
+
+"You are not breaking the law."
+
+"You're absolutely right, Your Highness."
+
+Dorogh asked which law they should go and enforce first. They were not to enforce any laws either. They were not to be seen with her in daylight. They were to report to her whenever Mira asked them to do anything. Was everyone clear?
+
+"So we're not allowed to break the law," said Dorogh, "and we're not allowed to support the law."
+
+"That's right. You're private citizens. Do you want a job? Join the Preservers."
+
+"Yes," said Riven. "I would love a job."
+
+"We're hiring paladins right now. Would you like to take your vows today?"
+
+Riven said he would, but that he would have to give a few weeks' notice at his last job. She did not look amused, and waved him away with one hand. It would be up to the rest of them, she told the others, whether they reported to her. But she would know if they had not, because sooner or later Mira would send her a report of whatever Mira thought she needed to know, and if she had not heard it from them first, she would find a way to enforce the law a good deal more stringently than it required.
+
+Diddle informed her, in that case, that they would not be donating any more medical supplies to the garrison. Elara said she was aware of his little operation, and that it was hardly the cornerstone of the order's supply chain. Merchants talk to each other, she said. That was one of the reasons she tolerated Mira at all.
+
+Dorogh had one more question. If they came upon a family about to be slaughtered, should they break the law by taking a life, or run and make a report?
+
+"Well, clearly," said Riven, "we have to run and do the report, wait for permission, and then we intervene."
+
+"Then the family's not there any more."
+
+"Well, I think they'll be okay," said Riven, "because Elara told us it's okay, and we're not going to break the law. I will report to you everything. Thank you, ma'am."
+
+She rolled her eyes and waved them all out, and her gauntlet clanked. In the anteroom Riven asked the guard to go back in and let her know, since she wanted to be told everything, that he needed the privy. The guard did not bother Elara with it. Diddle waved at him all the way to the door.
+
+### **Daisy Chain**
+
+The obvious next move was to tell Mira, and see what happened. Riven pointed out that Mira was so taken with conspiracies at the moment that if she heard the head of Iomedae's order was moving to stop her doing her job, the two of them might simply be set at each other. He was of the view that Elara was plainly in league with the cult. He had a tabard to prove it.
+
+First, though, sandwiches. There are no sandwich shops in Drezen. There is free bread, a loaf a day for life, from a baker whose daughter they once kept alive, and there is a butcher who will slice cooked meat very thin if asked. They assembled the sandwiches on the hoof and bundled them in waxed cloth, and somewhere between the butcher and Mira's door the company very nearly founded a business. The demand was plainly there. Kora would serve no poultry. Any customer who could prove membership of a cult would receive ten per cent off, and have his name taken down.
+
+At Mira's side door the slot slid open on a pair of eyes, found three faces at the right height, and then pressed itself to the slot to look down for the fourth.
+
+"The password is *Daisy chain*."
+
+"Daisy chain?" said Riven.
+
+"I'll take it." She let them in, went straight back to her wall of notes and red yarn, and began moving pins. "How was your meeting with Elara?"
+
+Diddle came up on the tips of his toes and offered his sandwich at about the height of her knees. She looked down at it. "What is that?"
+
+"It's to make the news go down a little better."
+
+She took it. "An unexpected food gift from a goblin alchemist," said Mira Thistledance, spymaster. "What's the worst that could happen?" And she took a large bite.
+
+Riven held up the tabard. They had found it, he told her, among the cult's things. Elara seemed to be in charge of the people wearing it. She was claiming some of them had been got at. He thought she was behind it. And he walked over to the wall and began moving the pins about, because some of these were plainly in the wrong place.
+
+He did not see her cross the room. There was a rapier in her hand, and frost forming along its blade, and it was not at his throat but it was close enough that it could be.
+
+"I wish you wouldn't touch those things."
+
+It was the most serious anyone had ever seen her look. Riven said no offence, he had only been trying to help, and went and stood at a distance and ate his sandwich. The rapier went back into its scabbard with a hiss, and Mira went back to hers.
+
+She did not have a standing army, she explained, pointing at the wall with the hand that had lately held the sword. If an operation grew beyond what her agents could handle, she had to bring Elara in. Elara had blown it all out of proportion, and now wanted in on every little thing. There were things Mira did not trust to the chain of command. There were things Mira knew that the company had no need to know yet. There were plans within plans. There were conspiracies inside riddles, and there were enigmas involved. Did they see all this yarn?
+
+They did. It looked like a mess.
+
+"Mira," said Dorogh, very seriously. "We understand things are complicated. What do you want us to tell her?"
+
+"Here's what we'll do. Whenever I give you an operation, if there's something I don't want you to tell her, I won't tell you." She beamed. "That's the only way I can be sure she doesn't know it."
+
+"Is this going to be a really quiet assignment, then?"
+
+"Well, the good news is, it's an out-of-town assignment."
+
+She unpinned the oiled-linen map they had carried out of the cave at Drezen's back door and slapped it down on the table. Diddle slapped it too. She put her finger on a part of it where there was nothing at all.
+
+"You're going here. At least, I think it's there." The notes in the margin, she said, spoke of a line of poles beginning at the foot of the rope ladder. Follow them. It was perhaps a day out. "Which puts you right about the edge of the Grace."
+
+Drezen lives inside a bubble ten miles across, cast by the banner of the **Sword of Valor** that hangs in the citadel. Inside it, the demons are held off, the weather is weather, and the ground does not try to kill anyone. Locally it is called **the Grace**. Outside it are **the Marchlands**. Riven, alone of the company, has crossed the Marchlands, more than once, and always with a caravan or a guard, and never on foot with three friends. The idea gave him the willies. The Marchlands teem with demons and cultists and worse things. There are places where the **Abyss** simply bleeds through. There are rifts that open and close as they please. He had heard of a flood that came out of nowhere one afternoon because something had opened under an ocean on the far side, and of what had been swimming in it.
+
+Somebody asked whether this was her way of getting rid of them. It was not, said Mira. She had only what she could infer from the stores the cult had laid by and the note on the map that said a day's march. The cultists hadn't looked equipped for a real Marchlands expedition, so it was probably just inside. But they would tell her. She wanted that map filled in by the time they got back.
+
+"If we get back."
+
+"If you get back. Of course. Assuming you survive."
+
+Riven said that he was very happy to take the mission, but that he would have to ask for hazard pay. This was not going down into tunnels. Mira sighed. He was right. She would double their pay: three hundred gold apiece, when they returned. And she would throw in an extra jar of moustache paste.
+
+Diddle asked whether he could have two. Alchemists are trained to throw anything that comes to hand, and he had been thinking that the paste, uncorked at close quarters, would stun a man stiff. Mira looked delighted, and gave him two.
+
+They were to gather provisions and leave as soon as they could. On the way out Dorogh observed that the sandwiches would have been better with cheese.
+
+### **Provisions**
+
+**Drezen Outfitters** did good business that evening.
+
+Riven, the company's only veteran of the Marchlands, bought ***cure*** potions for everybody on the principle that things hitting you hurts, and rope, because the company's last rope had gone through a tarp with Lutz. He had seven days of rations and recommended them. Then he passed on what every caravan master out there will tell you about **bowel worms**.
+
+A bowel worm is a ropy parasite about the width of a little finger, with a mouth at each end. It spends a few hours in the gut and then tries to eat its way out through the belly, and it brings on a violent flux while it is about it. Its eggs get into anything left out in the open in the Marchlands for long enough. The advice is simple. If you did not bring it with you, do not eat it. If you brought it with you, and set it down, and lost track of it for ten seconds, do not eat it. If you have a cleric who can purify food and water, have her do it.
+
+Kora can.
+
+It was agreed that everyone would be very, very nice to Kora. It was further suggested that if anyone did catch them, the others should do the merciful thing quickly rather than make him go through the full course, and somebody asked whether they ought to write their wills. Somebody else asked whether anyone wanted a buckler.
+
+Riven proposed that everyone carry a signal whistle, since out there one tends to lose sight of the others, and he normally crossed with far more people than this. He filled a pouch with graveyard dirt, for a working that finds the dead. Dorogh weighed the chain shirt against the scale mail, kept the heavier and better, and was very much aware of it. Diddle looked at a draught against the weather, and something told him to take it, and he did not. Kora asked about the blue scarf with the white stars, the widow's, which she had carried out of the cult's dressing room. Nobody had a use for it. It did not suit her feathers. It went into Riven's bag in case.
+
+The outfitter would not buy the horned helm. It was not gear, he said. In the end he agreed to take it as armour, which it had never been. He was reluctant about the silver bars with their stamps half filed off, for reasons that were not hard to guess, and took those too. Riven took off the tabard and put it back in his pack, on the grounds that if he wore it out there the demons might get the wrong idea.
+
+They waited for the morning. Then they went down through the tannery for the fourth time, along the tunnels, under the torches across the cavern where nothing came down, threw the ladder through the wall that is not there, and climbed out onto the cliff.
+
+### **The Pole Road**
+
+It is sixty feet down, and it is cold in the cave behind the wall, and it is a great deal colder on the face. There is a little shelter from the wind between two shoulders of rock, but not enough. Their cloaks tangled about their legs on the rungs. By the time they reached the bottom they all felt they were freezing and wanted shelter, and there was none: a shallow scoop in the foot of the cliff where four people could huddle for a moment out of the wind, invisible from the watchtowers on either side, and beyond it the Marchlands running away south, a dry and wind-scoured steppe of rock and skeletal winter trees, with old snow gone brown and crusted in the shade of the stones and a sky the colour of a bruise.
+
+The map was not much of a map. It showed where Drezen was. In the margin it said *pole to pole* and *one day's march*, and there was a small drawing of a stick with a loop at the top, the loop turned on its side like a short tube.
+
+It was Diddle who found the first one, because he looks at walls: an iron spike driven into the cliff eight feet up, near the corner of the rock, with a ring at its head turned so that it looked out across the plain. There was a ledge below it where a man of ordinary size could get a foot up and his eye level with it. Riven lifted Diddle onto his shoulders instead. Through the ring, at the very edge of seeing in that overcast light, there was a hilltop most of a mile off, and on the hilltop the dead upright stems of something like a great cactus.
+
+They walked to it in half an hour, and nearly tripped over the next pole, which came up out of the ground beside the cactus only a hand high. To look through it, a man would have to lie down with his shoulder on the earth, and it could be sighted either way, east or west.
+
+Riven, as the tall one, had been looking through the high ones. It was agreed that he would take the low ones too. He lay down. He is sharp-eyed, and he did not see the fire ants until he was lying on them.
+
+It was cold, and they were sluggish, and they bit him unmercifully anyway. It did him no lasting harm, but he would itch for the rest of the day. He said, "Well, I found something at least," and put a ray of frost into the mound, and said a number of quiet things to it. This scattered the ants and annoyed them. He tried a flask of acid next, which left a puddle of acid where he needed to lie. Kora helped by filling the anthill with water. It flooded at once, and now they had wet fire ants.
+
+"I was going to offer to lie down," someone said, "but now you've made such a mess of it."
+
+Then Riven had an idea. He took out his winter blanket and laid it over the anthill, and lay on that.
+
+East to west, the ring showed the broken remains of a stone wall far off. West to east, it showed what might once have been a palm tree, and was now a pole with bark on it. The map was consulted, and Dorogh said, with feeling, that it was useless. Kora took it and agreed. Then Diddle walked over and turned it the right way up.
+
+"You guys want to look at the back of it?" The markings were on the other side. Drezen was at the eastern edge of the sheet. Everything else was west.
+
+The crumbling wall was a long walk and not a straight one, over dips and gullies, and it had once been a house. The only part still standing more than a few bricks high was the chimney. The pole there came up to the waist, and through it they could see the next one, on a riverbank, close enough to make out.
+
+After that it went more easily. The poles were never where they could be seen from far off. They stood beside things, a rock or a stump or a fold of ground, so that they showed from one direction and not from others, and each one lined up on some landmark that could be found again after you took your eye off it. They ran in different heights. The company settled on a system. Riven held Diddle up for the tall ones and lay down for the short ones, and it was a bad system, but it was a system.
+
+It stayed bitterly cold. There was no rain and no hail, for which they were grateful, and a light wind that went straight through every cloak. Dorogh was dressed for it. Riven, who is a tiefling, felt it less than anybody, and so it was Riven who gave Kora his winter blanket. She protested at length that she could think of no good reason to suffer under the unbearable weight of a warm blanket, and wrapped herself up in it. Somebody suggested a little moustache paste, to keep her lip warm. Kora pointed out that she does not have a lip.
+
+### **The Cairn**
+
+Around five o'clock, as far as anyone could judge the sun behind that sky, it was Kora's turn at the ring, and she saw the cairn.
+
+It was a heap of stones perhaps seven or eight feet high, a good way off to the west, and there was a man on top of it. He was throwing rocks down its side at something, and through the dust blowing at its foot she thought she could make out a dog. Under the wind there was barking, and shouting.
+
+Diddle said that goblins do not hold with dogs. Kora said she loved dogs. Diddle said that was fine; he wouldn't be helping, and he would not set it on fire. Intentionally.
+
+Two hundred yards off, coming over a rise, they could see the whole of it. There were three of them, and they were not dogs. They were big wolves, ranged round the foot of the cairn so that they stood equally spaced, and they were making false runs at the man on top: up the stones and away again, one after the other, never giving him time to recover from the last. He was ragged and bloody and tiring, which for the wolves was the point. They had not noticed the company at all.
+
+The plan was to shoot one and let it bring the others onto Dorogh's spear. Riven had already wrapped himself in force before anyone had finished discussing it, and now laid a shield over it. Diddle went forward until he was in range, and put a bolt into the nearest wolf's hindquarters. It yelped, and turned, and its eyes flashed red.
+
+Dorogh dropped his pack, loosed, missed, and then gave a tremendous shout to draw them, and changed his crossbow for his longspear, and took his place, by no accident at all, between the wolves and the goblin. The man on the cairn had still not noticed any of them. He threw a rock and it went very wide. Kora dropped Riven's blanket on Dorogh's pack and came up to shoot, and missed. The wolves came on slowly and low to the ground, ears flat. The red light in their eyes was not the sunset.
+
+Diddle reloaded and put his second bolt into the first wolf's neck, and it went down kicking at the shaft with a hind leg, the kicks growing weaker until it lay panting and was done. The man on the cairn finally hit something, a good solid rock to the flank of another wolf, and looked very pleased about it. Dorogh's spear went wide. A wolf went for him and missed. Riven laid ***grease*** under the forward wolf, ignoring the ant bites all down his back to do it.
+
+Then the next wolf looked at Dorogh. It made its body into a spear: nose at him, tail straight out behind, legs gathered under, and it locked its eyes on his and he could not look away. Pins and needles started at the ridges of his eye sockets and ran back over his skull and down his body. Every hair he has stood up. He felt a terror without bottom or reason, and was suddenly certain, with his whole body, that if that thing's jaws closed on him he would not get up again. He found out how frightened a man can be and stay standing, and it is a good deal, and a little of it got out. Then the wolf charged, and came into the grease, and crossed it at half the pace it meant to, and did not reach him.
+
+Diddle shot it in the chest. It screamed. It was very nearly a human scream.
+
+"You're welcome, Dorogh."
+
+Dorogh took a step back, so that the spear had room to be a spear, and put it into the last wolf's foreleg. The wolf looked at him the way the other had and he felt it all again, and it lunged for him out of the grease, and its feet went from under it and it fell. Kora held her shot for it to rise. Riven drew two daggers and declared his intention of wrestling a greased wolf on the ground, and was asked why, and did not fully explain, and shot at it instead, and missed. Diddle missed as well, which was noticed, because it was the first time. Then Dorogh finished it.
+
+It was by now generally agreed that the goblin was the hero of the battle. Someone asked what the rest of them were there for.
+
+"Cover," said Diddle.
+
+"I make an excellent pile of meat," said Dorogh.
+
+Dorogh went round and made sure of each of them with the spear. When the first one died, a cloud of dark motes, like midges, curled out of the wound and up into the wind and was gone. Out of the second came a grey fog so thick it poured like oil, and ran down into the dust, and soaked into the ground. The third gave up nothing that could be seen, only a stench of sulphur that sent him back coughing. Kora was not surprised. They had been born wolves, she said, and the Abyss had got into them, and now they were not quite demons, but they lived next door.
+
+Riven observed that this sort of thing was part and parcel of the Marchlands, and that it was the least of what was out here. "Nothing like running into some cousins."
+
+### **Brush Off Your Shoulders**
+
+The man on the cairn had found a hand axe among the stones and was holding it, and showed no sign of coming down.
+
+He wore a mustard-yellow coat with one sleeve torn away, and his left leg was bound from ankle to knee in a strip of it gone black with old blood. The axe was a tool more than a weapon, notched and resharpened and notched again. He had not shaved in some days, or slept. At his throat, on a thong, was an iron disc hooked and stamped with a maze.
+
+Diddle went forward with a potion held up in front of him like a lantern.
+
+"Brother! We found you! We heard you were in trouble!"
+
+The man narrowed his eyes at him. He looked at the bottle, and at the goblin, and at the length of the goblin's shadow. Then he turned his head and whispered something over his shoulder to the empty stones behind him, and turned back.
+
+"Brush off your shoulders."
+
+Diddle brushed off his shoulders.
+
+It seemed to comfort the man enormously. A great deal of the tension went out of him, and he came down off the cairn, mostly on his backside, in a slide of loose stones. He had pulled so many out of it to throw that it was hardly a cairn any more. At the bottom he tucked the axe through his belt and held out both hands.
+
+"Please. Please, if that's healing, give it to me. I'm on the verge of death here."
+
+Diddle did not want to touch him, on account of the worms, and tossed it to him underhand. He caught it, pulled the cork with both thumbs, and turned his face up to the sky and gulped it down. Some of his wounds closed. He still looked ragged and grisly and very far from well, but he stood a little straighter. Then he turned and spoke over his shoulder again, a hoarse whisper nobody could make out, and turned back.
+
+"Who sent you?"
+
+"We're from the people in the tunnels," said Diddle. "Under the scrapyard."
+
+The man was not listening. He was looking at Diddle's left shoulder, and then his right, and bobbing his head from side to side to be sure there was nothing on either. Kora asked whether he was all right, since he seemed to be expecting something. He slapped at his own shoulder and checked the other.
+
+"Why'd you say my shoulder? What do you know about my shoulder? What did you see?"
+
+He said they had to walk the path of poles. They had to go back. They had to get to Drezen. They had been waiting out here at the rendezvous with the camp, and they couldn't go back there, because **Ysolde** was taking them. She was beating them to them. They had to get out.
+
+Then he held up a hand, as if someone had interrupted him, and turned round, and said to nobody: "I'm trying to tell him, **Tam**."
+
+Diddle unrolled the map and asked him to point to the camp. The man crinkled up his face at it, as though the very idea of a map made no sense to him. "It's the pole road," he said. They had never been out there before? He nodded, much harder than anybody needs to nod, and turned his whole body round to the empty air behind him.
+
+"Tam. This is their first trip out there. We have to warn them." He listened. "No. We're not going to feed you to them. That wouldn't be right."
+
+He turned back and reached down for Diddle's shoulders. Diddle backed away. The man held his hands up, palms out: no harm meant.
+
+"Look. You can't go there. You can't go there. They're just going to feed you to the swarm. This is all bullshit. It's not worth dying for."
+
+Asked about Ysolde, he said he did not know that it was a person. He did not think it was her any more. "She's got something on her shoulder." And he patted his own. Then he stopped, pulled off a boot, and scratched at his ankle until it bled, furiously, as if something were in there, and pulled the boot back on.
+
+Kora's small working, the one that had tormented the guard on Paradise Hill, touched him on the shoulder.
+
+He turned round three times and fell down. He scrabbled the axe out of his belt and beat at his own shoulder with the flat of it, over and over, down on one knee in the dirt, as if trying to kill something that was sitting there.
+
+Dorogh caught Diddle's eye, and lifted the longspear a little. If Diddle didn't, he would.
+
+Diddle threw a bomb. It went behind the man, and the fire caught him only at the edge. He did not know where it had come from. "They found us," he cried. "Hide. Hit the ground. Run." He did not know what he was saying.
+
+Dorogh was willing to touch him with a ten-foot pole, and no closer. He put the spear through him and pinned him to the ground.
+
+The man looked up at him along the shaft, gasping. "They got to you," he said. "They got to you." There was blood in his mouth. His eyes went glassy, and he died.
+
+Dorogh waited for something to come out of him. Nothing did. Whatever had been wrong with him, it had not been a demon. He had been, as somebody put it, a regular guy, and somebody else said that regular was a strong word. Dorogh cleaned the end of his spear very thoroughly in the dirt, trusting to the sanitising power of the Marchlands.
+
+His name, as it happens, was **Garth Wyle**. Nobody asked it.
+
+It was some while before anyone mentioned Elara. Then it was agreed that they had broken no laws, the Marchlands being outside them, and that this had been a natural death, given where the spear had naturally been. Honestly, said somebody, they were heroes.
+
+### **The House**
+
+Diddle voted to go home. He had already set down on the map everything the man had said, and the camp marked up the pole road where he reckoned it must be, and he felt that this was a day's work. The others outvoted him. They had been sent to verify, and they had not verified anything. Diddle gave them the stink eye, did not argue, and reminded them who the hero of the last battle had been.
+
+North of the cairn, beside a tree stump, was the next pole. Through it, very far off, there was a rooftop.
+
+It was getting dark. It had taken them all day to come this far, and it would take all night to go back. There was nowhere to stay. Riven, who is the nearest thing the company has to a woodsman, went looking for a campsite, and found one, and the others pointed out that it was completely exposed, had no shelter from the wind, and had another anthill in it. Kora asked him why he always wanted to lie down on an anthill. Riven pointed out that he was still better at this than any of them, which was true, and was not saying much.
+
+Closer, the rooftop was one of many. They had come out onto the edge of what had been a whole village of stone, low walls and the shells of houses standing up out of the steppe like outcrops of rock, and at the far end of it a great building. A thin grey thread of smoke went up from one of its chimneys. Somebody in there was keeping warm. In the fading light there was no glow at any window, but there was the smoke.
+
+They had a bedroll or two among them, a blanket, Riven's cold blood, and not much else. A fire would have helped and would have been seen. The ***everburning torches***, it turned out, give light and no heat at all. The company was still debating where to sleep, and who could share with whom, and whether the goblin would fit in a bedroll with somebody, when Diddle said, "Screw this. I'm going to go check out the building," and went.
+
+He went without a light, because he does not need one, with an elbow up against the wind, keeping to the hollows. Dorogh dropped his pack behind a low wall in the ruins and crouched there with his knuckles on the ground, watching, ready to go. Kora checked the ground very carefully for anthills, found several, and put her bedroll down among the ruins where none of them were. Riven cleared a flat place of stones, built himself a windbreak, and made his bed. He had cast all he had to cast for one day. He was tired. Diddle, he said, would be fine. Diddle was a sneaky bastard.
+
+The building was a manor. It must once have been a great and lordly house, where important people lived and looked after the lands about them, and were looked after themselves, by servants, in every particular. Now it was falling down. At this distance the air smelled of burning dung, and of something else under it that Diddle could not name and did not like. There was something wrong about the air near that house.
+
+In the middle of the south wall, where the great door should have been, was a door made of scraps of wood, with no windows anywhere along that face. Firelight flickered through the cracks. There were a great many cracks. A creature Diddle's size could have gone through it on his hands and knees without opening it.
+
+He drank a mutagen that sharpened his hands and his reflexes, and an extract that laid a faint shield of warding over him. Then he crept up to the door, put his eye to a gap between two boards, and looked in.
+
+There were people inside.
+
+*Session of November 4, 2026.*

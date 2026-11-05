@@ -11,7 +11,7 @@ $em = [char]0x2014   # em-dash by code point: never type it literally in a .ps1
 
 # The FG campaign lives outside the repo and differs per station (two Macs and a PC).
 $candidates = @(
-  (Join-Path $env:APPDATA 'SmiteWorks/Fantasy Grounds/campaigns/The Real Work/db.xml'),
+  $(if ($env:APPDATA) { Join-Path $env:APPDATA 'SmiteWorks/Fantasy Grounds/campaigns/The Real Work/db.xml' }),
   (Join-Path $HOME 'Library/Application Support/SmiteWorks/Fantasy Grounds/campaigns/The Real Work/db.xml'),
   (Join-Path $HOME 'SmiteWorks/Fantasy Grounds/campaigns/The Real Work/db.xml'),
   (Join-Path $HOME '.smiteworks/fantasygrounds/campaigns/The Real Work/db.xml')
