@@ -1195,6 +1195,8 @@ Somewhere between the old cemetery and Hesk's cellar stairs, all four of them ha
 
 <!-- fathom: none; recorded by Fieldy, conversation=01a1a92d-b225-735e-a735-842b7495ebd4 -->
 
+![Brush off your shoulders.](images/ch4-brush-off-your-shoulders.webp)
+
 ### **Theft Prevention**
 
 **Mira Thistledance** did what she does with a prisoner. She put a little of the moustache paste under **Anselm's** nose, as a disguise, and he begged for death, and was taken away to wherever the Gardener keeps the people she is deciding about. The company were paid. They were told they would be sent for when there was a new mission. They agreed, among themselves, that they were done with her for as long as she would allow it, and understood that she was not done with them.
@@ -1261,6 +1263,8 @@ Diddle had no idea what was going on. He gave the guard a thumbs-up. When the gu
 
 "It's okay," said Diddle, waving. "I'll kill him with kindness."
 
+![He would kill him with kindness.](images/ch4-the-waiting-room.webp)
+
 When Riven was shown in at last, wearing the tabard, the guard blinked twice and looked at Riven's escort. Riven's escort shrugged and left a little faster than he needed to. The guard turned and knocked on the office door three times, exactly evenly, the gaps between the knocks as measured as a drill.
 
 A woman's voice said, "Enter."
@@ -1274,6 +1278,8 @@ The office was sparse. The desk was a table: a flat piece of wood on four legs, 
 Riven had spent his evenings in a library to some purpose. He knew that among Iomedae's faithful the salute is a fist to the breast, and he gave it, and came to attention. The others copied him as best they could.
 
 Kora was standing a good eight inches clear of the desk when the inkpot tipped over on its own and began to run toward the papers. Elara looked down at it, and up at Kora specifically, with an expression of complete and perfect disdain. Then she moved the papers, took a handkerchief from a pouch, laid it over the spill, and it was as if it had never happened.
+
+![Complete and perfect disdain.](images/ch4-elara.webp)
 
 She drew a sheet out of the middle of a stack and read from it. "Nightshade. Tulip. Daisy. And Lily. Do I have the right people?"
 
@@ -1355,6 +1361,8 @@ He did not see her cross the room. There was a rapier in her hand, and frost for
 
 "I wish you wouldn't touch those things."
 
+!["I wish you wouldn't touch those things."](images/ch4-frost-on-the-blade.webp)
+
 It was the most serious anyone had ever seen her look. Riven said no offence, he had only been trying to help, and went and stood at a distance and ate his sandwich. The rapier went back into its scabbard with a hiss, and Mira went back to hers.
 
 She did not have a standing army, she explained, pointing at the wall with the hand that had lately held the sword. If an operation grew beyond what her agents could handle, she had to bring Elara in. Elara had blown it all out of proportion, and now wanted in on every little thing. There were things Mira did not trust to the chain of command. There were things Mira knew that the company had no need to know yet. There were plans within plans. There were conspiracies inside riddles, and there were enigmas involved. Did they see all this yarn?
@@ -1413,6 +1421,8 @@ The map was not much of a map. It showed where Drezen was. In the margin it said
 
 It was Diddle who found the first one, because he looks at walls: an iron spike driven into the cliff eight feet up, near the corner of the rock, with a ring at its head turned so that it looked out across the plain. There was a ledge below it where a man of ordinary size could get a foot up and his eye level with it. Riven lifted Diddle onto his shoulders instead. Through the ring, at the very edge of seeing in that overcast light, there was a hilltop most of a mile off, and on the hilltop the dead upright stems of something like a great cactus.
 
+![A bad system, but a system.](images/ch4-the-pole-road.webp)
+
 They walked to it in half an hour, and nearly tripped over the next pole, which came up out of the ground beside the cactus only a hand high. To look through it, a man would have to lie down with his shoulder on the earth, and it could be sighted either way, east or west.
 
 Riven, as the tall one, had been looking through the high ones. It was agreed that he would take the low ones too. He lay down. He is sharp-eyed, and he did not see the fire ants until he was lying on them.
@@ -1450,6 +1460,8 @@ Dorogh dropped his pack, loosed, missed, and then gave a tremendous shout to dra
 Diddle reloaded and put his second bolt into the first wolf's neck, and it went down kicking at the shaft with a hind leg, the kicks growing weaker until it lay panting and was done. The man on the cairn finally hit something, a good solid rock to the flank of another wolf, and looked very pleased about it. Dorogh's spear went wide. A wolf went for him and missed. Riven laid ***grease*** under the forward wolf, ignoring the ant bites all down his back to do it.
 
 Then the next wolf looked at Dorogh. It made its body into a spear: nose at him, tail straight out behind, legs gathered under, and it locked its eyes on his and he could not look away. Pins and needles started at the ridges of his eye sockets and ran back over his skull and down his body. Every hair he has stood up. He felt a terror without bottom or reason, and was suddenly certain, with his whole body, that if that thing's jaws closed on him he would not get up again. He found out how frightened a man can be and stay standing, and it is a good deal, and a little of it got out. Then the wolf charged, and came into the grease, and crossed it at half the pace it meant to, and did not reach him.
+
+![The red light in their eyes was not the sunset.](images/ch4-the-wolf.webp)
 
 Diddle shot it in the chest. It screamed. It was very nearly a human scream.
 
